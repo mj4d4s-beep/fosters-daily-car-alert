@@ -35,7 +35,8 @@ yarn-error.log*
 .vercel
 
 /dist/
-/build/
+/build/*
+!/build/sites-vite-plugin.ts
 /.wrangler/
 /outputs/
 /work/
