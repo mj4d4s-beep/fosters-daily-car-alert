@@ -3,10 +3,10 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Foster’s Daily Car Alert",
-  description: "Ranked dealer listings under $6,000 near Leverett, Massachusetts.",
+  description: "Ranked dealer listings at $5,000 or less near Leverett, Massachusetts.",
   openGraph: {
     title: "Foster’s Daily Car Alert",
-    description: "Eight dealer cars under $6,000 near Leverett, MA — ranked for a first-time driver.",
+    description: "Dealer cars at $5,000 or less near Leverett, MA — ranked first for reliability and safety.",
     images: ["/fosters-car-alert-social.png"],
   },
   icons: {
