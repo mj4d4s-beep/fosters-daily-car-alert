@@ -5,9 +5,13 @@ async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
   workerUrl.searchParams.set("test", `${process.pid}-${Date.now()}`);
   const { default: worker } = await import(workerUrl.href);
-  return worker.fetch(new Request("http://localhost/", { headers: { accept: "text/html" } }), {
-    ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) },
-  }, { waitUntil() {}, passThroughOnException() {} });
+  return worker.fetch(
+    new Request("http://localhost/", { headers: { accept: "text/html" } }),
+    {
+      ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) },
+    },
+    { waitUntil() {}, passThroughOnException() {} },
+  );
 }
 
 test("server-renders the complete daily alert", async () => {
@@ -15,7 +19,7 @@ test("server-renders the complete daily alert", async () => {
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
-  assert.match(html, /Foster’s Car Alert — August 10, 2026/);
+  assert.match(html, /Foster’s Car Alert — August 11, 2026/);
   assert.match(html, /Seven cars worth/);
   assert.match(html, /Best overall/);
   assert.match(html, /2012.*Mazda/s);

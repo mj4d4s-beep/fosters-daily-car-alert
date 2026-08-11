@@ -1,17 +1,285 @@
 {
- "updatedAt":"2026-08-10","priceCap":5000,
- "active":[
-  {"rank":1,"year":2012,"make":"Mazda","model":"Mazda3","trim":"s Grand Touring · 2.5L · automatic · FWD","price":4588,"miles":164960,"dealer":"Shelby Motor Cars","town":"Springfield, MA","rating":"Google 4.2 ★ · 687 reviews","vin":"JM1BL1W66C1580130","url":"https://www.cars.com/vehicledetail/83a5379c-9dea-437f-b4af-600992322634/","image":"https://platform.cstatic-images.com/xxlarge/in/v2/607994e8-ad93-532c-8456-910bf278c4e2/005b2bdf-05ea-42cb-b2e7-96cbb169dbb7/aID27QlmUw3hmgTvVOi7cTdcLug.jpg","tag":"Best overall","reliabilityLevel":"Stronger","reliability":"The 2.5L and conventional automatic have a generally durable record, but 165k miles makes rust, suspension wear, mounts and maintenance history decisive. The listing reports an accident, so inspection is essential.","safetyLevel":"Stronger","safety":"IIHS named the 2012 Mazda3 a Top Safety Pick with Good original front, side, roof and head-restraint results. The listing shows stability control; confirm operation and open-recall status by VIN.","safetySource":"https://www.iihs.org/ratings/vehicle/mazda/3-4-door-hatchback/2012","verdict":"Best balance of reliability and crash protection","note":"This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.","firstSeen":"2026-08-06","lastSeen":"2026-08-10"},
-  {"rank":2,"year":2010,"make":"Hyundai","model":"Elantra","trim":"GLS · 2.0L · automatic · FWD","price":4999,"miles":125628,"dealer":"Absolute Motors","town":"Springfield, MA","rating":"Google 4.5 ★ · 87 reviews","vin":"KMHDU4AD2AU878730","url":"https://www.cars.com/vehicledetail/8e7ffeab-0e88-4c16-ab53-ca5d9e97880a/","image":"https://platform.cstatic-images.com/large/in/v2/28710c69-4a46-47ed-bddc-63f28362ce79/53bce5fc-5d02-42b8-be3b-9f3dd04b6cda/Dfbr7KZzP8vmmxv9BcckKV_Ie-Y.jpg","tag":"Lower-mileage option","reliabilityLevel":"Stronger","reliability":"The 2.0L/automatic combination is relatively simple and generally durable. Demand proof of timing-belt service and inspect for Northeast rust, suspension wear and oil leaks.","safetyLevel":"Average","safety":"IIHS rated moderate-overlap front and head restraints Good; cars built after November 2009 also earned a Good side rating. This car’s build date and electronic stability control were not verified, so confirm both.","safetySource":"https://www.iihs.org/ratings/vehicle/hyundai/elantra-4-door-sedan/2010","verdict":"Promising low-mileage value, with safety details to confirm","note":"At 125k miles, this has the lowest mileage of today’s stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.","firstSeen":"2026-08-08","lastSeen":"2026-08-10"},
-  {"rank":3,"year":2009,"make":"Hyundai","model":"Sonata","trim":"Limited · 3.3L V6 · automatic · FWD","price":4299,"miles":132907,"dealer":"Driveline Motors","town":"Springfield, MA","rating":"Google 5.0 ★ · 67 reviews","vin":"5NPEU46F19H514159","url":"https://www.cars.com/vehicledetail/83a3f814-ea31-4f3c-9711-d9f4b7a7826f/","image":"https://platform.cstatic-images.com/large/in/v2/3cb5d95a-2f30-5d2c-b346-5c7188b5409d/bbbecf78-a018-49da-b869-b19261de9cc1/i6TfK7FqTG_sdEUTcTuhWlfTseA.jpg","tag":"Midsize option","reliabilityLevel":"Average","reliability":"The 3.3L Lambda V6 avoids the later Sonata’s notorious 2.4L Theta II pattern and is usually durable, but adds fuel and repair cost. Check oil leaks, charging system, suspension, cooling system and rust.","safetyLevel":"Stronger","safety":"IIHS ratings applying to the 2009 Sonata are Good for original moderate-overlap front, side and head restraints. The listing shows stability control; verify the equipment and recall status on the car.","safetySource":"https://www.iihs.org/ratings/vehicle/hyundai/sonata-4-door-sedan/2010","verdict":"Good crash protection and reasonable mechanical odds","note":"This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.","firstSeen":"2026-08-08","lastSeen":"2026-08-10"},
-  {"rank":4,"year":2013,"make":"Subaru","model":"Legacy","trim":"2.5i Limited · CVT · AWD","price":4499,"miles":200119,"dealer":"Absolute Motors","town":"Springfield, MA","rating":"Google 4.5 ★ · 87 reviews","vin":"4S3BMBL63D3021762","url":"https://www.cars.com/vehicledetail/869fb2f9-881d-4b9d-b2f4-aed8af5d3da1/","image":"https://platform.cstatic-images.com/large/in/v2/28710c69-4a46-47ed-bddc-63f28362ce79/07086020-5bd4-4741-8a7a-ecc7a7604c7c/TfvgAaBKC0OO4wcMq8r8hQmBPFw.jpg","tag":"Safety first","reliabilityLevel":"Below average","reliability":"At 200k miles, CVT wear, oil consumption, wheel bearings, suspension and rust create substantial repair exposure. Service records and a long road test are mandatory.","safetyLevel":"Stronger","safety":"The 2013–14 Legacy earned IIHS Top Safety Pick+ recognition, with Good original front, side, roof and head-restraint results and an Acceptable small-overlap result for applicable builds.","safetySource":"https://www.iihs.org/ratings/vehicle/subaru/legacy-4-door-sedan/2014","verdict":"Excellent crash record, high mechanical risk","note":"Its safety case is stronger than most cars at this price, which keeps it mid-pack. Buy it only with unusually complete records and a Subaru-aware inspection.","firstSeen":"2026-08-06","lastSeen":"2026-08-10"},
-  {"rank":5,"year":2007,"make":"Honda","model":"Civic","trim":"LX · 1.8L · 5-speed manual · FWD","price":4900,"miles":163483,"dealer":"Driveline Motors","town":"Springfield, MA","rating":"Google 5.0 ★ · 67 reviews","vin":"2HGFA15587H501663","url":"https://www.cars.com/vehicledetail/a02b1d8f-68a2-404d-8570-84c5af2a2e01/","image":"https://platform.cstatic-images.com/large/in/v2/3cb5d95a-2f30-5d2c-b346-5c7188b5409d/b290c541-9c54-4c78-b325-12ea0c215900/I8k7PQ3_AML3fhTsTFO3DB2nzEI.jpg","tag":"Manual option","reliabilityLevel":"Average","reliability":"Civics are economical and long-lived, but 2006–09 cars have a known cracked-engine-block risk. Inspect the cooling system, clutch, air conditioning and rust, and require recall completion.","safetyLevel":"Average","safety":"IIHS testing applying to 2006–11 sedans found Good original front and side protection with standard curtain and torso airbags. Electronic stability control was not offered on this LX trim.","safetySource":"https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2006","verdict":"Reliable platform, but missing a key teen-driver aid","note":"The manual and good basic crash structure are positives, yet the lack of stability control lowers it below the newer choices. Confirm the engine block is dry and the clutch engages cleanly.","firstSeen":"2026-08-06","lastSeen":"2026-08-10"},
-  {"rank":6,"year":2012,"make":"Ford","model":"Escape","trim":"Limited · 3.0L V6 · automatic · 4WD","price":4999,"miles":152466,"dealer":"Stop and Drive Auto Sales","town":"East Windsor, CT","rating":"Google rating not verified","vin":"1FMCU9EG3CKA51590","url":"https://www.cars.com/vehicledetail/66436892-600a-4aaa-9017-9d92dde58738/","image":"https://platform.cstatic-images.com/large/in/v2/cfd962d4-af73-5b58-a49d-1f0b42016001/e7244f58-6214-4f4f-af95-42f5c9039ba9/Y9yeM9-vSZnSzUYKTZwjZupdFBQ.jpg","tag":"New today","reliabilityLevel":"Average","reliability":"The 3.0L Duratec V6 is generally durable, but the 6F35 automatic has documented harsh-shift and wear concerns; at 152k miles, fluid history, rust and a long cold-to-hot road test are critical.","safetyLevel":"Average","safety":"IIHS rated the 2012 Escape Good in original moderate-overlap front and side tests, but Marginal for roof strength and head restraints. Stability control and curtain airbags were standard; the listing confirms stability control, but verify VIN recalls.","safetySource":"https://www.iihs.org/ratings/vehicle/ford/escape-4-door-suv/2012","verdict":"Durable V6, but older crash protection and transmission exposure","note":"This is a plausible first-car candidate only if the transmission shifts cleanly and the underside is structurally sound. Its standard stability control helps, but the Marginal roof and head-restraint scores keep it below the stronger-safety cars.","firstSeen":"2026-08-10","lastSeen":"2026-08-10"},
-  {"rank":7,"year":2014,"make":"Kia","model":"Soul","trim":"Base · 1.6L GDI · automatic · FWD","price":3950,"miles":194000,"dealer":"The Car Place","town":"Somers, CT","rating":"Google 4.0 ★ · 73 reviews","vin":"KNDJN2A20E7746173","url":"https://www.cars.com/vehicledetail/a30456f4-a7c9-4072-ac04-c76cfdf47232/","image":"https://platform.cstatic-images.com/xxlarge/in/v2/bc10d8b6-24fb-52bb-b805-adb51fcdb61e/c0d643b2-d379-4d4b-b0dd-761473d9b9e7/pkN0_eU2RY7qWum0ddSEVR_j3dY.jpg","tag":"Budget price","reliabilityLevel":"Below average","reliability":"The 1.6L GDI has oil-consumption, catalytic-converter and engine/fire-recall exposure, and this example has 194k miles. A compression test, oil-use history and recall completion are essential.","safetyLevel":"Stronger","safety":"IIHS rated the redesigned 2014 Soul Good in original moderate-front, side, roof and head-restraint tests. Stability control and curtain airbags are standard for the model year; verify operation and VIN recalls.","safetySource":"https://www.iihs.org/ratings/vehicle/kia/soul-4-door-wagon/2014","verdict":"Strong crash shell, weak reliability case","note":"Good crash results cannot erase the engine and mileage risk, so this is last despite its low price. Get an insurance quote because theft exposure can make older Kias costly to insure.","firstSeen":"2026-08-08","lastSeen":"2026-08-10"}
- ],
- "seen":[
-  {"vin":"JM1BL1W66C1580130","firstSeen":"2026-08-06","lastSeen":"2026-08-10","status":"active"},{"vin":"KMHDU46DX8U545811","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"vin":"2HGFA15587H501663","firstSeen":"2026-08-06","lastSeen":"2026-08-10","status":"active"},{"vin":"4S3BMBL63D3021762","firstSeen":"2026-08-06","lastSeen":"2026-08-10","status":"active"},{"vin":"5NPEB4AC0BH012297","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"vin":"1G1PK5SC1C7195821","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"vin":"1FMDK02187GA06126","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"vin":"1VWAA7A31JC050132","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},
-  {"vin":"1HGFA16576L101917","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"vin":"1HGCM66546A026855","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"vin":"3FAHP07169R192136","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"vin":"JH4KB16555C001998","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},{"url":"https://www.carsforsale.com/used-car-dealer/arrow-auto-sales-gill-ma-d737564/inventory/details/128017936","firstSeen":"2026-08-06","lastSeen":"2026-08-06","status":"not reverified"},
-  {"vin":"KMHDU4AD2AU878730","firstSeen":"2026-08-08","lastSeen":"2026-08-10","status":"active"},{"vin":"5NPEU46F19H514159","firstSeen":"2026-08-08","lastSeen":"2026-08-10","status":"active"},{"vin":"KNDJN2A20E7746173","firstSeen":"2026-08-08","lastSeen":"2026-08-10","status":"active"},{"vin":"1FMCU9EG3CKA51590","firstSeen":"2026-08-10","lastSeen":"2026-08-10","status":"active"}
- ]
+  "updatedAt": "2026-08-11",
+  "priceCap": 5000,
+  "active": [
+    {
+      "rank": 1,
+      "year": 2012,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "trim": "s Grand Touring · 2.5L · automatic · FWD",
+      "price": 4588,
+      "miles": 164960,
+      "dealer": "Shelby Motor Cars",
+      "town": "Springfield, MA",
+      "rating": "Google 4.2 ★ · 687 reviews",
+      "vin": "JM1BL1W66C1580130",
+      "url": "https://www.cars.com/vehicledetail/83a5379c-9dea-437f-b4af-600992322634/",
+      "image": "https://platform.cstatic-images.com/xxlarge/in/v2/607994e8-ad93-532c-8456-910bf278c4e2/005b2bdf-05ea-42cb-b2e7-96cbb169dbb7/aID27QlmUw3hmgTvVOi7cTdcLug.jpg",
+      "tag": "Best overall",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.5L and conventional automatic have a generally durable record, but 165k miles makes rust, suspension wear, mounts and maintenance history decisive. The listing reports an accident, so inspection is essential.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2012 Mazda3 a Top Safety Pick with Good original front, side, roof and head-restraint results. The listing shows stability control; confirm operation and open-recall status by VIN.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/mazda/3-4-door-hatchback/2012",
+      "verdict": "Best balance of reliability and crash protection",
+      "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-11"
+    },
+    {
+      "rank": 2,
+      "year": 2010,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "GLS · 2.0L · automatic · FWD",
+      "price": 4999,
+      "miles": 125628,
+      "dealer": "Absolute Motors",
+      "town": "Springfield, MA",
+      "rating": "Google 4.5 ★ · 87 reviews",
+      "vin": "KMHDU4AD2AU878730",
+      "url": "https://www.cars.com/vehicledetail/8e7ffeab-0e88-4c16-ab53-ca5d9e97880a/",
+      "image": "https://platform.cstatic-images.com/large/in/v2/28710c69-4a46-47ed-bddc-63f28362ce79/53bce5fc-5d02-42b8-be3b-9f3dd04b6cda/Dfbr7KZzP8vmmxv9BcckKV_Ie-Y.jpg",
+      "tag": "Lower-mileage option",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.0L/automatic combination is relatively simple and generally durable. Demand proof of timing-belt service and inspect for Northeast rust, suspension wear and oil leaks.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated moderate-overlap front and head restraints Good; cars built after November 2009 also earned a Good side rating. This car’s build date and electronic stability control were not verified, so confirm both.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/hyundai/elantra-4-door-sedan/2010",
+      "verdict": "Promising low-mileage value, with safety details to confirm",
+      "note": "At 125k miles, this has the lowest mileage of today’s stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-11"
+    },
+    {
+      "rank": 3,
+      "year": 2009,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "trim": "Limited · 3.3L V6 · automatic · FWD",
+      "price": 3999,
+      "miles": 132907,
+      "dealer": "Driveline Motors",
+      "town": "Springfield, MA",
+      "rating": "Google 5.0 ★ · 67 reviews",
+      "vin": "5NPEU46F19H514159",
+      "url": "https://www.cars.com/vehicledetail/83a3f814-ea31-4f3c-9711-d9f4b7a7826f/",
+      "image": "https://platform.cstatic-images.com/large/in/v2/3cb5d95a-2f30-5d2c-b346-5c7188b5409d/bbbecf78-a018-49da-b869-b19261de9cc1/i6TfK7FqTG_sdEUTcTuhWlfTseA.jpg",
+      "tag": "Midsize option",
+      "reliabilityLevel": "Average",
+      "reliability": "The 3.3L Lambda V6 avoids the later Sonata’s notorious 2.4L Theta II pattern and is usually durable, but adds fuel and repair cost. Check oil leaks, charging system, suspension, cooling system and rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS ratings applying to the 2009 Sonata are Good for original moderate-overlap front, side and head restraints. The listing shows stability control; verify the equipment and recall status on the car.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/hyundai/sonata-4-door-sedan/2010",
+      "verdict": "Good crash protection and reasonable mechanical odds",
+      "note": "This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-11"
+    },
+    {
+      "rank": 4,
+      "year": 2013,
+      "make": "Subaru",
+      "model": "Legacy",
+      "trim": "2.5i Limited · CVT · AWD",
+      "price": 4499,
+      "miles": 200119,
+      "dealer": "Absolute Motors",
+      "town": "Springfield, MA",
+      "rating": "Google 4.5 ★ · 87 reviews",
+      "vin": "4S3BMBL63D3021762",
+      "url": "https://www.cars.com/vehicledetail/869fb2f9-881d-4b9d-b2f4-aed8af5d3da1/",
+      "image": "https://platform.cstatic-images.com/large/in/v2/28710c69-4a46-47ed-bddc-63f28362ce79/07086020-5bd4-4741-8a7a-ecc7a7604c7c/TfvgAaBKC0OO4wcMq8r8hQmBPFw.jpg",
+      "tag": "Safety first",
+      "reliabilityLevel": "Below average",
+      "reliability": "At 200k miles, CVT wear, oil consumption, wheel bearings, suspension and rust create substantial repair exposure. Service records and a long road test are mandatory.",
+      "safetyLevel": "Stronger",
+      "safety": "The 2013–14 Legacy earned IIHS Top Safety Pick+ recognition, with Good original front, side, roof and head-restraint results and an Acceptable small-overlap result for applicable builds.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/legacy-4-door-sedan/2014",
+      "verdict": "Excellent crash record, high mechanical risk",
+      "note": "Its safety case is stronger than most cars at this price, which keeps it mid-pack. Buy it only with unusually complete records and a Subaru-aware inspection.",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-11"
+    },
+    {
+      "rank": 5,
+      "year": 2007,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "LX · 1.8L · 5-speed manual · FWD",
+      "price": 4499,
+      "miles": 163483,
+      "dealer": "Driveline Motors",
+      "town": "Springfield, MA",
+      "rating": "Google 5.0 ★ · 67 reviews",
+      "vin": "2HGFA15587H501663",
+      "url": "https://www.cars.com/vehicledetail/a02b1d8f-68a2-404d-8570-84c5af2a2e01/",
+      "image": "https://platform.cstatic-images.com/large/in/v2/3cb5d95a-2f30-5d2c-b346-5c7188b5409d/b290c541-9c54-4c78-b325-12ea0c215900/I8k7PQ3_AML3fhTsTFO3DB2nzEI.jpg",
+      "tag": "Manual option",
+      "reliabilityLevel": "Average",
+      "reliability": "Civics are economical and long-lived, but 2006–09 cars have a known cracked-engine-block risk. Inspect the cooling system, clutch, air conditioning and rust, and require recall completion.",
+      "safetyLevel": "Average",
+      "safety": "IIHS testing applying to 2006–11 sedans found Good original front and side protection with standard curtain and torso airbags. Electronic stability control was not offered on this LX trim.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2006",
+      "verdict": "Reliable platform, but missing a key teen-driver aid",
+      "note": "The manual and good basic crash structure are positives, yet the lack of stability control lowers it below the newer choices. Confirm the engine block is dry and the clutch engages cleanly.",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-11"
+    },
+    {
+      "rank": 6,
+      "year": 2012,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Limited · 3.0L V6 · automatic · 4WD",
+      "price": 4999,
+      "miles": 152466,
+      "dealer": "Stop and Drive Auto Sales",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "1FMCU9EG3CKA51590",
+      "url": "https://www.cars.com/vehicledetail/66436892-600a-4aaa-9017-9d92dde58738/",
+      "image": "https://platform.cstatic-images.com/large/in/v2/cfd962d4-af73-5b58-a49d-1f0b42016001/e7244f58-6214-4f4f-af95-42f5c9039ba9/Y9yeM9-vSZnSzUYKTZwjZupdFBQ.jpg",
+      "tag": "New today",
+      "reliabilityLevel": "Average",
+      "reliability": "The 3.0L Duratec V6 is generally durable, but the 6F35 automatic has documented harsh-shift and wear concerns; at 152k miles, fluid history, rust and a long cold-to-hot road test are critical.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2012 Escape Good in original moderate-overlap front and side tests, but Marginal for roof strength and head restraints. Stability control and curtain airbags were standard; the listing confirms stability control, but verify VIN recalls.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/escape-4-door-suv/2012",
+      "verdict": "Durable V6, but older crash protection and transmission exposure",
+      "note": "This is a plausible first-car candidate only if the transmission shifts cleanly and the underside is structurally sound. Its standard stability control helps, but the Marginal roof and head-restraint scores keep it below the stronger-safety cars.",
+      "firstSeen": "2026-08-10",
+      "lastSeen": "2026-08-11"
+    },
+    {
+      "rank": 7,
+      "year": 2014,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "Base · 1.6L GDI · automatic · FWD",
+      "price": 3950,
+      "miles": 194000,
+      "dealer": "The Car Place",
+      "town": "Somers, CT",
+      "rating": "Google 4.0 ★ · 73 reviews",
+      "vin": "KNDJN2A20E7746173",
+      "url": "https://www.cars.com/vehicledetail/a30456f4-a7c9-4072-ac04-c76cfdf47232/",
+      "image": "https://platform.cstatic-images.com/xxlarge/in/v2/bc10d8b6-24fb-52bb-b805-adb51fcdb61e/c0d643b2-d379-4d4b-b0dd-761473d9b9e7/pkN0_eU2RY7qWum0ddSEVR_j3dY.jpg",
+      "tag": "Budget price",
+      "reliabilityLevel": "Below average",
+      "reliability": "The 1.6L GDI has oil-consumption, catalytic-converter and engine/fire-recall exposure, and this example has 194k miles. A compression test, oil-use history and recall completion are essential.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS rated the redesigned 2014 Soul Good in original moderate-front, side, roof and head-restraint tests. Stability control and curtain airbags are standard for the model year; verify operation and VIN recalls.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/kia/soul-4-door-wagon/2014",
+      "verdict": "Strong crash shell, weak reliability case",
+      "note": "Good crash results cannot erase the engine and mileage risk, so this is last despite its low price. Get an insurance quote because theft exposure can make older Kias costly to insure.",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-11"
+    }
+  ],
+  "seen": [
+    {
+      "vin": "JM1BL1W66C1580130",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-11",
+      "status": "active"
+    },
+    {
+      "vin": "KMHDU46DX8U545811",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "2HGFA15587H501663",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-11",
+      "status": "active"
+    },
+    {
+      "vin": "4S3BMBL63D3021762",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-11",
+      "status": "active"
+    },
+    {
+      "vin": "5NPEB4AC0BH012297",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "1G1PK5SC1C7195821",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "1FMDK02187GA06126",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "1VWAA7A31JC050132",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "1HGFA16576L101917",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "1HGCM66546A026855",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "3FAHP07169R192136",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "JH4KB16555C001998",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "url": "https://www.carsforsale.com/used-car-dealer/arrow-auto-sales-gill-ma-d737564/inventory/details/128017936",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "status": "not reverified"
+    },
+    {
+      "vin": "KMHDU4AD2AU878730",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-11",
+      "status": "active"
+    },
+    {
+      "vin": "5NPEU46F19H514159",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-11",
+      "status": "active"
+    },
+    {
+      "vin": "KNDJN2A20E7746173",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-11",
+      "status": "active"
+    },
+    {
+      "vin": "1FMCU9EG3CKA51590",
+      "firstSeen": "2026-08-10",
+      "lastSeen": "2026-08-11",
+      "status": "active"
+    }
+  ]
 }
