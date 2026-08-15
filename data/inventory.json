@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-15",
   "priceCap": 5000,
   "active": [
     {
@@ -25,7 +25,7 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-13"
+      "lastSeen": "2026-08-15"
     },
     {
       "rank": 2,
@@ -50,7 +50,7 @@
       "verdict": "Promising low-mileage value, with safety details to confirm",
       "note": "At 125k miles, this has the lowest mileage of today’s stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-13"
+      "lastSeen": "2026-08-15"
     },
     {
       "rank": 3,
@@ -75,7 +75,7 @@
       "verdict": "Good crash protection and reasonable mechanical odds",
       "note": "This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-13"
+      "lastSeen": "2026-08-15"
     },
     {
       "rank": 4,
@@ -100,7 +100,7 @@
       "verdict": "Excellent crash record, high mechanical risk",
       "note": "Its safety case is stronger than most cars at this price, which keeps it mid-pack. Buy it only with unusually complete records and a Subaru-aware inspection.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-13"
+      "lastSeen": "2026-08-15"
     },
     {
       "rank": 5,
@@ -125,7 +125,7 @@
       "verdict": "Reliable platform, but missing a key teen-driver aid",
       "note": "The manual and good basic crash structure are positives, yet the lack of stability control lowers it below the newer choices. Confirm the engine block is dry and the clutch engages cleanly.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-13"
+      "lastSeen": "2026-08-15"
     },
     {
       "rank": 6,
@@ -150,7 +150,7 @@
       "verdict": "Durable V6, but older crash protection and transmission exposure",
       "note": "This is a plausible first-car candidate only if the transmission shifts cleanly and the underside is structurally sound. Its standard stability control helps, but the Marginal roof and head-restraint scores keep it below the stronger-safety cars.",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-13"
+      "lastSeen": "2026-08-15"
     },
     {
       "rank": 7,
@@ -175,14 +175,14 @@
       "verdict": "Strong crash shell, weak reliability case",
       "note": "Good crash results cannot erase the engine and mileage risk, so this is last despite its low price. Get an insurance quote because theft exposure can make older Kias costly to insure.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-13"
+      "lastSeen": "2026-08-15"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-15",
       "status": "active"
     },
     {
@@ -194,13 +194,13 @@
     {
       "vin": "2HGFA15587H501663",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-15",
       "status": "active"
     },
     {
       "vin": "4S3BMBL63D3021762",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-15",
       "status": "active"
     },
     {
@@ -260,25 +260,25 @@
     {
       "vin": "KMHDU4AD2AU878730",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-15",
       "status": "active"
     },
     {
       "vin": "5NPEU46F19H514159",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-15",
       "status": "active"
     },
     {
       "vin": "KNDJN2A20E7746173",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-15",
       "status": "active"
     },
     {
       "vin": "1FMCU9EG3CKA51590",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-15",
       "status": "active"
     }
   ]
