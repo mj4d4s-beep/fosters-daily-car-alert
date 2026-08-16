@@ -19,14 +19,14 @@ test("server-renders the complete daily alert", async () => {
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
-  assert.match(html, /Foster’s Car Alert — August 15, 2026/);
-  assert.match(html, /Seven cars worth/);
+  assert.match(html, /Foster’s Car Alert — August 16, 2026/);
+  assert.match(html, /Eight cars worth/);
   assert.match(html, /Best overall/);
   assert.match(html, /2012.*Mazda/s);
   assert.match(html, /Reliability/);
   assert.match(html, /Safety/);
   assert.match(html, /Independent inspection/);
-  assert.equal((html.match(/<article/g) ?? []).length, 7);
+  assert.equal((html.match(/<article/g) ?? []).length, 8);
 });
 
 test("contains only dealer listing links at or below the price ceiling", async () => {
