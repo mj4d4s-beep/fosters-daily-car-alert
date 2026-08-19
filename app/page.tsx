@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import inventory from "../data/inventory.json";
 
 export const metadata: Metadata = {
-  title: "Foster’s Car Alert — August 18, 2026",
+  title: "Foster’s Car Alert — August 19, 2026",
   description:
-    "Eight verified dealer cars at $5,000 or less near Leverett, Massachusetts.",
+    "Twelve verified dealer cars at $5,000 or less near Leverett, Massachusetts.",
 };
 const cars = inventory.active;
 const money = new Intl.NumberFormat("en-US", {
@@ -46,12 +46,12 @@ export default function Home() {
       <header className="hero">
         <nav>
           <span className="wordmark">FOSTER’S</span>
-          <span className="date">TUESDAY · AUG 18, 2026</span>
+          <span className="date">WEDNESDAY · AUG 19, 2026</span>
         </nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · LEVERETT, MASSACHUSETTS</p>
           <h1>
-            Eight cars worth
+            Twelve cars worth
             <br />
             <em>a careful look.</em>
           </h1>
@@ -217,7 +217,7 @@ export default function Home() {
       </section>
       <footer>
         <p>
-          Fresh search completed August 18, 2026. All eight cars shown were
+          Fresh search completed August 19, 2026. All twelve cars shown were
           re-verified on current dealer or marketplace inventory pages.
         </p>
         <p>
