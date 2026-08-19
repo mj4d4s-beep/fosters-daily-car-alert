@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "priceCap": 5000,
   "active": [
     {
@@ -25,10 +25,60 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
-      "rank": 2,
+      "year": 2012,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE · 2.0L · 5-speed manual · FWD",
+      "price": 3999,
+      "miles": 160325,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "1FAHP3F22CL432378",
+      "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/08/04/4107_2823845_13273930_2454404452026.jpg",
+      "tag": "Best new find",
+      "reliabilityLevel": "Average",
+      "reliability": "The 5-speed manual avoids the troublesome PowerShift dual-clutch automatic that hurts this generation’s reputation. At 160k miles, inspect the clutch, cooling system, engine mounts, suspension and Northeast rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2012 Focus a Top Safety Pick, with Good original moderate-front, side, roof and head-restraint ratings plus an Acceptable small-overlap result. Stability control and curtain airbags were standard; verify operation and VIN recalls.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/focus/2012",
+      "verdict": "Strong crash protection without the infamous automatic",
+      "note": "This is today’s best new lead and a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "rank": 2
+    },
+    {
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Impreza Wagon",
+      "trim": "2.0i Sport Premium · 5-speed manual · AWD",
+      "price": 4999,
+      "miles": 176679,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "JF1GPAP69G9219643",
+      "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/07/08/4107_2810706_18485904_310708102026.jpg",
+      "tag": "Manual AWD",
+      "reliabilityLevel": "Average",
+      "reliability": "The manual transmission avoids high-mileage CVT exposure, but the 2.0L can consume oil and 177k miles brings clutch, wheel-bearing, suspension and rust risk. Check oil level history and cold-start behavior closely.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS ratings for the 2016 wagon include Good small-overlap, moderate-front, side, roof and head-restraint results. Stability control and curtain airbags were standard; this manual trim does not have EyeSight.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/impreza-4-door-wagon/2016",
+      "verdict": "Excellent crash shell, with high-mileage wear to audit",
+      "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "rank": 3
+    },
+    {
+      "rank": 4,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -50,10 +100,35 @@
       "verdict": "Promising low-mileage value, with safety details to confirm",
       "note": "At 125k miles, this has the lowest mileage of today’s stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
-      "rank": 3,
+      "year": 2010,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE · 2.0L · automatic · FWD",
+      "price": 4999,
+      "miles": 93067,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "1FAHP3FN6AW219911",
+      "url": "https://www.ctcarco.com/2010-Ford-Focus-East-Windsor-CT/used_car/leuO%5dLsgxMw%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/08/03/4107_2823258_11242826_2241503242026.jpg",
+      "tag": "Lowest mileage",
+      "reliabilityLevel": "Stronger",
+      "reliability": "This older Focus uses a conventional automatic, not the later PowerShift unit, and its 2.0L drivetrain is generally durable. Low mileage is attractive, but age means rust, mounts, suspension, seals and long storage intervals still need scrutiny.",
+      "safetyLevel": "Average",
+      "safety": "IIHS ratings applying to 2008–11 models are Good for original moderate-front and head restraints and Acceptable for side impact. Curtain and torso airbags were standard, but electronic stability control was not verified for this car.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/focus-4-door-sedan/2011",
+      "verdict": "Simple low-mileage drivetrain, older safety design",
+      "note": "At 93k miles this is mechanically appealing, but its crash protection and unverified stability control trail the newer Focus and Impreza. Confirm the odometer history and inspect for corrosion from age and Northeast use.",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "rank": 5
+    },
+    {
+      "rank": 6,
       "year": 2009,
       "make": "Toyota",
       "model": "Matrix",
@@ -75,10 +150,10 @@
       "verdict": "Durable powertrain, but high mileage and ESC uncertainty",
       "note": "Reliability and useful hatchback packaging make this a strong budget candidate, while 193k miles and unverified stability control keep it below the top two. Buy only after a rust-focused inspection and a long cold-to-hot road test.",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "year": 2009,
       "make": "Hyundai",
       "model": "Sonata",
@@ -100,10 +175,35 @@
       "verdict": "Good crash protection and reasonable mechanical odds",
       "note": "This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
-      "rank": 5,
+      "year": 2013,
+      "make": "Subaru",
+      "model": "Impreza Sedan",
+      "trim": "2.0i Limited · CVT · AWD",
+      "price": 4999,
+      "miles": 150819,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "JF1GJAH69DH022991",
+      "url": "https://www.ctcarco.com/2013-Subaru-Impreza-Sedan-East-Windsor-CT/used_car/6l18hz3K82M%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/08/15/4107_2829252_14150084_111315012026.jpg",
+      "tag": "Strong safety",
+      "reliabilityLevel": "Below average",
+      "reliability": "The 2.0L has oil-consumption history and this 151k-mile example adds costly CVT exposure. Require documented fluid service, a cold-to-hot road test and inspection for wheel-bearing noise, leaks and rust.",
+      "safetyLevel": "Stronger",
+      "safety": "The 2013 Impreza was an IIHS Top Safety Pick with Good original moderate-front, side, roof and head-restraint ratings. Stability control and curtain airbags were standard, though this predates the 2014 small-overlap structural improvements.",
+      "safetySource": "https://www.iihs.org/ratings/top-safety-picks/2013/all/subaru",
+      "verdict": "Protective structure, but meaningful CVT and oil risk",
+      "note": "Safety and manageable performance suit a new driver, but the CVT and engine history keep this below the simpler cars. Do not buy without unusually strong maintenance records and a Subaru-aware inspection.",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "rank": 8
+    },
+    {
+      "rank": 9,
       "year": 2013,
       "make": "Subaru",
       "model": "Legacy",
@@ -125,10 +225,10 @@
       "verdict": "Excellent crash record, high mechanical risk",
       "note": "Its safety case is stronger than most cars at this price, which keeps it mid-pack. Buy it only with unusually complete records and a Subaru-aware inspection.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "year": 2007,
       "make": "Honda",
       "model": "Civic",
@@ -150,35 +250,35 @@
       "verdict": "Reliable platform, but missing a key teen-driver aid",
       "note": "The manual and good basic crash structure are positives, yet the lack of stability control lowers it below the newer choices. Confirm the engine block is dry and the clutch engages cleanly.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
-      "rank": 7,
-      "year": 2012,
-      "make": "Ford",
-      "model": "Escape",
-      "trim": "Limited · 3.0L V6 · automatic · 4WD",
+      "year": 2005,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "LE · 2.4L · automatic · FWD",
       "price": 4999,
-      "miles": 152466,
-      "dealer": "Stop and Drive Auto Sales",
+      "miles": 154732,
+      "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
       "rating": "Google rating not verified",
-      "vin": "1FMCU9EG3CKA51590",
-      "url": "https://www.cars.com/vehicledetail/66436892-600a-4aaa-9017-9d92dde58738/",
-      "image": "https://platform.cstatic-images.com/large/in/v2/cfd962d4-af73-5b58-a49d-1f0b42016001/e7244f58-6214-4f4f-af95-42f5c9039ba9/Y9yeM9-vSZnSzUYKTZwjZupdFBQ.jpg",
-      "tag": "V6 compact SUV",
-      "reliabilityLevel": "Average",
-      "reliability": "The 3.0L Duratec V6 is generally durable, but the 6F35 automatic has documented harsh-shift and wear concerns; at 152k miles, fluid history, rust and a long cold-to-hot road test are critical.",
-      "safetyLevel": "Average",
-      "safety": "IIHS rated the 2012 Escape Good in original moderate-overlap front and side tests, but Marginal for roof strength and head restraints. Stability control and curtain airbags were standard; the listing confirms stability control, but verify VIN recalls.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/escape-4-door-suv/2012",
-      "verdict": "Durable V6, but older crash protection and transmission exposure",
-      "note": "This is a plausible first-car candidate only if the transmission shifts cleanly and the underside is structurally sound. Its standard stability control helps, but the Marginal roof and head-restraint scores keep it below the stronger-safety cars.",
-      "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-18"
+      "vin": "4T1BE30K85U098820",
+      "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT/used_car/RGD23NzFwl0%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/08/03/4107_2823256_18987372_225903252026.jpg",
+      "tag": "Durable but old",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.4L and conventional automatic are generally long-lived and inexpensive to service, but at 21 years old rust, oil use, cooling-system age, mounts and suspension dominate. Records and an underbody inspection are essential.",
+      "safetyLevel": "Below average",
+      "safety": "IIHS rated the 2005 Camry Good in moderate-front testing, but side protection was Good only with optional side airbags and Poor without them; head restraints were Marginal. The listing does not verify side curtains or stability control.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/camry-4-door-sedan/2005",
+      "verdict": "Good mechanical reputation, weak safety certainty",
+      "note": "This could be cheap transportation, but it is not a leading teen-driver choice unless the actual car has the optional side airbags and is structurally rust-free. Its age and safety uncertainty outweigh the Toyota badge.",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "rank": 11
     },
     {
-      "rank": 8,
+      "rank": 12,
       "year": 2014,
       "make": "Kia",
       "model": "Soul",
@@ -200,14 +300,14 @@
       "verdict": "Strong crash shell, weak reliability case",
       "note": "Good crash results cannot erase the engine and mileage risk, so this is last despite its low price. Get an insurance quote because theft exposure can make older Kias costly to insure.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "status": "active"
     },
     {
@@ -219,13 +319,13 @@
     {
       "vin": "2HGFA15587H501663",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "status": "active"
     },
     {
       "vin": "4S3BMBL63D3021762",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "status": "active"
     },
     {
@@ -285,31 +385,61 @@
     {
       "vin": "KMHDU4AD2AU878730",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "status": "active"
     },
     {
       "vin": "5NPEU46F19H514159",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "status": "active"
     },
     {
       "vin": "KNDJN2A20E7746173",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "status": "active"
     },
     {
       "vin": "1FMCU9EG3CKA51590",
       "firstSeen": "2026-08-10",
       "lastSeen": "2026-08-18",
-      "status": "active"
+      "status": "not reverified"
     },
     {
       "vin": "2T1KU40EX9C160227",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
+      "status": "active"
+    },
+    {
+      "vin": "1FAHP3F22CL432378",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "status": "active"
+    },
+    {
+      "vin": "JF1GPAP69G9219643",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "status": "active"
+    },
+    {
+      "vin": "1FAHP3FN6AW219911",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "status": "active"
+    },
+    {
+      "vin": "JF1GJAH69DH022991",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
+      "status": "active"
+    },
+    {
+      "vin": "4T1BE30K85U098820",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19",
       "status": "active"
     }
   ]
