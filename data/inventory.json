@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-08-20",
   "priceCap": 5000,
   "active": [
     {
@@ -25,7 +25,7 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
       "year": 2012,
@@ -49,7 +49,7 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is today’s best new lead and a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "rank": 2
     },
     {
@@ -74,7 +74,7 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "rank": 3
     },
     {
@@ -100,7 +100,7 @@
       "verdict": "Promising low-mileage value, with safety details to confirm",
       "note": "At 125k miles, this has the lowest mileage of today’s stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
       "year": 2010,
@@ -124,7 +124,7 @@
       "verdict": "Simple low-mileage drivetrain, older safety design",
       "note": "At 93k miles this is mechanically appealing, but its crash protection and unverified stability control trail the newer Focus and Impreza. Confirm the odometer history and inspect for corrosion from age and Northeast use.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "rank": 5
     },
     {
@@ -150,7 +150,7 @@
       "verdict": "Durable powertrain, but high mileage and ESC uncertainty",
       "note": "Reliability and useful hatchback packaging make this a strong budget candidate, while 193k miles and unverified stability control keep it below the top two. Buy only after a rust-focused inspection and a long cold-to-hot road test.",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
       "rank": 7,
@@ -175,7 +175,32 @@
       "verdict": "Good crash protection and reasonable mechanical odds",
       "note": "This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
+    },
+    {
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i Premium · CVT · AWD",
+      "price": 4499,
+      "miles": 207238,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "4S4BSAFC6F3335034",
+      "url": "https://www.ctcarco.com/2015-Subaru-Outback-East-Windsor-CT/used_car/3z8fMheLFLc%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/03/27/4107_2758666_17477469_4285427282026.jpg",
+      "tag": "Best new safety",
+      "reliabilityLevel": "Below average",
+      "reliability": "At 207k miles, this Outback carries substantial CVT valve-body and wear risk plus possible oil consumption, wheel-bearing, suspension and Northeast-rust costs. A Subaru-specialist inspection and strong fluid-service records are essential.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS ratings applying to 2015–19 Outbacks are Good in small-overlap, moderate-front, side, roof and head-restraint tests. Stability control and curtain airbags were standard; the listing does not verify optional EyeSight.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/outback-4-door-wagon/2017",
+      "verdict": "Excellent crash protection, very high repair exposure",
+      "note": "This is the strongest new safety lead, but its mileage and CVT keep it well below the simpler cars. Consider it only with unusually complete records, a clean cold-to-hot road test and an independent inspection.",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "rank": 8
     },
     {
       "year": 2013,
@@ -199,33 +224,8 @@
       "verdict": "Protective structure, but meaningful CVT and oil risk",
       "note": "Safety and manageable performance suit a new driver, but the CVT and engine history keep this below the simpler cars. Do not buy without unusually strong maintenance records and a Subaru-aware inspection.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
-      "rank": 8
-    },
-    {
-      "rank": 9,
-      "year": 2013,
-      "make": "Subaru",
-      "model": "Legacy",
-      "trim": "2.5i Limited · CVT · AWD",
-      "price": 4499,
-      "miles": 200119,
-      "dealer": "Absolute Motors",
-      "town": "Springfield, MA",
-      "rating": "Google 4.5 ★ · 87 reviews",
-      "vin": "4S3BMBL63D3021762",
-      "url": "https://www.cars.com/vehicledetail/869fb2f9-881d-4b9d-b2f4-aed8af5d3da1/",
-      "image": "https://platform.cstatic-images.com/large/in/v2/28710c69-4a46-47ed-bddc-63f28362ce79/07086020-5bd4-4741-8a7a-ecc7a7604c7c/TfvgAaBKC0OO4wcMq8r8hQmBPFw.jpg",
-      "tag": "Safety first",
-      "reliabilityLevel": "Below average",
-      "reliability": "At 200k miles, CVT wear, oil consumption, wheel bearings, suspension and rust create substantial repair exposure. Service records and a long road test are mandatory.",
-      "safetyLevel": "Stronger",
-      "safety": "The 2013–14 Legacy earned IIHS Top Safety Pick+ recognition, with Good original front, side, roof and head-restraint results and an Acceptable small-overlap result for applicable builds.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/legacy-4-door-sedan/2014",
-      "verdict": "Excellent crash record, high mechanical risk",
-      "note": "Its safety case is stronger than most cars at this price, which keeps it mid-pack. Buy it only with unusually complete records and a Subaru-aware inspection.",
-      "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20",
+      "rank": 9
     },
     {
       "rank": 10,
@@ -250,31 +250,31 @@
       "verdict": "Reliable platform, but missing a key teen-driver aid",
       "note": "The manual and good basic crash structure are positives, yet the lack of stability control lowers it below the newer choices. Confirm the engine block is dry and the clutch engages cleanly.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
-      "year": 2005,
+      "year": 2004,
       "make": "Toyota",
       "model": "Camry",
       "trim": "LE · 2.4L · automatic · FWD",
       "price": 4999,
-      "miles": 154732,
+      "miles": 127187,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
       "rating": "Google rating not verified",
-      "vin": "4T1BE30K85U098820",
-      "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT/used_car/RGD23NzFwl0%3d",
-      "image": "https://images.autofunds.net/InventoryImages/2026/08/03/4107_2823256_18987372_225903252026.jpg",
-      "tag": "Durable but old",
+      "vin": "4T1BE32K64U346607",
+      "url": "https://www.ctcarco.com/2004-Toyota-Camry-East-Windsor-CT/used_car/aPEyY%5dBWD2A%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/05/29/4107_2792901_11874777_1572929572026.jpg",
+      "tag": "Lower-mileage Camry",
       "reliabilityLevel": "Stronger",
-      "reliability": "The 2.4L and conventional automatic are generally long-lived and inexpensive to service, but at 21 years old rust, oil use, cooling-system age, mounts and suspension dominate. Records and an underbody inspection are essential.",
+      "reliability": "The 2.4L engine and conventional automatic are generally durable and inexpensive to service, but at 22 years old oil use, cooling-system age, mounts, suspension and rust matter more than the badge. Records and an underbody inspection are essential.",
       "safetyLevel": "Below average",
-      "safety": "IIHS rated the 2005 Camry Good in moderate-front testing, but side protection was Good only with optional side airbags and Poor without them; head restraints were Marginal. The listing does not verify side curtains or stability control.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/camry-4-door-sedan/2005",
-      "verdict": "Good mechanical reputation, weak safety certainty",
-      "note": "This could be cheap transportation, but it is not a leading teen-driver choice unless the actual car has the optional side airbags and is structurally rust-free. Its age and safety uncertainty outweigh the Toyota badge.",
-      "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "safety": "IIHS rated the 2004 Camry Good in moderate-front testing, but side protection was Good only with optional side airbags and Poor without them; head restraints were Marginal. The listing does not verify side airbags or stability control.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/camry-4-door-sedan/2004",
+      "verdict": "Simple drivetrain, but side-impact safety is uncertain",
+      "note": "The lower mileage improves its mechanical case, yet its old safety design prevents a higher rank for a 16-year-old. Buy only if the actual airbag equipment, rust condition and maintenance history check out.",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
       "rank": 11
     },
     {
@@ -300,14 +300,14 @@
       "verdict": "Strong crash shell, weak reliability case",
       "note": "Good crash results cannot erase the engine and mileage risk, so this is last despite its low price. Get an insurance quote because theft exposure can make older Kias costly to insure.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
@@ -319,14 +319,14 @@
     {
       "vin": "2HGFA15587H501663",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "4S3BMBL63D3021762",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-19",
-      "status": "active"
+      "lastSeen": "2026-08-20",
+      "status": "active, outside top 12"
     },
     {
       "vin": "5NPEB4AC0BH012297",
@@ -385,19 +385,19 @@
     {
       "vin": "KMHDU4AD2AU878730",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "5NPEU46F19H514159",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "KNDJN2A20E7746173",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
@@ -409,38 +409,104 @@
     {
       "vin": "2T1KU40EX9C160227",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "1FAHP3FN6AW219911",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "JF1GJAH69DH022991",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "status": "active"
     },
     {
       "vin": "4T1BE30K85U098820",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
+      "status": "active, outside top 12"
+    },
+    {
+      "vin": "4S4BSAFC6F3335034",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
       "status": "active"
+    },
+    {
+      "vin": "4T1BE32K64U346607",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "active"
+    },
+    {
+      "vin": "4S3GTAA67K3700937",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "1GKKVRKD1FJ322846",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "1N4AA51E19C825393",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "YV1SJ527052487848",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "4S4BSANC9F3325714",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "2C4RC1CG5DR662620",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "4S4BSAAC8F3278326",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "JTEEP21A260146781",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "1HGFA16587L096597",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20",
+      "status": "excluded after evaluation"
     }
   ]
 }
