@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "priceCap": 5000,
   "active": [
     {
@@ -25,7 +25,7 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     {
       "year": 2012,
@@ -49,7 +49,7 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "rank": 2
     },
     {
@@ -74,7 +74,7 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "rank": 3
     },
     {
@@ -100,7 +100,7 @@
       "verdict": "Promising low-mileage value, with safety details to confirm",
       "note": "At 125k miles, this has the lowest mileage among the stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     {
       "year": 2010,
@@ -124,7 +124,7 @@
       "verdict": "Simple low-mileage drivetrain, older safety design",
       "note": "At 93k miles this is mechanically appealing, but its crash protection and unverified stability control trail the newer Focus and Impreza. Confirm the odometer history and inspect for corrosion from age and Northeast use.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "rank": 5
     },
     {
@@ -150,7 +150,7 @@
       "verdict": "Good crash protection and reasonable mechanical odds",
       "note": "This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     {
       "year": 2011,
@@ -174,8 +174,33 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "rank": 7
+    },
+    {
+      "rank": 8,
+      "year": 2008,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "XLT · 3.0L V6 · 4-speed automatic · 4WD",
+      "price": 2499,
+      "miles": 146768,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "1FMCU93108KA14146",
+      "url": "https://www.ctcarco.com/2008-Ford-Escape-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/hwuW6UAQ71E%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2026/01/14/4107_2723390_16285354_230714302026.jpg",
+      "tag": "New today · Lowest price",
+      "reliabilityLevel": "Average",
+      "reliability": "The 3.0L Duratec V6 and conventional 4-speed automatic have a generally serviceable record, but 147k miles and Northeast age raise transmission, cooling-system, suspension, wheel-bearing and structural-rust risk. Inspect the rear wheel wells, subframes and 4WD system closely.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2008 Escape Acceptable in the original moderate-front test, Good in side impact, Marginal for roof strength and Acceptable for head restraints. This listing verifies standard side-curtain airbags, ABS and AdvanceTrac stability control; open-recall status still needs a VIN check.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/escape/2008",
+      "verdict": "Useful safety equipment and a low price, with older-SUV compromises",
+      "note": "Standard stability control and curtain airbags are important positives for a new driver, while the only-Acceptable frontal result and Marginal roof rating prevent a stronger safety grade. At $2,499 it is worth inspecting, but rust and automatic-transmission condition are deal-breakers.",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24"
     },
     {
       "year": 2015,
@@ -199,8 +224,8 @@
       "verdict": "Excellent crash protection, very high repair exposure",
       "note": "This is a strong crash-protection option, but its mileage and CVT keep it well below the simpler cars. Consider it only with unusually complete records, a clean cold-to-hot road test and an independent inspection.",
       "firstSeen": "2026-08-20",
-      "lastSeen": "2026-08-23",
-      "rank": 8
+      "lastSeen": "2026-08-24",
+      "rank": 9
     },
     {
       "year": 2008,
@@ -224,8 +249,8 @@
       "verdict": "Good older crash record, very high mileage",
       "note": "Its size, standard stability control and strong original crash tests suit a teen better than many cheap SUVs. The mileage and Northeast rust risk make a full independent inspection non-negotiable.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-23",
-      "rank": 9
+      "lastSeen": "2026-08-24",
+      "rank": 10
     },
     {
       "year": 2013,
@@ -249,65 +274,40 @@
       "verdict": "Protective structure, but meaningful CVT and oil risk",
       "note": "Safety and manageable performance suit a new driver, but the CVT and engine history keep this below the simpler cars. Do not buy without unusually strong maintenance records and a Subaru-aware inspection.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
-      "rank": 10
+      "lastSeen": "2026-08-24",
+      "rank": 11
     },
     {
-      "rank": 11,
-      "year": 2007,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "LX · 1.8L · 5-speed manual · FWD",
-      "price": 4499,
-      "miles": 163483,
-      "dealer": "Driveline Motors",
-      "town": "Springfield, MA",
-      "rating": "Google 5.0 ★ · 67 reviews",
-      "vin": "2HGFA15587H501663",
-      "url": "https://www.cars.com/vehicledetail/a02b1d8f-68a2-404d-8570-84c5af2a2e01/",
-      "image": "https://platform.cstatic-images.com/large/in/v2/3cb5d95a-2f30-5d2c-b346-5c7188b5409d/b290c541-9c54-4c78-b325-12ea0c215900/I8k7PQ3_AML3fhTsTFO3DB2nzEI.jpg",
-      "tag": "Manual option",
-      "reliabilityLevel": "Average",
-      "reliability": "Civics are economical and long-lived, but 2006–09 cars have a known cracked-engine-block risk. Inspect the cooling system, clutch, air conditioning and rust, and require recall completion.",
-      "safetyLevel": "Average",
-      "safety": "IIHS testing applying to 2006–11 sedans found Good original front and side protection with standard curtain and torso airbags. Electronic stability control was not offered on this LX trim.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2006",
-      "verdict": "Reliable platform, but missing a key teen-driver aid",
-      "note": "The manual and good basic crash structure are positives, yet the lack of stability control lowers it below the newer choices. Confirm the engine block is dry and the clutch engages cleanly.",
-      "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-23"
-    },
-    {
-      "year": 2004,
-      "make": "Toyota",
-      "model": "Camry",
-      "trim": "LE · 2.4L · automatic · FWD",
-      "price": 4499,
-      "miles": 127187,
+      "rank": 12,
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "2.5i Limited PZEV · 2.5L · CVT · AWD",
+      "price": 3499,
+      "miles": 248034,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
       "rating": "Google rating not verified",
-      "vin": "4T1BE32K64U346607",
-      "url": "https://www.ctcarco.com/2004-Toyota-Camry-East-Windsor-CT/used_car/aPEyY%5dBWD2A%3d",
-      "image": "https://images.autofunds.net/InventoryImages/2026/05/29/4107_2792901_11874777_1572929572026.jpg",
-      "tag": "Lower-mileage Camry",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 2.4L engine and conventional automatic are generally durable and inexpensive to service, but at 22 years old oil use, cooling-system age, mounts, suspension and rust matter more than the badge. Records and an underbody inspection are essential.",
-      "safetyLevel": "Below average",
-      "safety": "IIHS rated the 2004 Camry Good in moderate-front testing, but side protection was Good only with optional side airbags and Poor without them; head restraints were Marginal. The listing does not verify side airbags or stability control.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/camry-4-door-sedan/2004",
-      "verdict": "Simple drivetrain, but side-impact safety is uncertain",
-      "note": "The lower mileage improves its mechanical case, yet its old safety design prevents a higher rank for a 16-year-old. Buy only if the actual airbag equipment, rust condition and maintenance history check out.",
-      "firstSeen": "2026-08-20",
-      "lastSeen": "2026-08-23",
-      "rank": 12
+      "vin": "JF2SJAKC8GH513416",
+      "url": "https://www.ctcarco.com/2016-Subaru-Forester-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/KIeE3XQDO3g%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2026/03/30/4107_2729705_8361176_29130092026.jpg",
+      "tag": "New today · Strong safety",
+      "reliabilityLevel": "Below average",
+      "reliability": "At 248k miles, this 2.5L/CVT Forester has unusually high repair exposure: oil consumption, CVT wear, wheel bearings, suspension, cooling-system age and rust all need close inspection. Complete engine and transmission service records are essential.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS rated the 2016 Forester Good in driver small-overlap, moderate-front, side, roof and head-restraint tests; passenger small-overlap was Marginal. The listing verifies stability control, curtain airbags and a backup camera, but not optional EyeSight; check recalls by VIN.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/forester-4-door-suv/2016",
+      "verdict": "Excellent crash structure, but mileage makes this a high-risk buy",
+      "note": "Its modern safety shell suits a teen better than many cheap cars, but 248k miles and CVT exposure keep it at the bottom of the ranked group. Consider it only with exceptional records and a Subaru-aware inspection that finds no drivetrain or rust warning signs.",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/83a5379c-9dea-437f-b4af-600992322634/"
     },
@@ -320,8 +320,8 @@
     {
       "vin": "2HGFA15587H501663",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-23",
-      "status": "active",
+      "lastSeen": "2026-08-24",
+      "status": "active, outside top 12",
       "url": "https://www.cars.com/vehicledetail/a02b1d8f-68a2-404d-8570-84c5af2a2e01/"
     },
     {
@@ -351,7 +351,7 @@
     {
       "vin": "1VWAA7A31JC050132",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "not reverified"
     },
     {
@@ -387,14 +387,14 @@
     {
       "vin": "KMHDU4AD2AU878730",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/8e7ffeab-0e88-4c16-ab53-ca5d9e97880a/"
     },
     {
       "vin": "5NPEU46F19H514159",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/83a3f814-ea31-4f3c-9711-d9f4b7a7826f/"
     },
@@ -420,28 +420,28 @@
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d"
     },
     {
       "vin": "1FAHP3FN6AW219911",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.ctcarco.com/2010-Ford-Focus-East-Windsor-CT/used_car/leuO%5dLsgxMw%3d"
     },
     {
       "vin": "JF1GJAH69DH022991",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.ctcarco.com/2013-Subaru-Impreza-Sedan-East-Windsor-CT/used_car/6l18hz3K82M%3d"
     },
@@ -454,15 +454,15 @@
     {
       "vin": "4S4BSAFC6F3335034",
       "firstSeen": "2026-08-20",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active",
       "url": "https://www.ctcarco.com/2015-Subaru-Outback-East-Windsor-CT/used_car/3z8fMheLFLc%3d"
     },
     {
       "vin": "4T1BE32K64U346607",
       "firstSeen": "2026-08-20",
-      "lastSeen": "2026-08-23",
-      "status": "active",
+      "lastSeen": "2026-08-24",
+      "status": "active, outside top 12",
       "url": "https://www.ctcarco.com/2004-Toyota-Camry-East-Windsor-CT/used_car/aPEyY%5dBWD2A%3d"
     },
     {
@@ -523,14 +523,14 @@
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.cars.com/vehicledetail/aa1cfa52-3409-4389-b8b9-f1c422d7e3fc/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active"
     },
     {
       "vin": "5NMSH73E68H174135",
       "url": "https://www.cars.com/vehicledetail/9c6bee4a-3e02-4e6c-9f1d-7df89ae36abf/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "active"
     },
     {
@@ -554,7 +554,7 @@
     {
       "vin": "JF1SG63678H720423",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "status": "excluded after evaluation"
     },
     {
@@ -604,6 +604,27 @@
       "firstSeen": "2026-08-22",
       "lastSeen": "2026-08-22",
       "status": "excluded after evaluation"
+    },
+    {
+      "vin": "1FMCU93108KA14146",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
+      "status": "active",
+      "url": "https://www.ctcarco.com/2008-Ford-Escape-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/hwuW6UAQ71E%3D"
+    },
+    {
+      "vin": "JF2SJAKC8GH513416",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
+      "status": "active",
+      "url": "https://www.ctcarco.com/2016-Subaru-Forester-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/KIeE3XQDO3g%3D"
+    },
+    {
+      "vin": "4S3BMBC65D3045755",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
+      "status": "unavailable on exact source page",
+      "url": "https://www.ctcarco.com/2013-Subaru-Legacy-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/ULAjze2kwkY%3D"
     }
   ]
 }
