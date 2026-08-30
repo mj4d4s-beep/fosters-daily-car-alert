@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-30",
   "priceCap": 5000,
   "active": [
     {
@@ -16,7 +16,7 @@
       "vin": "JM1BL1U61B1381164",
       "url": "https://www.jdpower.com/inventory/2011/mazda/mazda3/east-windsor-ct/jm1bl1u61b1381164?dealercode=20284527",
       "image": null,
-      "tag": "New today · Best manual value",
+      "tag": "Best manual value",
       "reliabilityLevel": "Stronger",
       "reliability": "The 2.5L engine and 6-speed manual are generally durable and avoid automatic-transmission risk. At 105k miles, inspect the clutch, engine mounts, suspension, cooling system and Northeast rust, and require maintenance records.",
       "safetyLevel": "Stronger",
@@ -25,7 +25,7 @@
       "verdict": "Low mileage, durable manual drivetrain and strong crash results",
       "note": "This is today’s best first-car lead if your son can drive a manual. Its advertised price is $4,499, while CarGurus shows $4,898 including fees, so get the written out-the-door price and insist on an independent inspection before traveling.",
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-30"
     },
     {
       "rank": 2,
@@ -50,7 +50,7 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-30"
     },
     {
       "year": 2010,
@@ -74,7 +74,7 @@
       "verdict": "Strong reliability and crash protection, with dealer-fee caution",
       "note": "This is one of today’s best first-car prospects because reliability and safety are both strong. The advertised price is $3,999, but recent dealer reviews mention substantial added fees, so get a written out-the-door figure before traveling.",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "rank": 3
     },
     {
@@ -99,7 +99,7 @@
       "verdict": "Excellent crash record and durable drivetrain, tempered by 203k miles",
       "note": "The Civic’s safety and mechanical reputation make it a serious first-car candidate despite the odometer. Only unusually good records and a clean independent inspection should justify buying a car over 200k miles.",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "rank": 4
     },
     {
@@ -124,7 +124,7 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "rank": 5
     },
     {
@@ -149,11 +149,36 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "rank": 6
     },
     {
-      "rank": 7,
+      "year": 2012,
+      "make": "Honda",
+      "model": "Fit",
+      "trim": "Sport · 1.5L · 5-speed manual · FWD",
+      "price": 4995,
+      "miles": 161952,
+      "dealer": "United Auto Wholesale",
+      "town": "East Windsor, CT",
+      "rating": "Google 4.2 ★ · review count not verified",
+      "vin": "JHMGE8G57CS002707",
+      "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2026/08/22/4159_2832524_55649470_15303422082026.jpg",
+      "tag": "New today · Durable manual",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.5L engine and 5-speed manual have a strong durability record and avoid automatic-transmission risk. At 162k miles, inspect the clutch, spark plugs and coils, valve adjustment, suspension and Northeast rust; CARFAX shows one owner and no reported damage but only three service records.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the original moderate-front, side, roof and head-restraint tests Good, but the Fit earned Poor in the driver-side small-overlap test. Stability control and curtain airbags were standard, yet its light minicar size is a meaningful disadvantage for a 16-year-old.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/fit-4-door-wagon/2012",
+      "verdict": "Excellent mechanical odds, but a serious small-overlap weakness",
+      "note": "This is an appealing, efficient manual with a clean reported history and a price that includes fees. It ranks below several larger cars because the Poor small-overlap result matters for a new driver; require a clutch and rust inspection before considering it.",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "rank": 7
+    },
+    {
+      "rank": 8,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -175,32 +200,7 @@
       "verdict": "Promising low-mileage value, with safety details to confirm",
       "note": "At 125k miles, this has the lowest mileage among the stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-27"
-    },
-    {
-      "year": 2010,
-      "make": "Ford",
-      "model": "Focus",
-      "trim": "SE · 2.0L · automatic · FWD",
-      "price": 4999,
-      "miles": 93067,
-      "dealer": "CT Car Co LLC",
-      "town": "East Windsor, CT",
-      "rating": "Google rating not verified",
-      "vin": "1FAHP3FN6AW219911",
-      "url": "https://www.ctcarco.com/2010-Ford-Focus-East-Windsor-CT/used_car/leuO%5dLsgxMw%3d",
-      "image": "https://images.autofunds.net/InventoryImages/2026/08/03/4107_2823258_11242826_2241503242026.jpg",
-      "tag": "Lowest mileage",
-      "reliabilityLevel": "Stronger",
-      "reliability": "This older Focus uses a conventional automatic, not the later PowerShift unit, and its 2.0L drivetrain is generally durable. Low mileage is attractive, but age means rust, mounts, suspension, seals and long storage intervals still need scrutiny.",
-      "safetyLevel": "Average",
-      "safety": "IIHS ratings applying to 2008–11 models are Good for original moderate-front and head restraints and Acceptable for side impact. Curtain and torso airbags were standard, but electronic stability control was not verified for this car.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/focus-4-door-sedan/2011",
-      "verdict": "Simple low-mileage drivetrain, older safety design",
-      "note": "At 93k miles this is mechanically appealing, but its crash protection and unverified stability control trail the newer Focus and Impreza. Confirm the odometer history and inspect for corrosion from age and Northeast use.",
-      "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-27",
-      "rank": 8
+      "lastSeen": "2026-08-30"
     },
     {
       "rank": 9,
@@ -225,7 +225,7 @@
       "verdict": "Good crash protection and reasonable mechanical odds",
       "note": "This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-30"
     },
     {
       "year": 2011,
@@ -249,57 +249,57 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "rank": 10
     },
     {
-      "rank": 11,
-      "year": 2008,
-      "make": "Ford",
-      "model": "Escape",
-      "trim": "XLT · 3.0L V6 · 4-speed automatic · 4WD",
-      "price": 2499,
-      "miles": 146768,
-      "dealer": "CT Car Co LLC",
-      "town": "East Windsor, CT",
-      "rating": "Google rating not verified",
-      "vin": "1FMCU93108KA14146",
-      "url": "https://www.ctcarco.com/2008-Ford-Escape-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/hwuW6UAQ71E%3D",
-      "image": "https://images.autofunds.net/InventoryImages/2026/01/14/4107_2723390_16285354_230714302026.jpg",
-      "tag": "Lowest price",
-      "reliabilityLevel": "Average",
-      "reliability": "The 3.0L Duratec V6 and conventional 4-speed automatic have a generally serviceable record, but 147k miles and Northeast age raise transmission, cooling-system, suspension, wheel-bearing and structural-rust risk. Inspect the rear wheel wells, subframes and 4WD system closely.",
+      "year": 2011,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "trim": "i Touring · 2.0L · automatic · FWD",
+      "price": 4450,
+      "miles": 144598,
+      "dealer": "Auto Globe LLC",
+      "town": "Springfield, MA",
+      "rating": "Google 4.1 ★ · 106 reviews",
+      "vin": "JM1BL1VG3B1409909",
+      "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2025/06/09/4205_2615131_77341528_692009092025.jpg",
+      "tag": "New today · Conventional automatic",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.0L engine and conventional automatic are generally durable and inexpensive to service. At 145k miles, inspect engine mounts, cooling system, suspension, transmission shifts and rust; CARFAX reports an accident, so body and structural checks are essential.",
       "safetyLevel": "Average",
-      "safety": "IIHS rated the 2008 Escape Acceptable in the original moderate-front test, Good in side impact, Marginal for roof strength and Acceptable for head restraints. This listing verifies standard side-curtain airbags, ABS and AdvanceTrac stability control; open-recall status still needs a VIN check.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/escape/2008",
-      "verdict": "Useful safety equipment and a low price, with older-SUV compromises",
-      "note": "Standard stability control and curtain airbags are important positives for a new driver, while the only-Acceptable frontal result and Marginal roof rating prevent a stronger safety grade. At $2,499 it is worth inspecting, but rust and automatic-transmission condition are deal-breakers.",
-      "firstSeen": "2026-08-24",
-      "lastSeen": "2026-08-27"
+      "safety": "IIHS rated the original moderate-front and side tests Good; roof strength is Good only for cars built after December 2010. The build date and electronic stability control on this specific car were not verified, so confirm both before treating it as a Top Safety Pick.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/mazda/3-4-door-sedan/2013",
+      "verdict": "Durable drivetrain with safety and accident-history questions",
+      "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "rank": 11
     },
     {
-      "year": 2015,
-      "make": "Subaru",
-      "model": "Outback",
-      "trim": "2.5i Premium · CVT · AWD",
-      "price": 4499,
-      "miles": 207238,
-      "dealer": "CT Car Co LLC",
-      "town": "East Windsor, CT",
-      "rating": "Google rating not verified",
-      "vin": "4S4BSAFC6F3335034",
-      "url": "https://www.ctcarco.com/2015-Subaru-Outback-East-Windsor-CT/used_car/3z8fMheLFLc%3d",
-      "image": "https://images.autofunds.net/InventoryImages/2026/03/27/4107_2758666_17477469_4285427282026.jpg",
-      "tag": "Modern safety shell",
-      "reliabilityLevel": "Below average",
-      "reliability": "At 207k miles, this Outback carries substantial CVT valve-body and wear risk plus possible oil consumption, wheel-bearing, suspension and Northeast-rust costs. A Subaru-specialist inspection and strong fluid-service records are essential.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS ratings applying to 2015–19 Outbacks are Good in small-overlap, moderate-front, side, roof and head-restraint tests. Stability control and curtain airbags were standard; the listing does not verify optional EyeSight.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/outback-4-door-wagon/2017",
-      "verdict": "Excellent crash protection, very high repair exposure",
-      "note": "This is a strong crash-protection option, but its mileage and CVT keep it well below the simpler cars. Consider it only with unusually complete records, a clean cold-to-hot road test and an independent inspection.",
-      "firstSeen": "2026-08-20",
-      "lastSeen": "2026-08-27",
+      "year": 2008,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "trim": "GLS · 2.4L · automatic · FWD",
+      "price": 4999,
+      "miles": 97229,
+      "dealer": "New England Motor Cars",
+      "town": "Springfield, MA",
+      "rating": "Google 3.8 ★ · 49 reviews",
+      "vin": "5NPET46CX8H346495",
+      "url": "https://www.carfax.com/vehicle/5NPET46CX8H346495",
+      "image": null,
+      "tag": "New today · Low-mileage sedan",
+      "reliabilityLevel": "Average",
+      "reliability": "The 2.4L engine and conventional automatic are generally serviceable, and 97k miles is unusually low at this price. Age still raises oil-leak, cooling-system, suspension, electrical and rust risk; CARFAX reports an accident but also 51 service records.",
+      "safetyLevel": "Average",
+      "safety": "IIHS ratings for this generation are Good in the original moderate-front, side and head-restraint tests. The marketplace lists stability control, but confirm the equipment works and check this VIN for unresolved recalls, including occupant-detection and stop-lamp campaigns.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/hyundai/sonata-4-door-sedan/2010",
+      "verdict": "Low mileage helps, while age and accident history keep it cautious",
+      "note": "This is worth a look only after confirming the accident repairs, recall completion and actual out-the-door price. The current marketplace listing shows $4,999 while another tracker shows $4,899; the specific-car photo could not be retrieved, so call before traveling.",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
       "rank": 12
     }
   ],
@@ -307,7 +307,7 @@
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/83a5379c-9dea-437f-b4af-600992322634/"
     },
@@ -387,14 +387,14 @@
     {
       "vin": "KMHDU4AD2AU878730",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/8e7ffeab-0e88-4c16-ab53-ca5d9e97880a/"
     },
     {
       "vin": "5NPEU46F19H514159",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/83a3f814-ea31-4f3c-9711-d9f4b7a7826f/"
     },
@@ -420,22 +420,22 @@
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d"
     },
     {
       "vin": "1FAHP3FN6AW219911",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-27",
-      "status": "active",
+      "lastSeen": "2026-08-30",
+      "status": "source page no longer shows vehicle on 2026-08-30",
       "url": "https://www.ctcarco.com/2010-Ford-Focus-East-Windsor-CT/used_car/leuO%5dLsgxMw%3d"
     },
     {
@@ -454,8 +454,8 @@
     {
       "vin": "4S4BSAFC6F3335034",
       "firstSeen": "2026-08-20",
-      "lastSeen": "2026-08-27",
-      "status": "active",
+      "lastSeen": "2026-08-30",
+      "status": "active, outside top 12",
       "url": "https://www.ctcarco.com/2015-Subaru-Outback-East-Windsor-CT/used_car/3z8fMheLFLc%3d"
     },
     {
@@ -523,7 +523,7 @@
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.cars.com/vehicledetail/aa1cfa52-3409-4389-b8b9-f1c422d7e3fc/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active"
     },
     {
@@ -608,8 +608,8 @@
     {
       "vin": "1FMCU93108KA14146",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-08-27",
-      "status": "active",
+      "lastSeen": "2026-08-30",
+      "status": "active, outside top 12",
       "url": "https://www.ctcarco.com/2008-Ford-Escape-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/hwuW6UAQ71E%3D"
     },
     {
@@ -635,14 +635,14 @@
     {
       "vin": "1NXBU4EE3AZ355128",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/54ff6381-c5fd-4b6f-ac02-54d49a9ef758/"
     },
     {
       "vin": "2HGFB2F58DH506049",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.hpgauto.com/cars-for-sale-in-Hartford-CT-West-Hartford-Wethersfield/used_cars"
     },
@@ -661,9 +661,72 @@
     {
       "vin": "JM1BL1U61B1381164",
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-30",
       "status": "active",
       "url": "https://www.jdpower.com/inventory/2011/mazda/mazda3/east-windsor-ct/jm1bl1u61b1381164?dealercode=20284527"
+    },
+    {
+      "vin": "JHMGE8G57CS002707",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "active",
+      "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D"
+    },
+    {
+      "vin": "JM1BL1VG3B1409909",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "active",
+      "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D"
+    },
+    {
+      "vin": "5NPET46CX8H346495",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "active",
+      "url": "https://www.carfax.com/vehicle/5NPET46CX8H346495"
+    },
+    {
+      "vin": "19XFB2F52FE257910",
+      "url": "https://www.carfax.com/vehicle/19XFB2F52FE257910",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "4S4BRBKC4B3443315",
+      "url": "https://www.carfax.com/vehicle/4S4BRBKC4B3443315",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "1FAFP34N46W190944",
+      "url": "https://www.carfax.com/vehicle/1FAFP34N46W190944",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "1N4AL2AP0AC132426",
+      "url": "https://www.carfax.com/vehicle/1N4AL2AP0AC132426",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "JT8BF28G5Y5077934",
+      "url": "https://www.carfax.com/vehicle/JT8BF28G5Y5077934",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "excluded after evaluation"
+    },
+    {
+      "vin": "5TDZK23C07S031646",
+      "url": "https://www.carfax.com/vehicle/5TDZK23C07S031646",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "excluded after evaluation"
     }
   ]
 }
