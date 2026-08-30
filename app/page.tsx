@@ -19,10 +19,11 @@ function CarCard({ car, kind }: { car: DealerCar | FacebookCar; kind: "dealer" |
   const secondary = dealerCar ? dealerCar.rating : "Private party";
 
   return (
-    <article className={`car-card ${car.rank === 1 ? "winner" : ""}`}>
+    <article className={`car-card source-${kind} ${car.rank === 1 ? "winner" : ""}`}>
       <div className="photo-wrap">
         <img src={car.image} alt={`Exact ${car.year} ${car.make} ${car.model} from this listing`} />
         <span className="rank">#{car.rank}</span>
+        <span className="source-badge">{kind === "dealer" ? "Dealer car" : "Facebook · Private party"}</span>
         <span className="tag">{car.tag}</span>
       </div>
       <div className="car-copy">
@@ -85,17 +86,21 @@ export default function Home() {
       </section>
 
       <section className="ranking-section dealer-section" aria-labelledby="dealer-heading">
-        <div className="section-heading">
-          <div><p className="eyebrow">INDEPENDENT RANKING · UP TO 12</p><h2 id="dealer-heading">Dealer Cars</h2></div>
-          <p>{dealers.length} live, individually verified dealer listings. Rank #1 is this group’s best current deal; Facebook cars are not used to fill dealer slots.</p>
+        <div className="source-header dealer-header">
+          <div className="source-header-inner">
+            <div><p className="eyebrow">DEALERSHIPS · INDEPENDENT RANKING · UP TO 12</p><h2 id="dealer-heading">Dealer Cars</h2></div>
+            <p>{dealers.length} live, individually verified dealership listings. Every card in this section is marked “Dealer car.” Rank #1 is this group’s best current deal.</p>
+          </div>
         </div>
         <div className="list" aria-label="Ranked dealer cars">{dealers.map((car) => <CarCard key={car.vin} car={car} kind="dealer" />)}</div>
       </section>
 
       <section className="ranking-section facebook-section" aria-labelledby="facebook-heading">
-        <div className="section-heading">
-          <div><p className="eyebrow">INDEPENDENT RANKING · UP TO 8</p><h2 id="facebook-heading">Facebook Marketplace — Private Party</h2></div>
-          <p>{facebook.length} live private-party listings survived individual-page verification. Rank #1 is this group’s best current deal; dealer listings and weak or unverifiable posts were excluded.</p>
+        <div className="source-header facebook-header">
+          <div className="source-header-inner">
+            <div><p className="eyebrow">FACEBOOK MARKETPLACE · INDEPENDENT RANKING · UP TO 8</p><h2 id="facebook-heading">Facebook Cars</h2></div>
+            <p>{facebook.length} live private-party listings survived individual-page verification. Every card in this section is marked “Facebook · Private party.” Rank #1 is this group’s best current deal.</p>
+          </div>
         </div>
         <div className="private-caution"><strong>Private-party safeguards</strong><span>Confirm the seller’s identity matches the title, verify there is no lien, meet in a safe public place, run the VIN through recall and history checks, and arrange an independent inspection before payment.</span></div>
         <div className="list" aria-label="Ranked Facebook Marketplace private-party cars">{facebook.map((car) => <CarCard key={car.listingId} car={car} kind="facebook" />)}</div>

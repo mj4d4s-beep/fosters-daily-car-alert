@@ -22,13 +22,15 @@ test("server-renders the complete daily alert", async () => {
   assert.match(html, /Foster’s Car Alert — August 30, 2026/);
   assert.match(html, /Two searches/);
   assert.match(html, /Dealer Cars/);
-  assert.match(html, /Facebook Marketplace — Private Party/);
+  assert.match(html, /Facebook Cars/);
+  assert.match(html, /Facebook · Private party/);
+  assert.match(html, /Dealer car/);
   assert.match(html, /2012.*Mazda/s);
   assert.match(html, /Reliability/);
   assert.match(html, /Safety/);
   assert.match(html, /Independent inspection/);
   assert.equal((html.match(/<article/g) ?? []).length, 15);
-  assert.equal((html.match(/class="car-card winner"/g) ?? []).length, 2);
+  assert.equal((html.match(/class="car-card[^"]* winner"/g) ?? []).length, 2);
 });
 
 test("keeps dealer and Facebook listings separate and below the price ceiling", async () => {
