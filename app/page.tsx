@@ -1,230 +1,123 @@
 import type { Metadata } from "next";
-import inventory from "../data/inventory.json";
+import dealerInventory from "../data/inventory.json";
+import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
   title: "Foster’s Car Alert — August 30, 2026",
-  description:
-    "Twelve verified dealer cars at $5,000 or less near Leverett, Massachusetts.",
+  description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Leverett, Massachusetts.",
 };
-const cars = inventory.active;
-const money = new Intl.NumberFormat("en-US", {
-  style: "currency",
-  currency: "USD",
-  maximumFractionDigits: 0,
-});
+
+const money = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
 const number = new Intl.NumberFormat("en-US");
-const checked = [
-  "Arrow Auto Sales",
-  "Affordable Used Cars",
-  "Reliance Auto",
-  "Auto Sales Center Inc",
-  "Matt’s Auto Mall",
-  "Depot Auto Sales",
-  "Shelby Motor Cars",
-  "Cottage Street Used Car Sales",
-  "Ken’s Auto Sales",
-  "AJ’s Auto Land",
-  "Green River Auto",
-  "Thrifty Springfield & Westfield",
-  "Athol Motors",
-  "CT Car Co",
-  "Enfield Street Auto Sales",
-  "Adam Auto Sales",
-  "Gale Toyota",
-  "Granite Auto Sales",
-  "Driveline Motors",
-  "Absolute Motors",
-  "Stop & Drive Auto Sales",
-];
+type DealerCar = (typeof dealerInventory.active)[number];
+type FacebookCar = (typeof facebookInventory.active)[number];
+
+function CarCard({ car, kind }: { car: DealerCar | FacebookCar; kind: "dealer" | "facebook" }) {
+  const dealerCar = kind === "dealer" ? (car as DealerCar) : null;
+  const facebookCar = kind === "facebook" ? (car as FacebookCar) : null;
+  const identity = dealerCar ? `${dealerCar.dealer} · ${dealerCar.town}` : `${facebookCar!.source} · ${facebookCar!.town}`;
+  const secondary = dealerCar ? dealerCar.rating : "Private party";
+
+  return (
+    <article className={`car-card ${car.rank === 1 ? "winner" : ""}`}>
+      <div className="photo-wrap">
+        <img src={car.image} alt={`Exact ${car.year} ${car.make} ${car.model} from this listing`} />
+        <span className="rank">#{car.rank}</span>
+        <span className="tag">{car.tag}</span>
+      </div>
+      <div className="car-copy">
+        <div className="title-row">
+          <div>
+            <p className="make">{car.year} · {car.make}</p>
+            <h3>{car.model}</h3>
+            <p className="trim">{car.trim}</p>
+          </div>
+          <div className="price"><strong>{money.format(car.price)}</strong><span>{number.format(car.miles)} miles</span></div>
+        </div>
+        <div className="dealer"><span>{identity}</span><span>{secondary}</span></div>
+        <div className="assessments">
+          <div>
+            <span>Reliability</span>
+            <strong className={`level ${car.reliabilityLevel.toLowerCase().replace(" ", "-")}`}>{car.reliabilityLevel}</strong>
+            <p>{car.reliability}</p>
+          </div>
+          <div>
+            <span>Safety</span>
+            <strong className={`level ${car.safetyLevel.toLowerCase().replace(" ", "-")}`}>{car.safetyLevel}</strong>
+            <p>{car.safety}</p>
+            <a className="evidence" href={car.safetySource} target="_blank" rel="noreferrer">Safety evidence ↗</a>
+          </div>
+        </div>
+        <div className="review"><h4>{car.verdict}</h4><p>{car.note}</p></div>
+        <div className="actions">
+          <a href={car.url} target="_blank" rel="noreferrer">View original listing ↗</a>
+          <span>{car.vin ? `VIN ${car.vin}` : "VIN not shown — verify before purchase"}</span>
+        </div>
+      </div>
+    </article>
+  );
+}
 
 export default function Home() {
-  const median = [...cars].sort((a, b) => a.price - b.price)[
-    Math.floor(cars.length / 2)
-  ].price;
+  const dealers = [...dealerInventory.active].sort((a, b) => a.rank - b.rank);
+  const facebook = [...facebookInventory.active].sort((a, b) => a.rank - b.rank);
+
   return (
     <main>
       <header className="hero">
-        <nav>
-          <span className="wordmark">FOSTER’S</span>
-          <span className="date">SUNDAY · AUG 30, 2026</span>
-        </nav>
+        <nav><span className="wordmark">FOSTER’S</span><span className="date">SUNDAY · AUG 30, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · LEVERETT, MASSACHUSETTS</p>
-          <h1>
-            Twelve cars worth
-            <br />
-            <em>a careful look.</em>
-          </h1>
-          <p className="dek">
-            Dealer listings at $5,000 or less, within about an hour of home.
-            Reliability and safety lead the ranking for a 16-year-old driver;
-            price and mileage come second.
-          </p>
+          <h1>Two searches.<br /><em>Two honest rankings.</em></h1>
+          <p className="dek">Dealer and Facebook Marketplace cars at $5,000 or less, within roughly an hour of home. Reliability and safety are co-equal for a 16-year-old driver; price and mileage come next.</p>
         </div>
         <div className="stats">
-          <div>
-            <strong>{cars.length}</strong>
-            <span>active cars</span>
-          </div>
-          <div>
-            <strong>{money.format(median)}</strong>
-            <span>median price</span>
-          </div>
-          <div>
-            <strong>60 min</strong>
-            <span>search radius</span>
-          </div>
+          <div><strong>{dealers.length}</strong><span>dealer cars</span></div>
+          <div><strong>{facebook.length}</strong><span>private-party cars</span></div>
+          <div><strong>$5k</strong><span>firm ceiling</span></div>
+          <div><strong>60 min</strong><span>rough drive time</span></div>
         </div>
       </header>
+
       <section className="method">
         <span>How they’re ranked</span>
-        <p>
-          This is a judgment call, not a formula. Model-specific reliability and
-          verified crash protection are co-equal and dominate the order;
-          mileage, repair exposure, price and dealer reputation break closer
-          calls. Every car still needs service records, a VIN recall check and
-          an independent inspection.
-        </p>
+        <p>Each source has its own ranking beginning at #1. Model-specific reliability and verified crash protection lead; mileage, repair exposure, price, history and seller transparency break closer calls. Every car still needs records, a VIN recall check, title verification and an independent inspection.</p>
       </section>
-      <section className="list" aria-label="Ranked car listings">
-        {cars.map((car) => (
-          <article
-            className={`car-card ${car.rank === 1 ? "winner" : ""}`}
-            key={car.vin}
-          >
-            <div className="photo-wrap">
-              {car.image ? (
-                <img
-                  src={car.image}
-                  alt={`Dealer photo of ${car.year} ${car.make} ${car.model}`}
-                />
-              ) : (
-                <div className="photo-missing">
-                  <span>Photo unavailable</span>
-                  <small>The source blocked retrieval.</small>
-                </div>
-              )}
-              <span className="rank">#{car.rank}</span>
-              <span className="tag">{car.tag}</span>
-            </div>
-            <div className="car-copy">
-              <div className="title-row">
-                <div>
-                  <p className="make">
-                    {car.year} · {car.make}
-                  </p>
-                  <h2>{car.model}</h2>
-                  <p className="trim">{car.trim}</p>
-                </div>
-                <div className="price">
-                  <strong>{money.format(car.price)}</strong>
-                  <span>{number.format(car.miles)} miles</span>
-                </div>
-              </div>
-              <div className="dealer">
-                <span>
-                  {car.dealer} · {car.town}
-                </span>
-                <span>{car.rating}</span>
-              </div>
-              <div className="assessments">
-                <div>
-                  <span>Reliability</span>
-                  <strong
-                    className={`level ${car.reliabilityLevel.toLowerCase().replace(" ", "-")}`}
-                  >
-                    {car.reliabilityLevel}
-                  </strong>
-                  <p>{car.reliability}</p>
-                </div>
-                <div>
-                  <span>Safety</span>
-                  <strong
-                    className={`level ${car.safetyLevel.toLowerCase().replace(" ", "-")}`}
-                  >
-                    {car.safetyLevel}
-                  </strong>
-                  <p>{car.safety}</p>
-                  <a
-                    className="evidence"
-                    href={car.safetySource}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    IIHS evidence ↗
-                  </a>
-                </div>
-              </div>
-              <div className="review">
-                <h3>{car.verdict}</h3>
-                <p>{car.note}</p>
-              </div>
-              <div className="actions">
-                <a href={car.url} target="_blank" rel="noreferrer">
-                  View original listing ↗
-                </a>
-                <span>VIN {car.vin}</span>
-              </div>
-            </div>
-          </article>
-        ))}
+
+      <section className="ranking-section dealer-section" aria-labelledby="dealer-heading">
+        <div className="section-heading">
+          <div><p className="eyebrow">INDEPENDENT RANKING · UP TO 12</p><h2 id="dealer-heading">Dealer Cars</h2></div>
+          <p>{dealers.length} live, individually verified dealer listings. Rank #1 is this group’s best current deal; Facebook cars are not used to fill dealer slots.</p>
+        </div>
+        <div className="list" aria-label="Ranked dealer cars">{dealers.map((car) => <CarCard key={car.vin} car={car} kind="dealer" />)}</div>
       </section>
+
+      <section className="ranking-section facebook-section" aria-labelledby="facebook-heading">
+        <div className="section-heading">
+          <div><p className="eyebrow">INDEPENDENT RANKING · UP TO 8</p><h2 id="facebook-heading">Facebook Marketplace — Private Party</h2></div>
+          <p>{facebook.length} live private-party listings survived individual-page verification. Rank #1 is this group’s best current deal; dealer listings and weak or unverifiable posts were excluded.</p>
+        </div>
+        <div className="private-caution"><strong>Private-party safeguards</strong><span>Confirm the seller’s identity matches the title, verify there is no lien, meet in a safe public place, run the VIN through recall and history checks, and arrange an independent inspection before payment.</span></div>
+        <div className="list" aria-label="Ranked Facebook Marketplace private-party cars">{facebook.map((car) => <CarCard key={car.listingId} car={car} kind="facebook" />)}</div>
+      </section>
+
       <section className="coverage">
-        <p className="eyebrow">SEARCH COVERAGE</p>
-        <h2>
-          Checked broadly; only the best currently verified cars are shown.
-        </h2>
-        <p className="coverage-note">
-          Several sub-$5,000 listings were excluded because they carried
-          substantially worse engine, transmission or crash-protection risk.
-          Some individual listing pages blocked automated access; marketplace
-          inventory pages still verified the VIN, dealer, price and photo shown
-          here.
-        </p>
-        <div className="dealer-grid">
-          {checked.map((name) => (
-            <span key={name}>{name}</span>
-          ))}
-        </div>
+        <p className="eyebrow">VERIFICATION NOTES</p>
+        <h2>Fewer cars is better than false confidence.</h2>
+        <p className="coverage-note">This run removed dealer listings whose original pages no longer matched, and rejected Facebook posts with unresolved brake or check-engine faults, dealer misclassification, conflicting details, or excessive distance. Exact listing photos are shown; no stock or substitute images were used.</p>
       </section>
+
       <section className="checklist">
-        <div>
-          <p className="eyebrow">BEFORE MONEY CHANGES HANDS</p>
-          <h2>Three non-negotiables.</h2>
-        </div>
+        <div><p className="eyebrow">BEFORE MONEY CHANGES HANDS</p><h2>Four non-negotiables.</h2></div>
         <ol>
-          <li>
-            <b>Independent inspection</b>
-            <span>
-              Have a mechanic—not the seller—check structure, rust, leaks,
-              brakes and tires.
-            </span>
-          </li>
-          <li>
-            <b>VIN history + recalls</b>
-            <span>
-              Confirm title, crashes and open safety recalls using the actual
-              VIN.
-            </span>
-          </li>
-          <li>
-            <b>Insurance quote</b>
-            <span>
-              Price coverage for a 16-year-old before putting down a deposit.
-            </span>
-          </li>
+          <li><b>Independent inspection</b><span>Have a mechanic—not the seller—check structure, rust, leaks, brakes and tires.</span></li>
+          <li><b>VIN history + recalls</b><span>Confirm title, accidents, mileage and open safety campaigns using the actual VIN.</span></li>
+          <li><b>Written price</b><span>Get the full out-the-door dealer price, or a signed private-party bill of sale.</span></li>
+          <li><b>Insurance quote</b><span>Price coverage for a 16-year-old before putting down a deposit.</span></li>
         </ol>
       </section>
-      <footer>
-        <p>
-          Fresh search completed August 30, 2026. All twelve cars shown were
-          re-verified on current dealer or marketplace inventory pages.
-        </p>
-        <p>
-          Individual listing pages were opened where sources allowed; ratings
-          and equipment were not guessed. Availability can change—call first.
-        </p>
-      </footer>
+
+      <footer><p>Fresh search completed August 30, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }

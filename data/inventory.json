@@ -4,31 +4,6 @@
   "active": [
     {
       "rank": 1,
-      "year": 2011,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "trim": "s Sport · 2.5L · 6-speed manual · FWD",
-      "price": 4499,
-      "miles": 104861,
-      "dealer": "STS Automotive Sales & Service",
-      "town": "East Windsor, CT",
-      "rating": "Google 4.5 ★ · 171 reviews",
-      "vin": "JM1BL1U61B1381164",
-      "url": "https://www.jdpower.com/inventory/2011/mazda/mazda3/east-windsor-ct/jm1bl1u61b1381164?dealercode=20284527",
-      "image": null,
-      "tag": "Best manual value",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 2.5L engine and 6-speed manual are generally durable and avoid automatic-transmission risk. At 105k miles, inspect the clutch, engine mounts, suspension, cooling system and Northeast rust, and require maintenance records.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS rated the original moderate-front, side, roof and head-restraint tests Good; the 2011 Top Safety Pick award applies only to cars built after December 2010. Stability control is listed, but verify the build date, equipment operation and VIN recall status.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/mazda/3-4-door-hatchback/2013",
-      "verdict": "Low mileage, durable manual drivetrain and strong crash results",
-      "note": "This is today’s best first-car lead if your son can drive a manual. Its advertised price is $4,499, while CarGurus shows $4,898 including fees, so get the written out-the-door price and insist on an independent inspection before traveling.",
-      "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-30"
-    },
-    {
-      "rank": 2,
       "year": 2012,
       "make": "Mazda",
       "model": "Mazda3",
@@ -75,7 +50,7 @@
       "note": "This is one of today’s best first-car prospects because reliability and safety are both strong. The advertised price is $3,999, but recent dealer reviews mention substantial added fees, so get a written out-the-door figure before traveling.",
       "firstSeen": "2026-08-26",
       "lastSeen": "2026-08-30",
-      "rank": 3
+      "rank": 2
     },
     {
       "year": 2013,
@@ -100,7 +75,7 @@
       "note": "The Civic’s safety and mechanical reputation make it a serious first-car candidate despite the odometer. Only unusually good records and a clean independent inspection should justify buying a car over 200k miles.",
       "firstSeen": "2026-08-26",
       "lastSeen": "2026-08-30",
-      "rank": 4
+      "rank": 3
     },
     {
       "year": 2012,
@@ -203,28 +178,28 @@
       "lastSeen": "2026-08-30"
     },
     {
-      "rank": 9,
-      "year": 2009,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "trim": "Limited · 3.3L V6 · automatic · FWD",
-      "price": 3999,
-      "miles": 132907,
-      "dealer": "Driveline Motors",
-      "town": "Springfield, MA",
-      "rating": "Google 5.0 ★ · 67 reviews",
-      "vin": "5NPEU46F19H514159",
-      "url": "https://www.cars.com/vehicledetail/83a3f814-ea31-4f3c-9711-d9f4b7a7826f/",
-      "image": "https://platform.cstatic-images.com/large/in/v2/3cb5d95a-2f30-5d2c-b346-5c7188b5409d/bbbecf78-a018-49da-b869-b19261de9cc1/i6TfK7FqTG_sdEUTcTuhWlfTseA.jpg",
-      "tag": "Midsize option",
-      "reliabilityLevel": "Average",
-      "reliability": "The 3.3L Lambda V6 avoids the later Sonata’s notorious 2.4L Theta II pattern and is usually durable, but adds fuel and repair cost. Check oil leaks, charging system, suspension, cooling system and rust.",
+      "rank": 4,
+      "year": 2008,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "LX · 2.4L · automatic · 4WD",
+      "price": 4999,
+      "miles": 187597,
+      "dealer": "HPG Auto Sales LLC",
+      "town": "Hartford, CT",
+      "rating": "Google rating not verified",
+      "vin": "JHLRE48378C045948",
+      "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2026/07/17/4513_2815483_78888620_2572117572026.jpg",
+      "tag": "New today · Strong safety shell",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.4L engine and conventional automatic are generally durable, but 188k miles and 4WD add wear exposure. Check oil consumption, rear-differential service, air conditioning, suspension, wheel bearings, brakes and Northeast rust.",
       "safetyLevel": "Stronger",
-      "safety": "IIHS ratings applying to the 2009 Sonata are Good for original moderate-overlap front, side and head restraints. The listing shows stability control; verify the equipment and recall status on the car.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/hyundai/sonata-4-door-sedan/2010",
-      "verdict": "Good crash protection and reasonable mechanical odds",
-      "note": "This is a sensible midsize first-car candidate if the V6’s higher fuel and insurance costs fit. A clean cold start, rust-free underside and maintenance file matter more than the attractive price.",
-      "firstSeen": "2026-08-08",
+      "safety": "IIHS named the 2008 CR-V a Top Safety Pick, with Good original moderate-front, side and head-restraint ratings; roof strength was later rated Marginal. Stability control and curtain airbags were standard, but operation and VIN recall status still need confirmation.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/cr-v-4-door-suv/2007",
+      "verdict": "A strong safety and durability combination, with high-mileage AWD costs to audit",
+      "note": "This is a newly found dealer lead with a live individual page, exact photos, VIN and clear $4,999 price. It belongs near the top only if service records and a rust-focused independent inspection support the model’s reputation.",
+      "firstSeen": "2026-08-30",
       "lastSeen": "2026-08-30"
     },
     {
@@ -250,7 +225,7 @@
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
       "lastSeen": "2026-08-30",
-      "rank": 10
+      "rank": 9
     },
     {
       "year": 2011,
@@ -275,32 +250,7 @@
       "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-08-30",
-      "rank": 11
-    },
-    {
-      "year": 2008,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "trim": "GLS · 2.4L · automatic · FWD",
-      "price": 4999,
-      "miles": 97229,
-      "dealer": "New England Motor Cars",
-      "town": "Springfield, MA",
-      "rating": "Google 3.8 ★ · 49 reviews",
-      "vin": "5NPET46CX8H346495",
-      "url": "https://www.carfax.com/vehicle/5NPET46CX8H346495",
-      "image": null,
-      "tag": "New today · Low-mileage sedan",
-      "reliabilityLevel": "Average",
-      "reliability": "The 2.4L engine and conventional automatic are generally serviceable, and 97k miles is unusually low at this price. Age still raises oil-leak, cooling-system, suspension, electrical and rust risk; CARFAX reports an accident but also 51 service records.",
-      "safetyLevel": "Average",
-      "safety": "IIHS ratings for this generation are Good in the original moderate-front, side and head-restraint tests. The marketplace lists stability control, but confirm the equipment works and check this VIN for unresolved recalls, including occupant-detection and stop-lamp campaigns.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/hyundai/sonata-4-door-sedan/2010",
-      "verdict": "Low mileage helps, while age and accident history keep it cautious",
-      "note": "This is worth a look only after confirming the accident repairs, recall completion and actual out-the-door price. The current marketplace listing shows $4,999 while another tracker shows $4,899; the specific-car photo could not be retrieved, so call before traveling.",
-      "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "rank": 12
+      "rank": 10
     }
   ],
   "seen": [
@@ -395,7 +345,7 @@
       "vin": "5NPEU46F19H514159",
       "firstSeen": "2026-08-08",
       "lastSeen": "2026-08-30",
-      "status": "active",
+      "status": "removed from active; original dealer and price no longer reverified",
       "url": "https://www.cars.com/vehicledetail/83a3f814-ea31-4f3c-9711-d9f4b7a7826f/"
     },
     {
@@ -662,7 +612,7 @@
       "vin": "JM1BL1U61B1381164",
       "firstSeen": "2026-08-27",
       "lastSeen": "2026-08-30",
-      "status": "active",
+      "status": "removed from active; individual page now returns not found",
       "url": "https://www.jdpower.com/inventory/2011/mazda/mazda3/east-windsor-ct/jm1bl1u61b1381164?dealercode=20284527"
     },
     {
@@ -683,8 +633,15 @@
       "vin": "5NPET46CX8H346495",
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-08-30",
-      "status": "active",
+      "status": "removed from active; exact-car photo not reverified",
       "url": "https://www.carfax.com/vehicle/5NPET46CX8H346495"
+    },
+    {
+      "vin": "JHLRE48378C045948",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "status": "active",
+      "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D"
     },
     {
       "vin": "19XFB2F52FE257910",

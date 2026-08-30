@@ -20,18 +20,23 @@ test("server-renders the complete daily alert", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
   assert.match(html, /Foster’s Car Alert — August 30, 2026/);
-  assert.match(html, /Twelve cars worth/);
-  assert.match(html, /New today · Durable manual/);
+  assert.match(html, /Two searches/);
+  assert.match(html, /Dealer Cars/);
+  assert.match(html, /Facebook Marketplace — Private Party/);
   assert.match(html, /2012.*Mazda/s);
   assert.match(html, /Reliability/);
   assert.match(html, /Safety/);
   assert.match(html, /Independent inspection/);
-  assert.equal((html.match(/<article/g) ?? []).length, 12);
+  assert.equal((html.match(/<article/g) ?? []).length, 15);
+  assert.equal((html.match(/class="car-card winner"/g) ?? []).length, 2);
 });
 
-test("contains only dealer listing links at or below the price ceiling", async () => {
+test("keeps dealer and Facebook listings separate and below the price ceiling", async () => {
   const html = await (await render()).text();
-  assert.doesNotMatch(html, /craigslist|facebook\.com\/marketplace/i);
+  assert.doesNotMatch(html, /craigslist/i);
+  assert.match(html, /aria-label="Ranked dealer cars"/);
+  assert.match(html, /aria-label="Ranked Facebook Marketplace private-party cars"/);
+  assert.match(html, /facebook\.com\/marketplace\/item\//i);
   for (const price of html.matchAll(/<strong>\$([\d,]+)<\/strong>/g)) {
     assert.ok(Number(price[1].replaceAll(",", "")) <= 5000);
   }
