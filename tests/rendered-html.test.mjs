@@ -19,8 +19,10 @@ test("server-renders the complete daily alert", async () => {
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
-  assert.match(html, /Foster’s Car Alert — August 30, 2026/);
-  assert.match(html, /Two searches/);
+  assert.match(html, /Dealer and Facebook Listings for Foster’s Car Search — August 30, 2026/);
+  assert.match(html, /Dealer and Facebook Listings/);
+  assert.match(html, /SHUTESBURY \/ AMHERST, MASSACHUSETTS/);
+  assert.doesNotMatch(html, /Leverett/i);
   assert.match(html, /Dealer Cars/);
   assert.match(html, /Facebook Cars/);
   assert.match(html, /Facebook · Private party/);

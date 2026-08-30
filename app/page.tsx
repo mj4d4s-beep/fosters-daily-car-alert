@@ -3,8 +3,8 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Foster’s Car Alert — August 30, 2026",
-  description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Leverett, Massachusetts.",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — August 30, 2026",
+  description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
 const money = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
@@ -68,9 +68,9 @@ export default function Home() {
       <header className="hero">
         <nav><span className="wordmark">FOSTER’S</span><span className="date">SUNDAY · AUG 30, 2026</span></nav>
         <div className="hero-copy">
-          <p className="eyebrow">DAILY CAR ALERT · LEVERETT, MASSACHUSETTS</p>
-          <h1>Two searches.<br /><em>Two honest rankings.</em></h1>
-          <p className="dek">Dealer and Facebook Marketplace cars at $5,000 or less, within roughly an hour of home. Reliability and safety are co-equal for a 16-year-old driver; price and mileage come next.</p>
+          <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
+          <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
+          <p className="dek">Dealer and Facebook Marketplace cars at $5,000 or less, within roughly an hour of Shutesbury and Amherst. Reliability and safety are co-equal for a 16-year-old driver; price and mileage come next.</p>
         </div>
         <div className="stats">
           <div><strong>{dealers.length}</strong><span>dealer cars</span></div>
