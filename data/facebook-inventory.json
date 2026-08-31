@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The best balance of mileage, simplicity and price in today’s private-party set",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, making this the clearest Facebook candidate. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "newToday": true
+      "lastSeen": "2026-08-31",
+      "newToday": false
     },
     {
       "rank": 2,
@@ -51,8 +51,8 @@
       "verdict": "Cheap enough to leave repair room, but rust and equipment checks decide the deal",
       "note": "The seller discloses weak driver-side window operation and air conditioning that may need service, while stating the car drives well and has a clean title. Those are not automatic disqualifiers at $2,000, but a lift inspection and scan are essential before calling it a first-car value.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "newToday": true
+      "lastSeen": "2026-08-31",
+      "newToday": false
     },
     {
       "rank": 3,
@@ -77,8 +77,8 @@
       "verdict": "Excellent crash protection cannot erase the high-mileage repair exposure",
       "note": "The listing discloses an inoperative sunroof, unreliable air conditioning and cosmetic damage, while noting recent brakes and tires. It ranks here because safety is excellent, but only a clean inspection and unusually strong records would make the maintenance risk acceptable for a first car.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "newToday": true
+      "lastSeen": "2026-08-31",
+      "newToday": false
     },
     {
       "rank": 4,
@@ -103,8 +103,8 @@
       "verdict": "Mechanically promising, but safety equipment and the exhaust repair must be confirmed",
       "note": "The listing is current, private-party and clear about 177,000 miles and an exhaust leak. It remains a cautious lower-ranked option because the trim, VIN, title status and safety equipment are not shown and must all be verified in person.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "newToday": true
+      "lastSeen": "2026-08-31",
+      "newToday": false
     },
     {
       "rank": 5,
@@ -129,15 +129,19 @@
       "verdict": "A durable old sedan whose side-impact uncertainty keeps it last",
       "note": "The seller states the car runs well, has cold air conditioning and a clean title, while disclosing faded paint. The price is attractive, but age, 198k miles and weak unverified side protection make this a fallback only after a very clean inspection.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "newToday": true
+      "lastSeen": "2026-08-31",
+      "newToday": false
     }
   ],
   "seen": [
-    {"listingId": "903582715806635", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-30", "status": "active", "url": "https://www.facebook.com/marketplace/item/903582715806635/"},
-    {"listingId": "1756411462358328", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-30", "status": "active", "url": "https://www.facebook.com/marketplace/item/1756411462358328/"},
-    {"listingId": "27747370418245348", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-30", "status": "active", "url": "https://www.facebook.com/marketplace/item/27747370418245348/"},
-    {"listingId": "28060718890217572", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-30", "status": "active", "url": "https://www.facebook.com/marketplace/item/28060718890217572/"},
-    {"listingId": "1389551239275089", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-30", "status": "active", "url": "https://www.facebook.com/marketplace/item/1389551239275089/"}
+    {"listingId": "903582715806635", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/903582715806635/"},
+    {"listingId": "1756411462358328", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/1756411462358328/"},
+    {"listingId": "27747370418245348", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/27747370418245348/"},
+    {"listingId": "28060718890217572", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/28060718890217572/"},
+    {"listingId": "1389551239275089", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/1389551239275089/"},
+    {"listingId": "1070034778702767", "vin": null, "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; transmission details conflict", "url": "https://www.facebook.com/marketplace/item/1070034778702767/"},
+    {"listingId": "972695369012101", "vin": "JHMGE8G21AS021076", "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; front ABS sensors need repair", "url": "https://www.facebook.com/marketplace/item/972695369012101/"},
+    {"listingId": "1718016752646970", "vin": null, "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; 219k-mile hybrid with VIN and battery history unverified", "url": "https://www.facebook.com/marketplace/item/1718016752646970/"},
+    {"listingId": "1802714157405329", "vin": null, "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; 241,570 miles and weak seller transparency", "url": "https://www.facebook.com/marketplace/item/1802714157405329/"}
   ]
 }

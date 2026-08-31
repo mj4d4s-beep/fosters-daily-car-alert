@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "priceCap": 5000,
   "active": [
     {
@@ -25,32 +25,7 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-30"
-    },
-    {
-      "year": 2010,
-      "make": "Toyota",
-      "model": "Corolla",
-      "trim": "LE · 1.8L · automatic · FWD",
-      "price": 3999,
-      "miles": 188851,
-      "dealer": "Stop and Drive Auto Sales",
-      "town": "East Windsor, CT",
-      "rating": "Google rating not verified",
-      "vin": "1NXBU4EE3AZ355128",
-      "url": "https://www.cars.com/vehicledetail/54ff6381-c5fd-4b6f-ac02-54d49a9ef758/",
-      "image": "https://platform.cstatic-images.com/large/in/v2/cfd962d4-af73-5b58-a49d-1f0b42016001/926d0050-0845-4b2d-80fc-96cd6101fa28/yNwxwWAoJtS97IDtY6yKdEAK6yY.jpg",
-      "tag": "Strong value",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 1.8L engine and conventional automatic have a strong durability record, but 189k miles makes oil use, water-pump leaks, suspension wear, transmission service and Northeast rust important checks. Require service records and an independent inspection.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2010 Corolla a Top Safety Pick, with Good original moderate-front, side, roof-strength and head-restraint ratings. The listing shows stability control; confirm operation and check this VIN for open recalls.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/corolla/2010",
-      "verdict": "Strong reliability and crash protection, with dealer-fee caution",
-      "note": "This is one of today’s best first-car prospects because reliability and safety are both strong. The advertised price is $3,999, but recent dealer reviews mention substantial added fees, so get a written out-the-door figure before traveling.",
-      "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-30",
-      "rank": 2
+      "lastSeen": "2026-08-31"
     },
     {
       "year": 2013,
@@ -74,7 +49,7 @@
       "verdict": "Excellent crash record and durable drivetrain, tempered by 203k miles",
       "note": "The Civic’s safety and mechanical reputation make it a serious first-car candidate despite the odometer. Only unusually good records and a clean independent inspection should justify buying a car over 200k miles.",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "rank": 3
     },
     {
@@ -99,8 +74,8 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-30",
-      "rank": 5
+      "lastSeen": "2026-08-31",
+      "rank": 4
     },
     {
       "year": 2016,
@@ -124,8 +99,8 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-30",
-      "rank": 6
+      "lastSeen": "2026-08-31",
+      "rank": 5
     },
     {
       "year": 2012,
@@ -140,7 +115,7 @@
       "vin": "JHMGE8G57CS002707",
       "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D",
       "image": "https://images.autofunds.net/InventoryImages/2026/08/22/4159_2832524_55649470_15303422082026.jpg",
-      "tag": "New today · Durable manual",
+      "tag": "Durable manual",
       "reliabilityLevel": "Stronger",
       "reliability": "The 1.5L engine and 5-speed manual have a strong durability record and avoid automatic-transmission risk. At 162k miles, inspect the clutch, spark plugs and coils, valve adjustment, suspension and Northeast rust; CARFAX shows one owner and no reported damage but only three service records.",
       "safetyLevel": "Average",
@@ -149,8 +124,8 @@
       "verdict": "Excellent mechanical odds, but a serious small-overlap weakness",
       "note": "This is an appealing, efficient manual with a clean reported history and a price that includes fees. It ranks below several larger cars because the Poor small-overlap result matters for a new driver; require a clutch and rust inspection before considering it.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "rank": 7
+      "lastSeen": "2026-08-31",
+      "rank": 6
     },
     {
       "rank": 8,
@@ -175,10 +150,11 @@
       "verdict": "Promising low-mileage value, with safety details to confirm",
       "note": "At 125k miles, this has the lowest mileage among the stronger-reliability choices. It stays near the top only if the build-date label, stability-control equipment and timing-belt records check out.",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31",
+      "rank": 7
     },
     {
-      "rank": 4,
+      "rank": 2,
       "year": 2008,
       "make": "Honda",
       "model": "CR-V",
@@ -191,7 +167,7 @@
       "vin": "JHLRE48378C045948",
       "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D",
       "image": "https://images.autofunds.net/InventoryImages/2026/07/17/4513_2815483_78888620_2572117572026.jpg",
-      "tag": "New today · Strong safety shell",
+      "tag": "Strong safety shell",
       "reliabilityLevel": "Stronger",
       "reliability": "The 2.4L engine and conventional automatic are generally durable, but 188k miles and 4WD add wear exposure. Check oil consumption, rear-differential service, air conditioning, suspension, wheel bearings, brakes and Northeast rust.",
       "safetyLevel": "Stronger",
@@ -200,7 +176,7 @@
       "verdict": "A strong safety and durability combination, with high-mileage AWD costs to audit",
       "note": "This is a newly found dealer lead with a live individual page, exact photos, VIN and clear $4,999 price. It belongs near the top only if service records and a rust-focused independent inspection support the model’s reputation.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "year": 2011,
@@ -224,8 +200,8 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-30",
-      "rank": 9
+      "lastSeen": "2026-08-31",
+      "rank": 8
     },
     {
       "year": 2011,
@@ -240,7 +216,7 @@
       "vin": "JM1BL1VG3B1409909",
       "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D",
       "image": "https://images.autofunds.net/InventoryImages/2025/06/09/4205_2615131_77341528_692009092025.jpg",
-      "tag": "New today · Conventional automatic",
+      "tag": "Conventional automatic",
       "reliabilityLevel": "Stronger",
       "reliability": "The 2.0L engine and conventional automatic are generally durable and inexpensive to service. At 145k miles, inspect engine mounts, cooling system, suspension, transmission shifts and rust; CARFAX reports an accident, so body and structural checks are essential.",
       "safetyLevel": "Average",
@@ -249,15 +225,40 @@
       "verdict": "Durable drivetrain with safety and accident-history questions",
       "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
-      "rank": 10
+      "lastSeen": "2026-08-31",
+      "rank": 9
+    },
+    {
+      "rank": 10,
+      "year": 2005,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "LE · 2.4L · automatic · FWD",
+      "price": 4999,
+      "miles": 154732,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google rating not verified",
+      "vin": "4T1BE30K85U098820",
+      "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2026/08/03/4107_2823256_18987372_225903252026.jpg",
+      "tag": "Durable, older-safety fallback",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.4L four-cylinder and conventional automatic are generally durable and affordable to service. At 155k miles and 21 years old, inspect for oil consumption, cooling-system leaks, worn mounts, suspension, transmission shifts and Northeast rust.",
+      "safetyLevel": "Below average",
+      "safety": "IIHS rated the original moderate-overlap front test Good, but side protection was Poor without the optional side airbags and electronic stability control was not available. Confirm the exact airbag equipment and recognize the age-related safety compromise for a new driver.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/camry-4-door-sedan/2005",
+      "verdict": "Good mechanical odds, but dated side-impact protection keeps it last",
+      "note": "The exact dealer page is live with VIN, price, mileage and vehicle photos, and the model has a strong durability record. It remains a fallback because safety equipment is not verified and newer entries offer substantially better crash protection; require records, a VIN recall check, insurance review and an independent rust-focused inspection.",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-31"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/83a5379c-9dea-437f-b4af-600992322634/"
     },
@@ -337,7 +338,7 @@
     {
       "vin": "KMHDU4AD2AU878730",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.cars.com/vehicledetail/8e7ffeab-0e88-4c16-ab53-ca5d9e97880a/"
     },
@@ -370,14 +371,14 @@
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d"
     },
@@ -398,8 +399,9 @@
     {
       "vin": "4T1BE30K85U098820",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-20",
-      "status": "active, outside top 12"
+      "lastSeen": "2026-08-31",
+      "status": "active",
+      "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D"
     },
     {
       "vin": "4S4BSAFC6F3335034",
@@ -473,7 +475,7 @@
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.cars.com/vehicledetail/aa1cfa52-3409-4389-b8b9-f1c422d7e3fc/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active"
     },
     {
@@ -586,13 +588,13 @@
       "vin": "1NXBU4EE3AZ355128",
       "firstSeen": "2026-08-26",
       "lastSeen": "2026-08-30",
-      "status": "active",
+      "status": "removed from active; exact source page says no longer listed on 2026-08-31",
       "url": "https://www.cars.com/vehicledetail/54ff6381-c5fd-4b6f-ac02-54d49a9ef758/"
     },
     {
       "vin": "2HGFB2F58DH506049",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.hpgauto.com/cars-for-sale-in-Hartford-CT-West-Hartford-Wethersfield/used_cars"
     },
@@ -618,14 +620,14 @@
     {
       "vin": "JHMGE8G57CS002707",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D"
     },
     {
       "vin": "JM1BL1VG3B1409909",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D"
     },
@@ -639,7 +641,7 @@
     {
       "vin": "JHLRE48378C045948",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-08-31",
       "status": "active",
       "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D"
     },
