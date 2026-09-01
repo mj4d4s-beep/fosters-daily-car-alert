@@ -1,9 +1,35 @@
 {
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-01",
   "priceCap": 5000,
   "active": [
     {
       "rank": 1,
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "LE sedan · automatic · FWD",
+      "price": 3500,
+      "miles": 186000,
+      "source": "Facebook Marketplace · private party",
+      "town": "Holyoke, MA",
+      "vin": null,
+      "listingId": "1708480443773758",
+      "url": "https://www.facebook.com/marketplace/item/1708480443773758/",
+      "image": "/cars/facebook/camry-2011.jpg",
+      "tag": "New today · strongest safety/value",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.5L four-cylinder and conventional 6-speed automatic are generally durable, and the seller reports recent brakes, rotors, A/C work and an oil service with receipts. At 186k miles, inspect oil consumption, water-pump and cooling leaks, transmission shifts, suspension and Northeast rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS rated the 2011 Camry Good in the original moderate-front, side, roof-strength and head-restraint tests. Stability control and side-curtain airbags were standard; verify warning lights and recall completion using the actual VIN.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/camry-4-door-sedan/2011",
+      "verdict": "The best current private-party blend of crash protection, drivetrain reputation and seller transparency",
+      "note": "The seller states a clean title, no warning lights and recent brake, A/C and oil-service work with receipts. The VIN is not shown and the mileage is high, so verify ownership and lien status, review every receipt, run history and recall checks, get an insurance quote and require an independent inspection before payment.",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "newToday": true
+    },
+    {
+      "rank": 2,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -29,7 +55,7 @@
       "newToday": false
     },
     {
-      "rank": 2,
+      "rank": 3,
       "year": 2008,
       "make": "Mazda",
       "model": "Mazda3",
@@ -55,7 +81,7 @@
       "newToday": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "year": 2011,
       "make": "Volvo",
       "model": "C30",
@@ -81,7 +107,7 @@
       "newToday": false
     },
     {
-      "rank": 4,
+      "rank": 5,
       "year": 2007,
       "make": "Toyota",
       "model": "Matrix",
@@ -107,7 +133,7 @@
       "newToday": false
     },
     {
-      "rank": 5,
+      "rank": 6,
       "year": 2003,
       "make": "Toyota",
       "model": "Camry",
@@ -134,14 +160,18 @@
     }
   ],
   "seen": [
-    {"listingId": "903582715806635", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/903582715806635/"},
-    {"listingId": "1756411462358328", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/1756411462358328/"},
-    {"listingId": "27747370418245348", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/27747370418245348/"},
-    {"listingId": "28060718890217572", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/28060718890217572/"},
-    {"listingId": "1389551239275089", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-08-31", "status": "active", "url": "https://www.facebook.com/marketplace/item/1389551239275089/"},
+    {"listingId": "903582715806635", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-09-01", "status": "active", "url": "https://www.facebook.com/marketplace/item/903582715806635/"},
+    {"listingId": "1756411462358328", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-09-01", "status": "active", "url": "https://www.facebook.com/marketplace/item/1756411462358328/"},
+    {"listingId": "27747370418245348", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-09-01", "status": "active", "url": "https://www.facebook.com/marketplace/item/27747370418245348/"},
+    {"listingId": "28060718890217572", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-09-01", "status": "active", "url": "https://www.facebook.com/marketplace/item/28060718890217572/"},
+    {"listingId": "1389551239275089", "vin": null, "firstSeen": "2026-08-30", "lastSeen": "2026-09-01", "status": "active", "url": "https://www.facebook.com/marketplace/item/1389551239275089/"},
     {"listingId": "1070034778702767", "vin": null, "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; transmission details conflict", "url": "https://www.facebook.com/marketplace/item/1070034778702767/"},
     {"listingId": "972695369012101", "vin": "JHMGE8G21AS021076", "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; front ABS sensors need repair", "url": "https://www.facebook.com/marketplace/item/972695369012101/"},
     {"listingId": "1718016752646970", "vin": null, "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; 219k-mile hybrid with VIN and battery history unverified", "url": "https://www.facebook.com/marketplace/item/1718016752646970/"},
-    {"listingId": "1802714157405329", "vin": null, "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; 241,570 miles and weak seller transparency", "url": "https://www.facebook.com/marketplace/item/1802714157405329/"}
+    {"listingId": "1802714157405329", "vin": null, "firstSeen": "2026-08-31", "lastSeen": "2026-08-31", "status": "excluded after evaluation; 241,570 miles and weak seller transparency", "url": "https://www.facebook.com/marketplace/item/1802714157405329/"},
+    {"listingId": "1708480443773758", "vin": null, "firstSeen": "2026-09-01", "lastSeen": "2026-09-01", "status": "active", "url": "https://www.facebook.com/marketplace/item/1708480443773758/"},
+    {"listingId": "1386621623605054", "vin": null, "firstSeen": "2026-09-01", "lastSeen": "2026-09-01", "status": "excluded after evaluation; Fitchburg is outside the roughly 60-minute search area", "url": "https://www.facebook.com/marketplace/item/1386621623605054/"},
+    {"listingId": "1744139123307342", "vin": null, "firstSeen": "2026-09-01", "lastSeen": "2026-09-01", "status": "excluded after evaluation; outstanding loan and title-release risk", "url": "https://www.facebook.com/marketplace/item/1744139123307342/"},
+    {"listingId": "1027203913597049", "vin": null, "firstSeen": "2026-09-01", "lastSeen": "2026-09-01", "status": "excluded after evaluation; dealership listing, not private party", "url": "https://www.facebook.com/marketplace/item/1027203913597049/"}
   ]
 }
