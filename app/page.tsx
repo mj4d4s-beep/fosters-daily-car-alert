@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — September 2, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — September 4, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -66,7 +66,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-        <nav><span className="wordmark">FOSTER’S</span><span className="date">WEDNESDAY · SEP 2, 2026</span></nav>
+        <nav><span className="wordmark">FOSTER’S</span><span className="date">FRIDAY · SEP 4, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -109,7 +109,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">This run reverified all active listings and added only leads with live individual pages, exact-car photos and enough information to assess. Facebook cars needing an engine, carrying extensive body rust and a rejection sticker, or lacking adequate seller transparency were excluded. No stock or substitute images were used.</p>
+        <p className="coverage-note">This run reverified every active listing and added only leads with live individual pages, exact-car photos and enough information to assess. One unavailable Facebook car was removed; a misclassified dealer, a warning-light car and a very-high-mileage low-transparency car were excluded. No stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -122,7 +122,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed September 2, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed September 4, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }
