@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-14",
   "priceCap": 5000,
   "active": [
     {
@@ -25,7 +25,7 @@
       "verdict": "The best balance of mileage, simplicity and price in today’s private-party set",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, making this the clearest Facebook candidate. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "newToday": false
     },
     {
@@ -51,11 +51,11 @@
       "verdict": "Strong crash protection and a good drivetrain, with unusually high mileage as the deciding risk",
       "note": "The current individual listing shows a clean title, one-owner history, regular Mazda-dealer servicing and no significant disclosed problem. Those claims and the VIN still need documentary verification; obtain title and recall checks, an insurance quote for a 16-year-old and a thorough independent inspection before payment.",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "newToday": false
     },
     {
-      "rank": 4,
+      "rank": 3,
       "year": 2014,
       "make": "Volkswagen",
       "model": "Jetta",
@@ -68,7 +68,7 @@
       "listingId": "2131416797741010",
       "url": "https://www.facebook.com/marketplace/item/2131416797741010/",
       "image": "/cars/facebook/jetta-2014.jpg",
-      "tag": "New today · strongest new safety/value case",
+      "tag": "Strong safety/value case",
       "reliabilityLevel": "Average",
       "reliability": "The naturally aspirated 2.0L engine and conventional automatic are simpler than Volkswagen turbo or DSG combinations, and the seller reports four newer tires. At 138k miles, demand timing-belt and fluid-service records and inspect for oil or coolant leaks, cooling-system and electrical faults, rough shifts, suspension wear and Northeast rust.",
       "safetyLevel": "Stronger",
@@ -77,11 +77,11 @@
       "verdict": "A useful newer-sedan safety case at a fair price, provided the missing service history checks out",
       "note": "The live individual listing shows a clean paid-off title, two owners, 138,000 miles and four newer tires, but gives little maintenance detail and does not show the VIN. Confirm seller ownership and lien status, obtain timing-belt and transmission records, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection before payment.",
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "newToday": false
     },
     {
-      "rank": 5,
+      "rank": 4,
       "year": 2016,
       "make": "Kia",
       "model": "Forte",
@@ -103,16 +103,16 @@
       "verdict": "The clearest new Facebook prospect, with useful ownership and maintenance detail but meaningful engine-risk questions",
       "note": "The seller states two owners, ownership since 2017, a clean paid-off title, recent brakes and tires, and a completed ignition recall, while disclosing minor cosmetic damage. Verify those records and the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection with special attention to oil use, engine noise and rust before payment.",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "newToday": false
     },
     {
-      "rank": 6,
+      "rank": 5,
       "year": 2010,
       "make": "Honda",
       "model": "Civic",
       "trim": "EX coupe · 5-speed manual · FWD",
-      "price": 2200,
+      "price": 2000,
       "miles": 195308,
       "source": "Facebook Marketplace · private party",
       "town": "Springfield, MA",
@@ -129,37 +129,11 @@
       "verdict": "Good basic crashworthiness at a low price, offset by mileage, accident history and repair needs",
       "note": "The current listing shows a clean title, smooth shifting, new clutch slave cylinder, recent oil service and a disclosed small exhaust leak, plus one accident. Verify the VIN, title, repair records and stability-control equipment, get an insurance quote for a 16-year-old, and require a structural and mechanical inspection before payment.",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "newToday": false
     },
     {
-      "rank": 7,
-      "year": 2014,
-      "make": "Subaru",
-      "model": "Forester",
-      "trim": "2.5i Limited · CVT · AWD",
-      "price": 3900,
-      "miles": 182000,
-      "source": "Facebook Marketplace · private party",
-      "town": "Cummington, MA",
-      "vin": null,
-      "listingId": "2114838399133529",
-      "url": "https://www.facebook.com/marketplace/item/2114838399133529/",
-      "image": "/cars/facebook/forester-2014.jpg",
-      "tag": "Safety-first, repair-risk tradeoff",
-      "reliabilityLevel": "Below average",
-      "reliability": "The 2.5L engine avoids the older timing-belt design, but early fourth-generation Foresters can develop oil-consumption, CVT valve-body or bearing problems, and 182k miles magnifies that repair exposure. The seller reports recent front and right-rear wheel bearings and an August oil change; verify oil use, CVT service and behavior, cooling, suspension, wheel bearings and underbody rust.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS rated the 2014 Forester Good in the driver small-overlap, original moderate-front, side, roof-strength and head-restraint tests. It met Top Safety Pick criteria; the higher Top Safety Pick+ award required optional EyeSight front-crash prevention, which this listing does not verify, so do not assume it is equipped.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/forester/2014",
-      "verdict": "Excellent basic crashworthiness and useful size, balanced against serious high-mileage oil and CVT risk",
-      "note": "The live private-party listing states a clean title, no major problem, recent wheel bearings and oil service, while disclosing cosmetic flaws and tires due soon. Verify the VIN, ownership, title and service records, budget four tires, check recalls and insurance cost, and require a Subaru-experienced independent inspection before payment.",
-      "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-08",
-      "newToday": false
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "year": 2009,
       "make": "Toyota",
       "model": "Camry",
@@ -181,34 +155,8 @@
       "verdict": "A transparent, inexpensive nearby fallback whose very high mileage prevents a higher rank",
       "note": "The seller provides the VIN, states a clean paid-off title and long ownership, and lists several recent repairs, which is better disclosure than most sub-$5,000 listings. Nearly 237,000 miles creates substantial failure risk, so confirm every record, run title and recall checks, get an insurance quote and require a compression, cooling-system, underbody and oil-consumption inspection before payment.",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "newToday": false
-    },
-    {
-      "rank": 3,
-      "year": 2012,
-      "make": "Honda",
-      "model": "Fit",
-      "trim": "Sport hatchback · 1.5L · automatic · FWD",
-      "price": 4800,
-      "miles": 191000,
-      "source": "Facebook Marketplace · private party",
-      "town": "Greenfield, MA",
-      "vin": null,
-      "listingId": "1364364082160858",
-      "url": "https://www.facebook.com/marketplace/item/1364364082160858/",
-      "image": "/cars/facebook/fit-2012.jpg",
-      "tag": "Strongest new Facebook prospect",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 1.5L engine and conventional 5-speed automatic are generally durable, and the seller says the car is well maintained and undercoated. At 191k miles, require service records and inspect valve adjustment, plugs and coils, fluids, suspension, wheel bearings, leaks and Northeast rust; undercoating can conceal corrosion.",
-      "safetyLevel": "Average",
-      "safety": "IIHS named the 2012 Fit a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint results, but the later driver-side small-overlap test was Poor. Stability control, ABS and side-curtain airbags were standard; its minicar size remains a meaningful disadvantage for a new driver.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/fit-4-door-wagon/2012",
-      "verdict": "New today: an honest-looking, practical hatchback with strong core crash results",
-      "note": "The live individual listing shows a clean title, 191,000 miles, automatic transmission, undercoating, claimed maintenance, a second set of tires and exact-car photos. The VIN and records are not shown, so verify both, check recalls and title history, obtain an insurance quote and require an independent inspection before purchase.",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "newToday": true
     }
   ],
   "seen": [
@@ -216,7 +164,7 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/"
     },
@@ -320,7 +268,7 @@
       "listingId": "1785283575993461",
       "vin": null,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1785283575993461/"
     },
@@ -360,7 +308,7 @@
       "listingId": "1016107687909634",
       "vin": null,
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1016107687909634/"
     },
@@ -392,8 +340,8 @@
       "listingId": "2114838399133529",
       "vin": null,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-08",
-      "status": "active",
+      "lastSeen": "2026-09-14",
+      "status": "removed: listing marked sold",
       "url": "https://www.facebook.com/marketplace/item/2114838399133529/"
     },
     {
@@ -448,7 +396,7 @@
       "listingId": "1624316136062478",
       "vin": "KNAFX4A67G5541332",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1624316136062478/"
     },
@@ -456,7 +404,7 @@
       "listingId": "1066607365781330",
       "vin": "4T4BE46K19R074187",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1066607365781330/"
     },
@@ -504,7 +452,7 @@
       "listingId": "2131416797741010",
       "vin": null,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/2131416797741010/"
     },
@@ -544,8 +492,8 @@
       "listingId": "1364364082160858",
       "vin": null,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "status": "active",
+      "lastSeen": "2026-09-14",
+      "status": "removed: listing marked sold",
       "url": "https://www.facebook.com/marketplace/item/1364364082160858/"
     }
   ]
