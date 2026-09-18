@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-18",
   "priceCap": 5000,
   "active": [
     {
@@ -25,7 +25,7 @@
       "verdict": "The best balance of mileage, simplicity and price in today’s private-party set",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, making this the clearest Facebook candidate. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "newToday": false
     },
     {
@@ -51,7 +51,7 @@
       "verdict": "Strong crash protection and a good drivetrain, with unusually high mileage as the deciding risk",
       "note": "The current individual listing shows a clean title, one-owner history, regular Mazda-dealer servicing and no significant disclosed problem. Those claims and the VIN still need documentary verification; obtain title and recall checks, an insurance quote for a 16-year-old and a thorough independent inspection before payment.",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "newToday": false
     },
     {
@@ -77,7 +77,7 @@
       "verdict": "A useful newer-sedan safety case at a fair price, provided the missing service history checks out",
       "note": "The live individual listing shows a clean paid-off title, two owners, 138,000 miles and four newer tires, but gives little maintenance detail and does not show the VIN. Confirm seller ownership and lien status, obtain timing-belt and transmission records, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection before payment.",
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "newToday": false
     },
     {
@@ -103,7 +103,7 @@
       "verdict": "The clearest Facebook prospect, with useful ownership and maintenance detail but meaningful engine-risk questions",
       "note": "The seller states two owners, ownership since 2017, a clean paid-off title, recent brakes and tires, and a completed ignition recall, while disclosing minor cosmetic damage. Verify those records and the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection with special attention to oil use, engine noise and rust before payment.",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "newToday": false
     },
     {
@@ -129,7 +129,7 @@
       "verdict": "Good basic crashworthiness at a low price, offset by mileage, accident history and repair needs",
       "note": "The current listing shows a clean title, smooth shifting, new clutch slave cylinder, recent oil service and a disclosed small exhaust leak, plus one accident. Verify the VIN, title, repair records and stability-control equipment, get an insurance quote for a 16-year-old, and require a structural and mechanical inspection before payment.",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "newToday": false
     },
     {
@@ -155,7 +155,7 @@
       "verdict": "A transparent, inexpensive nearby fallback whose very high mileage prevents a higher rank",
       "note": "The seller provides the VIN, states a clean paid-off title and long ownership, and lists several recent repairs, which is better disclosure than most sub-$5,000 listings. Nearly 237,000 miles creates substantial failure risk, so confirm every record, run title and recall checks, get an insurance quote and require a compression, cooling-system, underbody and oil-consumption inspection before payment.",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "newToday": false
     }
   ],
@@ -164,7 +164,7 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/"
     },
@@ -268,7 +268,7 @@
       "listingId": "1785283575993461",
       "vin": null,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1785283575993461/"
     },
@@ -308,7 +308,7 @@
       "listingId": "1016107687909634",
       "vin": null,
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1016107687909634/"
     },
@@ -396,7 +396,7 @@
       "listingId": "1624316136062478",
       "vin": "KNAFX4A67G5541332",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1624316136062478/"
     },
@@ -404,7 +404,7 @@
       "listingId": "1066607365781330",
       "vin": "4T4BE46K19R074187",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1066607365781330/"
     },
@@ -452,7 +452,7 @@
       "listingId": "2131416797741010",
       "vin": null,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/2131416797741010/"
     },
@@ -495,6 +495,46 @@
       "lastSeen": "2026-09-14",
       "status": "removed: listing marked sold",
       "url": "https://www.facebook.com/marketplace/item/1364364082160858/"
+    },
+    {
+      "listingId": "28346261028331514",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; seller explicitly says not a private sale",
+      "url": "https://www.facebook.com/marketplace/item/28346261028331514/"
+    },
+    {
+      "listingId": "1427284899277272",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; seller discloses upcoming repairs without specifying them, at 200,000 miles",
+      "url": "https://www.facebook.com/marketplace/item/1427284899277272/"
+    },
+    {
+      "listingId": "1837170910890836",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; thin description with no VIN, maintenance or timing-belt history verified",
+      "url": "https://www.facebook.com/marketplace/item/1837170910890836/"
+    },
+    {
+      "listingId": "1585000913360246",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; seller discloses ABS fault, power-steering pump need and cracked windshield",
+      "url": "https://www.facebook.com/marketplace/item/1585000913360246/"
+    },
+    {
+      "listingId": "1852106379083985",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; eight-week-old listing, 185,000 miles, TPMS sensors absent and air-conditioning issue",
+      "url": "https://www.facebook.com/marketplace/item/1852106379083985/"
     }
   ]
 }
