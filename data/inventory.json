@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-20",
   "priceCap": 5000,
   "active": [
     {
@@ -26,7 +26,7 @@
       "verdict": "The best current dealer-car mix of mileage, crashworthiness and mechanical simplicity",
       "note": "This is today’s strongest dealer lead, with a live individual page, VIN, exact photos and materially lower mileage than most sub-$5,000 alternatives. The dealer’s low online rating is a serious transparency caution, so obtain the written out-the-door price, verify the trim and history, and use an independent mechanic chosen by the family.",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "newToday": false
     },
     {
@@ -53,7 +53,7 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "newToday": false
     },
     {
@@ -80,7 +80,7 @@
       "verdict": "A strong safety and durability combination, with high-mileage AWD costs to audit",
       "note": "This dealer lead has a live individual page, exact photos, VIN and clear $4,999 price. It belongs near the top only if service records and a rust-focused independent inspection support the model’s reputation.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "newToday": false
     },
     {
@@ -106,7 +106,7 @@
       "verdict": "Excellent crash record and durable drivetrain, tempered by 203k miles",
       "note": "The Civic’s safety and mechanical reputation make it a serious first-car candidate despite the odometer. Only unusually good records and a clean independent inspection should justify buying a car over 200k miles.",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "rank": 4,
       "newToday": false
     },
@@ -133,7 +133,7 @@
       "verdict": "Good midsize crash protection at a low price, with transmission and recall checks",
       "note": "The individual dealer page shows one-owner billing, 146,265 miles, the VIN and exact photos at $3,750. The dealer’s 2.5-star Google rating adds caution: verify the written out-the-door price, title, maintenance and completed recalls, obtain a teen-driver insurance quote, and use an independent mechanic to check transmission behavior and rust before deciding.",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "rank": 5,
       "newToday": false
     },
@@ -160,7 +160,7 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "rank": 6,
       "newToday": false
     },
@@ -187,7 +187,7 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "rank": 7,
       "newToday": false
     },
@@ -214,7 +214,7 @@
       "verdict": "Excellent mechanical odds, but a serious small-overlap weakness",
       "note": "The title and VIN-linked third-party details describe a manual, but the dealer summary also says automatic; confirm the actual gearbox before traveling. Its otherwise appealing, efficient drivetrain and clean reported history still need a clutch, service-record and rust inspection. The Poor small-overlap result matters for a new driver.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "rank": 8,
       "newToday": false
     },
@@ -241,7 +241,7 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "rank": 9,
       "newToday": false
     },
@@ -268,7 +268,7 @@
       "verdict": "Durable drivetrain with safety and accident-history questions",
       "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "rank": 10,
       "newToday": false
     },
@@ -296,7 +296,7 @@
       "verdict": "Good mechanical odds, but dated side-impact protection keeps it last",
       "note": "The exact dealer page is live with VIN, price, mileage and vehicle photos, and the model has a strong durability record. It remains a fallback because safety equipment is not verified and newer entries offer substantially better crash protection; require records, a VIN recall check, insurance review and an independent rust-focused inspection.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "newToday": false
     }
   ],
@@ -304,7 +304,7 @@
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.shelbymotorsma.com/2012-Mazda-Mazda3-Springfield-MA-Worcester-MA-Hartford-CT-Pittsfield-MA-Hampden/used_car/MkiX2s8X5Q4%3d"
     },
@@ -417,14 +417,14 @@
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d"
     },
@@ -445,7 +445,7 @@
     {
       "vin": "4T1BE30K85U098820",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D"
     },
@@ -521,7 +521,7 @@
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.dealerrater.com/classifieds/2011-Subaru-Impreza-ad-JF1GE6A6XBH510839-107584/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active"
     },
     {
@@ -640,7 +640,7 @@
     {
       "vin": "2HGFB2F58DH506049",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.hpgauto.com/2013-Honda-Civic-Sdn-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/cVFNs8oeOd8%3D"
     },
@@ -666,14 +666,14 @@
     {
       "vin": "JHMGE8G57CS002707",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D"
     },
     {
       "vin": "JM1BL1VG3B1409909",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D"
     },
@@ -687,7 +687,7 @@
     {
       "vin": "JHLRE48378C045948",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D"
     },
@@ -736,14 +736,14 @@
     {
       "vin": "JM1BL1W82C1657626",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.a-1autoct.com/2012-Mazda-Mazda3-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/t0QBwcwcSdI%3D"
     },
     {
       "vin": "3FAHP0HA2BR158554",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "status": "active",
       "url": "https://www.ctcarco.com/2011-Ford-Fusion-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/T0wUTi0xDco%3d"
     },
