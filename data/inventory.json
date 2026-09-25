@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-25",
   "priceCap": 5000,
   "active": [
     {
@@ -16,7 +16,7 @@
       "googleReviewsUrl": "https://www.google.com/maps/place/A-1+Auto+Sale/@41.8912554,-72.6086439,17z/data=!4m8!3m7!1s0x89e6f931672393cf:0x2fbe8bedb2fc9c7c!8m2!3d41.8912554!4d-72.6086439!9m1!1b1!16s%2Fg%2F11yccjqs_?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JM1BL1W82C1657626",
       "url": "https://www.a-1autoct.com/2012-Mazda-Mazda3-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/t0QBwcwcSdI%3D",
-      "image": "https://platform.cstatic-images.com/large/in/v2/7eaaa5f3-3ada-595f-be8d-9e0d17913074/891465b3-9816-4c64-9baf-345868c3834a/o221YmAhML5yfmWIbCPfxQtzfHY.jpg",
+      "image": "https://images.autofunds.net/InventoryImages/2026/07/15/3121_2807538_20958418_317315172026.jpg",
       "tag": "Strongest overall dealer car",
       "reliabilityLevel": "Stronger",
       "reliability": "The SKYACTIV 2.0L engine and conventional automatic are generally durable and efficient. At 133k miles, inspect for carbon buildup, cooling or oil leaks, suspension wear, transmission shift quality and Northeast rust; demand complete maintenance and accident records.",
@@ -26,8 +26,10 @@
       "verdict": "The best current dealer-car mix of mileage, crashworthiness and mechanical simplicity",
       "note": "This is today’s strongest dealer lead, with a live individual page, VIN, exact photos and materially lower mileage than most sub-$5,000 alternatives. The dealer’s low online rating is a serious transparency caution, so obtain the written out-the-door price, verify the trim and history, and use an independent mechanic chosen by the family.",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-20",
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     },
     {
       "rank": 2,
@@ -39,76 +41,24 @@
       "miles": 164960,
       "dealer": "Shelby Motor Cars",
       "town": "Springfield, MA",
-      "rating": "Google 4.2 ★ · 594 reviews",
+      "rating": "Google 4.2 ★ · 595 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/Shelby+Motor+Cars/@42.1261079,-72.534046,17z/data=!4m8!3m7!1s0x89e6e7efdfb5c8af:0xf3d4e18598e5ad7f!8m2!3d42.1261079!4d-72.534046!9m1!1b1!16s%2Fg%2F1vknqdwv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JM1BL1W66C1580130",
       "url": "https://www.shelbymotorsma.com/2012-Mazda-Mazda3-Springfield-MA-Worcester-MA-Hartford-CT-Pittsfield-MA-Hampden/used_car/MkiX2s8X5Q4%3d",
-      "image": "https://platform.cstatic-images.com/xxlarge/in/v2/607994e8-ad93-532c-8456-910bf278c4e2/005b2bdf-05ea-42cb-b2e7-96cbb169dbb7/aID27QlmUw3hmgTvVOi7cTdcLug.jpg",
+      "image": "https://images.autofunds.net/InventoryImages/2026/07/09/3699_2811374_25888388_17472509072026.jpg",
       "tag": "Strong all-around choice",
       "reliabilityLevel": "Stronger",
       "reliability": "The 2.5L and conventional automatic have a generally durable record, but 165k miles makes rust, suspension wear, mounts and maintenance history decisive. The listing reports an accident, so inspection is essential.",
       "safetyLevel": "Stronger",
       "safety": "IIHS named the 2012 Mazda3 a Top Safety Pick with Good original front, side, roof and head-restraint results. The listing shows stability control; confirm operation and open-recall status by VIN.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/mazda/3-4-door-hatchback/2012",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/mazda/3-4-door-sedan/2012",
       "verdict": "Best balance of reliability and crash protection",
-      "note": "This remains the most convincing first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
+      "note": "This remains the another promising first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-20",
-      "newToday": false
-    },
-    {
-      "rank": 3,
-      "year": 2008,
-      "make": "Honda",
-      "model": "CR-V",
-      "trim": "LX · 2.4L · automatic · 4WD",
-      "price": 4999,
-      "miles": 187597,
-      "dealer": "HPG Auto Sales LLC",
-      "town": "Hartford, CT",
-      "rating": "Google 4.5 ★ · 81 reviews",
-      "googleReviewsUrl": "https://www.google.com/maps/place/HPG+Auto+Sales/@41.7982821,-72.6762259,17z/data=!4m8!3m7!1s0x89e6555633326d69:0x2e139c90531e6fb2!8m2!3d41.7982821!4d-72.6762259!9m1!1b1!16s%2Fg%2F11j0h_ysz3?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
-      "vin": "JHLRE48378C045948",
-      "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D",
-      "image": "https://images.autofunds.net/InventoryImages/2026/07/17/4513_2815483_78888620_2572117572026.jpg",
-      "tag": "Strong safety shell",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 2.4L engine and conventional automatic are generally durable, but 188k miles and 4WD add wear exposure. Check oil consumption, rear-differential service, air conditioning, suspension, wheel bearings, brakes and Northeast rust.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2008 CR-V a Top Safety Pick, with Good original moderate-front, side and head-restraint ratings; roof strength was later rated Marginal. Stability control and curtain airbags were standard, but operation and VIN recall status still need confirmation.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/cr-v-4-door-suv/2007",
-      "verdict": "A strong safety and durability combination, with high-mileage AWD costs to audit",
-      "note": "This dealer lead has a live individual page, exact photos, VIN and clear $4,999 price. It belongs near the top only if service records and a rust-focused independent inspection support the model’s reputation.",
-      "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-20",
-      "newToday": false
-    },
-    {
-      "year": 2013,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "LX · 1.8L · automatic · FWD",
-      "price": 3999,
-      "miles": 203147,
-      "dealer": "HPG Auto Sales LLC",
-      "town": "Hartford, CT",
-      "rating": "Google 4.5 ★ · 81 reviews",
-      "googleReviewsUrl": "https://www.google.com/maps/place/HPG+Auto+Sales/@41.7982821,-72.6762259,17z/data=!4m8!3m7!1s0x89e6555633326d69:0x2e139c90531e6fb2!8m2!3d41.7982821!4d-72.6762259!9m1!1b1!16s%2Fg%2F11j0h_ysz3?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
-      "vin": "2HGFB2F58DH506049",
-      "url": "https://www.hpgauto.com/2013-Honda-Civic-Sdn-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/cVFNs8oeOd8%3D",
-      "image": "https://static.cargurus.com/images/forsale/2026/07/23/09/57/2013_honda_civic-pic-4727311930451917567-1024x768.jpeg?auto=webp&fit=bounds&format=jpg&height=480&io=true&width=640",
-      "tag": "Top Safety Pick+",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 1.8L engine and conventional 5-speed automatic are generally durable and inexpensive to service, but 203k miles creates substantial wear exposure. Inspect engine mounts, suspension, wheel bearings, cooling system, leaks and maintenance history.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2013 Civic sedan a Top Safety Pick+ with Good ratings in driver small-overlap, original moderate-front, side, roof and head-restraint tests. Stability control and curtain airbags were standard; check the VIN for open recalls.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2013",
-      "verdict": "Excellent crash record and durable drivetrain, tempered by 203k miles",
-      "note": "The Civic’s safety and mechanical reputation make it a serious first-car candidate despite the odometer. Only unusually good records and a clean independent inspection should justify buying a car over 200k miles.",
-      "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-20",
-      "rank": 4,
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     },
     {
       "year": 2011,
@@ -119,7 +69,7 @@
       "miles": 146265,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 265 reviews",
+      "rating": "Google 2.5 ★ · 267 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "3FAHP0HA2BR158554",
       "url": "https://www.ctcarco.com/2011-Ford-Fusion-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/T0wUTi0xDco%3d",
@@ -133,9 +83,11 @@
       "verdict": "Good midsize crash protection at a low price, with transmission and recall checks",
       "note": "The individual dealer page shows one-owner billing, 146,265 miles, the VIN and exact photos at $3,750. The dealer’s 2.5-star Google rating adds caution: verify the written out-the-door price, title, maintenance and completed recalls, obtain a teen-driver insurance quote, and use an independent mechanic to check transmission behavior and rust before deciding.",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-20",
-      "rank": 5,
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "rank": 3,
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     },
     {
       "year": 2012,
@@ -146,7 +98,7 @@
       "miles": 160325,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 265 reviews",
+      "rating": "Google 2.5 ★ · 267 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "1FAHP3F22CL432378",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d",
@@ -160,9 +112,11 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-20",
-      "rank": 6,
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "rank": 4,
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     },
     {
       "year": 2016,
@@ -173,7 +127,7 @@
       "miles": 176679,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 265 reviews",
+      "rating": "Google 2.5 ★ · 267 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JF1GPAP69G9219643",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d",
@@ -187,36 +141,11 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-20",
-      "rank": 7,
-      "newToday": false
-    },
-    {
-      "year": 2012,
-      "make": "Honda",
-      "model": "Fit",
-      "trim": "Sport · 1.5L · 5-speed manual · FWD",
-      "price": 4995,
-      "miles": 161952,
-      "dealer": "United Auto Wholesale",
-      "town": "East Windsor, CT",
-      "rating": "Google 4.2 ★ · 162 reviews",
-      "googleReviewsUrl": "https://www.google.com/maps/place/United+Auto+Sales/@41.873193,-72.6089199,17z/data=!4m8!3m7!1s0x89e6f8d400ff1a6b:0x5fecbb801ad00dd3!8m2!3d41.873193!4d-72.6089199!9m1!1b1!16s%2Fg%2F1tcysv_4?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
-      "vin": "JHMGE8G57CS002707",
-      "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D",
-      "image": "https://images.autofunds.net/InventoryImages/2026/08/22/4159_2832524_55649470_15303422082026.jpg",
-      "tag": "Durable manual",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 1.5L engine and 5-speed manual have a strong durability record and avoid automatic-transmission risk. At 162k miles, inspect the clutch, spark plugs and coils, valve adjustment, suspension and Northeast rust; CARFAX shows one owner and no reported damage but only three service records.",
-      "safetyLevel": "Average",
-      "safety": "IIHS rated the original moderate-front, side, roof and head-restraint tests Good, but the Fit earned Poor in the driver-side small-overlap test. Stability control and curtain airbags were standard, yet its light minicar size is a meaningful disadvantage for a 16-year-old.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/fit-4-door-wagon/2012",
-      "verdict": "Excellent mechanical odds, but a serious small-overlap weakness",
-      "note": "The title and VIN-linked third-party details describe a manual, but the dealer summary also says automatic; confirm the actual gearbox before traveling. Its otherwise appealing, efficient drivetrain and clean reported history still need a clutch, service-record and rust inspection. The Poor small-overlap result matters for a new driver.",
-      "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-20",
-      "rank": 8,
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "rank": 5,
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     },
     {
       "year": 2011,
@@ -241,9 +170,11 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-20",
-      "rank": 9,
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "rank": 6,
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     },
     {
       "year": 2011,
@@ -268,12 +199,14 @@
       "verdict": "Durable drivetrain with safety and accident-history questions",
       "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-20",
-      "rank": 10,
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "rank": 7,
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     },
     {
-      "rank": 11,
+      "rank": 8,
       "year": 2005,
       "make": "Toyota",
       "model": "Camry",
@@ -282,7 +215,7 @@
       "miles": 154732,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 265 reviews",
+      "rating": "Google 2.5 ★ · 267 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "4T1BE30K85U098820",
       "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D",
@@ -296,17 +229,20 @@
       "verdict": "Good mechanical odds, but dated side-impact protection keeps it last",
       "note": "The exact dealer page is live with VIN, price, mileage and vehicle photos, and the model has a strong durability record. It remains a fallback because safety equipment is not verified and newer entries offer substantially better crash protection; require records, a VIN recall check, insurance review and an independent rust-focused inspection.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-20",
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "googleReviewsCheckedAt": "2026-09-25"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.shelbymotorsma.com/2012-Mazda-Mazda3-Springfield-MA-Worcester-MA-Hartford-CT-Pittsfield-MA-Hampden/used_car/MkiX2s8X5Q4%3d"
+      "url": "https://www.shelbymotorsma.com/2012-Mazda-Mazda3-Springfield-MA-Worcester-MA-Hartford-CT-Pittsfield-MA-Hampden/used_car/MkiX2s8X5Q4%3d",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "KMHDU46DX8U545811",
@@ -417,16 +353,18 @@
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d"
+      "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d"
+      "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "1FAHP3FN6AW219911",
@@ -445,9 +383,10 @@
     {
       "vin": "4T1BE30K85U098820",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D"
+      "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "4S4BSAFC6F3335034",
@@ -521,8 +460,9 @@
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.dealerrater.com/classifieds/2011-Subaru-Impreza-ad-JF1GE6A6XBH510839-107584/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-20",
-      "status": "active"
+      "lastSeen": "2026-09-25",
+      "status": "active",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "5NMSH73E68H174135",
@@ -641,8 +581,9 @@
       "vin": "2HGFB2F58DH506049",
       "firstSeen": "2026-08-26",
       "lastSeen": "2026-09-20",
-      "status": "active",
-      "url": "https://www.hpgauto.com/2013-Honda-Civic-Sdn-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/cVFNs8oeOd8%3D"
+      "status": "withheld; original dealer site could not be reached for current availability",
+      "url": "https://www.hpgauto.com/2013-Honda-Civic-Sdn-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/cVFNs8oeOd8%3D",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "JF1GPAA63G8223296",
@@ -667,15 +608,17 @@
       "vin": "JHMGE8G57CS002707",
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-09-20",
-      "status": "active",
-      "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D"
+      "status": "withheld; listing headline and vehicle details conflict on transmission",
+      "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "JM1BL1VG3B1409909",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D"
+      "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "5NPET46CX8H346495",
@@ -688,8 +631,9 @@
       "vin": "JHLRE48378C045948",
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-09-20",
-      "status": "active",
-      "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D"
+      "status": "withheld; original dealer site could not be reached for current availability",
+      "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "19XFB2F52FE257910",
@@ -736,16 +680,18 @@
     {
       "vin": "JM1BL1W82C1657626",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.a-1autoct.com/2012-Mazda-Mazda3-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/t0QBwcwcSdI%3D"
+      "url": "https://www.a-1autoct.com/2012-Mazda-Mazda3-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/t0QBwcwcSdI%3D",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "3FAHP0HA2BR158554",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.ctcarco.com/2011-Ford-Fusion-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/T0wUTi0xDco%3d"
+      "url": "https://www.ctcarco.com/2011-Ford-Fusion-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/T0wUTi0xDco%3d",
+      "lastChecked": "2026-09-25"
     },
     {
       "vin": "1FAHP35N78W254372",
@@ -778,6 +724,115 @@
       "lastSeen": "2026-09-08",
       "status": "not included; current price is inconsistent across marketplaces and no canonical individual dealer page with an exact-car photo was verified",
       "url": "https://www.cargurus.com/Cars/spt-cars-under-5000-Greenfield_L15454"
+    }
+  ],
+  "withheld": [
+    {
+      "vin": "JHLRE48378C045948",
+      "model": "2008 Honda CR-V",
+      "status": "withheld; original dealer site could not be reached for current availability",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "vin": "2HGFB2F58DH506049",
+      "model": "2013 Honda Civic",
+      "status": "withheld; original dealer site could not be reached for current availability",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "vin": "JHMGE8G57CS002707",
+      "model": "2012 Honda Fit Sport",
+      "status": "withheld; listing headline and vehicle details conflict on transmission",
+      "lastChecked": "2026-09-25"
+    }
+  ],
+  "inactive": [
+    {
+      "rank": 3,
+      "year": 2008,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "LX · 2.4L · automatic · 4WD",
+      "price": 4999,
+      "miles": 187597,
+      "dealer": "HPG Auto Sales LLC",
+      "town": "Hartford, CT",
+      "rating": "Google 4.5 ★ · 81 reviews",
+      "googleReviewsUrl": "https://www.google.com/maps/place/HPG+Auto+Sales/@41.7982821,-72.6762259,17z/data=!4m8!3m7!1s0x89e6555633326d69:0x2e139c90531e6fb2!8m2!3d41.7982821!4d-72.6762259!9m1!1b1!16s%2Fg%2F11j0h_ysz3?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "vin": "JHLRE48378C045948",
+      "url": "https://www.hpgauto.com/2008-Honda-CR-V-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/%5DDlZkhkLaLc%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2026/07/17/4513_2815483_78888620_2572117572026.jpg",
+      "tag": "Strong safety shell",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.4L engine and conventional automatic are generally durable, but 188k miles and 4WD add wear exposure. Check oil consumption, rear-differential service, air conditioning, suspension, wheel bearings, brakes and Northeast rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2008 CR-V a Top Safety Pick, with Good original moderate-front, side and head-restraint ratings; roof strength was later rated Marginal. Stability control and curtain airbags were standard, but operation and VIN recall status still need confirmation.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/cr-v-4-door-suv/2007",
+      "verdict": "A strong safety and durability combination, with high-mileage AWD costs to audit",
+      "note": "This dealer lead has a live individual page, exact photos, VIN and clear $4,999 price. It belongs near the top only if service records and a rust-focused independent inspection support the model’s reputation.",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-09-20",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "status": "withheld; original dealer site could not be reached for current availability"
+    },
+    {
+      "year": 2013,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "LX · 1.8L · automatic · FWD",
+      "price": 3999,
+      "miles": 203147,
+      "dealer": "HPG Auto Sales LLC",
+      "town": "Hartford, CT",
+      "rating": "Google 4.5 ★ · 81 reviews",
+      "googleReviewsUrl": "https://www.google.com/maps/place/HPG+Auto+Sales/@41.7982821,-72.6762259,17z/data=!4m8!3m7!1s0x89e6555633326d69:0x2e139c90531e6fb2!8m2!3d41.7982821!4d-72.6762259!9m1!1b1!16s%2Fg%2F11j0h_ysz3?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "vin": "2HGFB2F58DH506049",
+      "url": "https://www.hpgauto.com/2013-Honda-Civic-Sdn-Hartford-CT-West-Hartford-Wethersfield-East-Hartford-Hartford/used_car/cVFNs8oeOd8%3D",
+      "image": "https://static.cargurus.com/images/forsale/2026/07/23/09/57/2013_honda_civic-pic-4727311930451917567-1024x768.jpeg?auto=webp&fit=bounds&format=jpg&height=480&io=true&width=640",
+      "tag": "Top Safety Pick+",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.8L engine and conventional 5-speed automatic are generally durable and inexpensive to service, but 203k miles creates substantial wear exposure. Inspect engine mounts, suspension, wheel bearings, cooling system, leaks and maintenance history.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2013 Civic sedan a Top Safety Pick+ with Good ratings in driver small-overlap, original moderate-front, side, roof and head-restraint tests. Stability control and curtain airbags were standard; check the VIN for open recalls.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2013",
+      "verdict": "Excellent crash record and durable drivetrain, tempered by 203k miles",
+      "note": "The Civic’s safety and mechanical reputation make it a serious first-car candidate despite the odometer. Only unusually good records and a clean independent inspection should justify buying a car over 200k miles.",
+      "firstSeen": "2026-08-26",
+      "lastSeen": "2026-09-20",
+      "rank": 4,
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "status": "withheld; original dealer site could not be reached for current availability"
+    },
+    {
+      "year": 2012,
+      "make": "Honda",
+      "model": "Fit",
+      "trim": "Sport · 1.5L · 5-speed manual · FWD",
+      "price": 4995,
+      "miles": 161952,
+      "dealer": "United Auto Wholesale",
+      "town": "East Windsor, CT",
+      "rating": "Google 4.2 ★ · 162 reviews",
+      "googleReviewsUrl": "https://www.google.com/maps/place/United+Auto+Sales/@41.873193,-72.6089199,17z/data=!4m8!3m7!1s0x89e6f8d400ff1a6b:0x5fecbb801ad00dd3!8m2!3d41.873193!4d-72.6089199!9m1!1b1!16s%2Fg%2F1tcysv_4?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "vin": "JHMGE8G57CS002707",
+      "url": "https://www.unitedautowholesale.com/2012-Honda-Fit-East-Windsor-CT-Windsor-Locks-Ellington-Tolland-Hartford/used_car/0z6E9lt7eHg%3D",
+      "image": "https://images.autofunds.net/InventoryImages/2026/08/22/4159_2832524_55649470_15303422082026.jpg",
+      "tag": "Durable manual",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.5L engine and 5-speed manual have a strong durability record and avoid automatic-transmission risk. At 162k miles, inspect the clutch, spark plugs and coils, valve adjustment, suspension and Northeast rust; CARFAX shows one owner and no reported damage but only three service records.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the original moderate-front, side, roof and head-restraint tests Good, but the Fit earned Poor in the driver-side small-overlap test. Stability control and curtain airbags were standard, yet its light minicar size is a meaningful disadvantage for a 16-year-old.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/fit-4-door-wagon/2012",
+      "verdict": "Excellent mechanical odds, but a serious small-overlap weakness",
+      "note": "The title and VIN-linked third-party details describe a manual, but the dealer summary also says automatic; confirm the actual gearbox before traveling. Its otherwise appealing, efficient drivetrain and clean reported history still need a clutch, service-record and rust inspection. The Poor small-overlap result matters for a new driver.",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-09-20",
+      "rank": 8,
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "status": "withheld; listing headline and vehicle details conflict on transmission"
     }
   ]
 }

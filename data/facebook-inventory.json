@@ -1,9 +1,36 @@
 {
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-25",
   "priceCap": 5000,
   "active": [
     {
       "rank": 1,
+      "year": 2010,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "X Sport Utility 4D · 2.5L · automatic · AWD",
+      "price": 5000,
+      "miles": 145000,
+      "source": "Facebook Marketplace · private party",
+      "town": "Easthampton, MA",
+      "vin": "JF2SH6BC3AH775036",
+      "listingId": "2064367560870276",
+      "url": "https://www.facebook.com/marketplace/item/2064367560870276/",
+      "image": "/cars/facebook/forester-2010.jpg",
+      "tag": "Best new private-party lead",
+      "reliabilityLevel": "Average",
+      "reliability": "The seller reports professionally completed head-gasket, timing-component, water-pump and cooling-system work, with a seller-posted paid repair invoice and additional brake and muffler records. Those records are not independently authenticated; match the VIN, confirm the work with the shop if possible, and inspect for oil or coolant leaks, overheating, rust, suspension wear and timing-noise at this mileage.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS rated the 2010 Forester Good in the original moderate-front, side, roof-strength and head-restraint tests and listed it as a Top Safety Pick. Standard stability control, ABS and curtain and torso airbags help, but this older SUV has no modern automatic emergency braking; verify recalls, tires and warning lights.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/forester-4-door-suv/2010",
+      "verdict": "The strongest new Facebook lead, conditional on proving the major repair history",
+      "note": "The live listing shows a clean paid title, three keys and first-person ownership details. The VIN comes from a seller-posted April 2025 repair invoice, so compare it with the windshield and title, obtain the original shop records, run history and recall checks, price insurance for a 16-year-old, and require an independent inspection before payment.",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "newToday": true
+    },
+    {
+      "rank": 2,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -16,20 +43,21 @@
       "listingId": "903582715806635",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
       "image": "/cars/facebook/elantra.jpg",
-      "tag": "Best private-party prospect",
+      "tag": "Lower-mileage prospect",
       "reliabilityLevel": "Stronger",
       "reliability": "The 2.0L engine and conventional automatic are generally durable and comparatively simple. At 118k miles, require timing-belt records and inspect rust, suspension, cooling-system condition and transmission shifts.",
       "safetyLevel": "Average",
       "safety": "IIHS rated the original moderate-front and head-restraint tests Good. Side performance improved to Good only for cars built after November 2009; confirm the driver-door build date and stability-control equipment before treating this one as the stronger version.",
       "safetySource": "https://www.iihs.org/ratings/vehicle/hyundai/elantra-4-door-sedan/2010",
-      "verdict": "The best balance of mileage, simplicity and price in today’s private-party set",
-      "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, making this the clearest Facebook candidate. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
+      "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
+      "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-20",
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "newToday": false,
+      "lastChecked": "2026-09-25"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "year": 2012,
       "make": "Mazda",
       "model": "Mazda3",
@@ -51,11 +79,12 @@
       "verdict": "Strong crash protection and a good drivetrain, with unusually high mileage as the deciding risk",
       "note": "The current individual listing shows a clean title, one-owner history, regular Mazda-dealer servicing and no significant disclosed problem. Those claims and the VIN still need documentary verification; obtain title and recall checks, an insurance quote for a 16-year-old and a thorough independent inspection before payment.",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-20",
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "newToday": false,
+      "lastChecked": "2026-09-25"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "year": 2014,
       "make": "Volkswagen",
       "model": "Jetta",
@@ -77,63 +106,12 @@
       "verdict": "A useful newer-sedan safety case at a fair price, provided the missing service history checks out",
       "note": "The live individual listing shows a clean paid-off title, two owners, 138,000 miles and four newer tires, but gives little maintenance detail and does not show the VIN. Confirm seller ownership and lien status, obtain timing-belt and transmission records, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection before payment.",
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-20",
-      "newToday": false
-    },
-    {
-      "rank": 4,
-      "year": 2016,
-      "make": "Kia",
-      "model": "Forte",
-      "trim": "LX sedan · 1.8L · automatic · FWD",
-      "price": 4500,
-      "miles": 126505,
-      "source": "Facebook Marketplace · private party",
-      "town": "Holden, MA",
-      "vin": "KNAFX4A67G5541332",
-      "listingId": "1624316136062478",
-      "url": "https://www.facebook.com/marketplace/item/1624316136062478/",
-      "image": "/cars/facebook/forte-2016.jpg",
-      "tag": "Useful records, engine-risk tradeoff",
-      "reliabilityLevel": "Average",
-      "reliability": "The 1.8L Nu MPI engine and conventional automatic are comparatively simple, and the seller reports regular service, 2025 brakes and rotors, recent tires and alignment, and a completed ignition recall. This engine family can develop oil consumption or bearing noise, so check oil level and service records, listen for knock from a cold start, and inspect the cooling system, mounts, transmission and Northeast rust.",
-      "safetyLevel": "Average",
-      "safety": "IIHS results applying to 2015–16 Forte sedans were Good in the original moderate-front, side, roof-strength and head-restraint tests, but Marginal in the driver-side small-overlap test. Curtain and torso airbags were standard; this car predates modern crash-prevention equipment, so verify warning lights, tires, brakes and recall completion by VIN.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/kia/forte-4-door-sedan/2015",
-      "verdict": "The clearest Facebook prospect, with useful ownership and maintenance detail but meaningful engine-risk questions",
-      "note": "The seller states two owners, ownership since 2017, a clean paid-off title, recent brakes and tires, and a completed ignition recall, while disclosing minor cosmetic damage. Verify those records and the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection with special attention to oil use, engine noise and rust before payment.",
-      "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-20",
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "newToday": false,
+      "lastChecked": "2026-09-25"
     },
     {
       "rank": 5,
-      "year": 2010,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "EX coupe · 5-speed manual · FWD",
-      "price": 2000,
-      "miles": 195308,
-      "source": "Facebook Marketplace · private party",
-      "town": "Springfield, MA",
-      "vin": null,
-      "listingId": "1785283575993461",
-      "url": "https://www.facebook.com/marketplace/item/1785283575993461/",
-      "image": "/cars/facebook/civic-2010.jpg",
-      "tag": "Strong crash shell",
-      "reliabilityLevel": "Average",
-      "reliability": "The 1.8L engine and 5-speed manual are generally durable and avoid automatic-transmission risk, but 195k miles creates broad wear exposure. The seller reports a recent slave cylinder and oil service while disclosing one accident and a small exhaust leak; inspect the clutch hydraulics, exhaust, cooling system, mounts, suspension, rust and repaired structure.",
-      "safetyLevel": "Average",
-      "safety": "IIHS rated the 2006–11 Civic coupe Good in the original moderate-front test, Acceptable in the side test and Good for head restraints. Curtain and torso airbags were standard, but electronic stability control on this EX was not verified; the two-door body and unverified accident repair are added cautions for a new driver.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-2-door-coupe/2009",
-      "verdict": "Good basic crashworthiness at a low price, offset by mileage, accident history and repair needs",
-      "note": "The current listing shows a clean title, smooth shifting, new clutch slave cylinder, recent oil service and a disclosed small exhaust leak, plus one accident. Verify the VIN, title, repair records and stability-control equipment, get an insurance quote for a 16-year-old, and require a structural and mechanical inspection before payment.",
-      "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-20",
-      "newToday": false
-    },
-    {
-      "rank": 6,
       "year": 2009,
       "make": "Toyota",
       "model": "Camry",
@@ -150,13 +128,14 @@
       "reliabilityLevel": "Average",
       "reliability": "The conventional automatic is durable and the seller reports ownership since 2016 plus recent battery, rear brake, rotor, stabilizer-bushing and oil work. The 2.4L 2AZ-FE is known for oil consumption and this example has nearly 237k miles, so verify the oil-use history and inspect the head-bolt threads, cooling system, transmission, suspension and rust closely.",
       "safetyLevel": "Average",
-      "safety": "IIHS rated the 2009 Camry Good in the original moderate-front, side, roof-strength and head-restraint tests. Side-curtain airbags were standard, but electronic stability control was optional on four-cylinder LE cars; confirm this exact car has functioning stability control, ABS and no warning lights, then verify recall completion by VIN.",
+      "safety": "IIHS rated original moderate-front, side and roof-strength performance Good, but head restraints and seats Marginal. Stability-control equipment must be checked on this actual car; confirm the VIN, recalls, warning lights, brakes and tires.",
       "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/camry-4-door-sedan/2009",
       "verdict": "A transparent, inexpensive nearby fallback whose very high mileage prevents a higher rank",
       "note": "The seller provides the VIN, states a clean paid-off title and long ownership, and lists several recent repairs, which is better disclosure than most sub-$5,000 listings. Nearly 237,000 miles creates substantial failure risk, so confirm every record, run title and recall checks, get an insurance quote and require a compression, cooling-system, underbody and oil-consumption inspection before payment.",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-20",
-      "newToday": false
+      "lastSeen": "2026-09-25",
+      "newToday": false,
+      "lastChecked": "2026-09-25"
     }
   ],
   "seen": [
@@ -164,9 +143,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.facebook.com/marketplace/item/903582715806635/"
+      "url": "https://www.facebook.com/marketplace/item/903582715806635/",
+      "lastChecked": "2026-09-25"
     },
     {
       "listingId": "1756411462358328",
@@ -269,8 +249,9 @@
       "vin": null,
       "firstSeen": "2026-09-02",
       "lastSeen": "2026-09-20",
-      "status": "active",
-      "url": "https://www.facebook.com/marketplace/item/1785283575993461/"
+      "status": "unavailable",
+      "url": "https://www.facebook.com/marketplace/item/1785283575993461/",
+      "lastChecked": "2026-09-25"
     },
     {
       "listingId": "1392248028919529",
@@ -308,9 +289,10 @@
       "listingId": "1016107687909634",
       "vin": null,
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.facebook.com/marketplace/item/1016107687909634/"
+      "url": "https://www.facebook.com/marketplace/item/1016107687909634/",
+      "lastChecked": "2026-09-25"
     },
     {
       "listingId": "1034727686037591",
@@ -397,16 +379,18 @@
       "vin": "KNAFX4A67G5541332",
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-20",
-      "status": "active",
-      "url": "https://www.facebook.com/marketplace/item/1624316136062478/"
+      "status": "sold",
+      "url": "https://www.facebook.com/marketplace/item/1624316136062478/",
+      "lastChecked": "2026-09-25"
     },
     {
       "listingId": "1066607365781330",
       "vin": "4T4BE46K19R074187",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.facebook.com/marketplace/item/1066607365781330/"
+      "url": "https://www.facebook.com/marketplace/item/1066607365781330/",
+      "lastChecked": "2026-09-25"
     },
     {
       "listingId": "2245122586322042",
@@ -452,9 +436,10 @@
       "listingId": "2131416797741010",
       "vin": null,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
       "status": "active",
-      "url": "https://www.facebook.com/marketplace/item/2131416797741010/"
+      "url": "https://www.facebook.com/marketplace/item/2131416797741010/",
+      "lastChecked": "2026-09-25"
     },
     {
       "listingId": "2270426680387231",
@@ -575,6 +560,145 @@
       "lastSeen": "2026-09-20",
       "status": "not included; vague new-parts claim with no VIN, records or repair details verified",
       "url": "https://www.facebook.com/marketplace/item/1560337422077134/"
+    },
+    {
+      "vin": "JF2SH6BC3AH775036",
+      "url": "https://www.facebook.com/marketplace/item/2064367560870276/",
+      "firstSeen": "2026-09-25",
+      "listingId": "2064367560870276",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "listingId": "1705984023828229",
+      "url": "https://www.facebook.com/marketplace/item/1705984023828229/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; rebuilt/flood history and structural rust disclosed"
+    },
+    {
+      "listingId": "2530782950665578",
+      "url": "https://www.facebook.com/marketplace/item/2530782950665578/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; weak safety and maintenance evidence for a teen driver"
+    },
+    {
+      "listingId": "1776062150367634",
+      "url": "https://www.facebook.com/marketplace/item/1776062150367634/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; limp-mode fault and rocker-panel work disclosed"
+    },
+    {
+      "listingId": "2270335053750860",
+      "url": "https://www.facebook.com/marketplace/item/2270335053750860/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; apparent reseller profile, private-party classification unverified"
+    },
+    {
+      "listingId": "1410647767936911",
+      "url": "https://www.facebook.com/marketplace/item/1410647767936911/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; identity, title, VIN and condition evidence incomplete"
+    }
+  ],
+  "withheld": [
+    {
+      "listingId": "1705984023828229",
+      "model": "2007 Toyota Prius",
+      "status": "not included; rebuilt/flood history and structural rust disclosed",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "2530782950665578",
+      "model": "2001 Toyota Corolla",
+      "status": "not included; weak safety and maintenance evidence for a teen driver",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "1776062150367634",
+      "model": "2012 Honda Fit",
+      "status": "not included; limp-mode fault and rocker-panel work disclosed",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "2270335053750860",
+      "model": "2012 Honda Fit",
+      "status": "not included; apparent reseller profile, private-party classification unverified",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "1410647767936911",
+      "model": "2013 Subaru Outback",
+      "status": "not included; identity, title, VIN and condition evidence incomplete",
+      "lastChecked": "2026-09-25"
+    }
+  ],
+  "inactive": [
+    {
+      "rank": 4,
+      "year": 2016,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LX sedan · 1.8L · automatic · FWD",
+      "price": 4500,
+      "miles": 126505,
+      "source": "Facebook Marketplace · private party",
+      "town": "Holden, MA",
+      "vin": "KNAFX4A67G5541332",
+      "listingId": "1624316136062478",
+      "url": "https://www.facebook.com/marketplace/item/1624316136062478/",
+      "image": "/cars/facebook/forte-2016.jpg",
+      "tag": "Useful records, engine-risk tradeoff",
+      "reliabilityLevel": "Average",
+      "reliability": "The 1.8L Nu MPI engine and conventional automatic are comparatively simple, and the seller reports regular service, 2025 brakes and rotors, recent tires and alignment, and a completed ignition recall. This engine family can develop oil consumption or bearing noise, so check oil level and service records, listen for knock from a cold start, and inspect the cooling system, mounts, transmission and Northeast rust.",
+      "safetyLevel": "Average",
+      "safety": "IIHS results applying to 2015–16 Forte sedans were Good in the original moderate-front, side, roof-strength and head-restraint tests, but Marginal in the driver-side small-overlap test. Curtain and torso airbags were standard; this car predates modern crash-prevention equipment, so verify warning lights, tires, brakes and recall completion by VIN.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/kia/forte-4-door-sedan/2015",
+      "verdict": "The clearest Facebook prospect, with useful ownership and maintenance detail but meaningful engine-risk questions",
+      "note": "The seller states two owners, ownership since 2017, a clean paid-off title, recent brakes and tires, and a completed ignition recall, while disclosing minor cosmetic damage. Verify those records and the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection with special attention to oil use, engine noise and rust before payment.",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-20",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "status": "sold"
+    },
+    {
+      "rank": 5,
+      "year": 2010,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "EX coupe · 5-speed manual · FWD",
+      "price": 2000,
+      "miles": 195308,
+      "source": "Facebook Marketplace · private party",
+      "town": "Springfield, MA",
+      "vin": null,
+      "listingId": "1785283575993461",
+      "url": "https://www.facebook.com/marketplace/item/1785283575993461/",
+      "image": "/cars/facebook/civic-2010.jpg",
+      "tag": "Strong crash shell",
+      "reliabilityLevel": "Average",
+      "reliability": "The 1.8L engine and 5-speed manual are generally durable and avoid automatic-transmission risk, but 195k miles creates broad wear exposure. The seller reports a recent slave cylinder and oil service while disclosing one accident and a small exhaust leak; inspect the clutch hydraulics, exhaust, cooling system, mounts, suspension, rust and repaired structure.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2006–11 Civic coupe Good in the original moderate-front test, Acceptable in the side test and Good for head restraints. Curtain and torso airbags were standard, but electronic stability control on this EX was not verified; the two-door body and unverified accident repair are added cautions for a new driver.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-2-door-coupe/2009",
+      "verdict": "Good basic crashworthiness at a low price, offset by mileage, accident history and repair needs",
+      "note": "The current listing shows a clean title, smooth shifting, new clutch slave cylinder, recent oil service and a disclosed small exhaust leak, plus one accident. Verify the VIN, title, repair records and stability-control equipment, get an insurance quote for a 16-year-old, and require a structural and mechanical inspection before payment.",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-20",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "status": "unavailable"
     }
   ]
 }
