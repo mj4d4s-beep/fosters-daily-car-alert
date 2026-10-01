@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — September 25, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — September 30, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-          <nav><span className="wordmark">FOSTER’S</span><span className="date">FRIDAY · SEP 25, 2026</span></nav>
+          <nav><span className="wordmark">FOSTER’S</span><span className="date">WEDNESDAY · SEP 30, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">This run rechecked every active listing and each dealer’s Google reviews. The Kia Forte is sold and the Civic is unavailable, so both were removed from the live Facebook set. A 2010 Forester is the only new qualifying private-party lead; its seller-posted repair receipt and VIN still require independent verification. Cars with unresolved dealer availability or conflicting transmission details were withheld. No stock or substitute images were used.</p>
+        <p className="coverage-note">This run rechecked every active listing and each dealer’s Google reviews. The Forester became unavailable, while the prior Mazda3 and Camry are marked sold, so all three were removed from the live Facebook set. Three new private-party leads survived individual-page verification: a 2011 Honda Fit, 2007 Honda Civic and 2005 Toyota Matrix. Cars with major disclosed defects, rebuilt titles, serious rust, unresolved dealer availability or weak verification were withheld. No stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -134,7 +134,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed September 25, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed September 30, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }
