@@ -19,7 +19,7 @@ test("server-renders the complete daily alert", async () => {
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
-  assert.match(html, /Dealer and Facebook Listings for Foster’s Car Search — September 30, 2026/);
+  assert.match(html, /Dealer and Facebook Listings for Foster’s Car Search — October 1, 2026/);
   assert.match(html, /Dealer and Facebook Listings/);
   assert.match(html, /SHUTESBURY \/ AMHERST, MASSACHUSETTS/);
   assert.doesNotMatch(html, /Leverett/i);
@@ -27,15 +27,15 @@ test("server-renders the complete daily alert", async () => {
   assert.match(html, /Facebook Marketplace — Private Party/);
   assert.match(html, /Facebook · Private party/);
   assert.match(html, /Dealer car/);
-  assert.match(html, /Google 3\.7 ★ · 295 reviews(?:<!-- -->)? · Read Google reviews/);
+  assert.match(html, /Google 3\.7 ★ · 296 reviews(?:<!-- -->)? · Read Google reviews/);
   assert.match(html, /google\.com\/maps\/place\/A-1\+Auto\+Sale/);
   const visibleMarkup = html.slice(html.indexOf("<body>"), html.indexOf("</main>"));
-  assert.equal((visibleMarkup.match(/Read Google reviews/g) ?? []).length, 8);
+  assert.equal((visibleMarkup.match(/Read Google reviews/g) ?? []).length, 9);
   assert.match(html, /2012.*Mazda/s);
   assert.match(html, /Reliability/);
   assert.match(html, /Safety/);
   assert.match(html, /Independent inspection/);
-  assert.equal((html.match(/<article/g) ?? []).length, 13);
+  assert.equal((html.match(/<article/g) ?? []).length, 14);
   assert.equal((html.match(/class="car-card[^"]* winner"/g) ?? []).length, 2);
 });
 
