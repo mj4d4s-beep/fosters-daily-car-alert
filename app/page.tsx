@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — October 1, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — October 2, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-          <nav><span className="wordmark">FOSTER’S</span><span className="date">THURSDAY · OCT 1, 2026</span></nav>
+          <nav><span className="wordmark">FOSTER’S</span><span className="date">FRIDAY · OCT 2, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">This run rechecked every active listing and each dealer’s Google reviews. The 2005 Toyota Matrix is now marked sold and was removed from the live Facebook set. Two new leads survived full verification: a dealer-listed 2014 Honda Civic and a private-party 2011 Toyota Corolla. Cars with excessive mileage and rust, thin title or maintenance evidence, unresolved availability or weaker teen-driver safety were withheld. No stock or substitute images were used.</p>
+        <p className="coverage-note">This run rechecked every active listing and each dealer’s Google reviews. The former #1 dealer Mazda3 is now marked out of stock and was removed. Three new leads survived full verification: two manual-transmission Subaru Imprezas from a dealer and a private-party 2009 Subaru Impreza wagon. A reconstructed-title Honda Fit with disclosed rust, an ambiguously priced Fit needing repairs, outside-area cars and weaker high-mileage candidates were withheld. No stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -134,7 +134,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed October 1, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed October 2, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }

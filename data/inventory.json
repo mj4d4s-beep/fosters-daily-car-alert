@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "priceCap": 5000,
   "active": [
     {
       "rank": 1,
-      "year": 2012,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "trim": "i Grand Touring · SKYACTIV 2.0L · automatic · FWD",
+      "year": 2013,
+      "make": "Subaru",
+      "model": "Impreza Sedan",
+      "trim": "2.0i · 5-speed manual · AWD",
       "price": 4999,
-      "miles": 132900,
+      "miles": 116525,
       "dealer": "A-1 Auto Sales, LLC",
       "town": "East Windsor, CT",
       "rating": "Google 3.7 ★ · 296 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/A-1+Auto+Sale/@41.8912554,-72.6086439,17z/data=!4m8!3m7!1s0x89e6f931672393cf:0x2fbe8bedb2fc9c7c!8m2!3d41.8912554!4d-72.6086439!9m1!1b1!16s%2Fg%2F11yccjqs_?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
-      "vin": "JM1BL1W82C1657626",
-      "url": "https://www.a-1autoct.com/2012-Mazda-Mazda3-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/t0QBwcwcSdI%3D",
-      "image": "https://images.autofunds.net/InventoryImages/2026/07/15/3121_2807538_20958418_317315172026.jpg",
-      "tag": "Strongest overall dealer car",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The SKYACTIV 2.0L engine and conventional automatic are generally durable and efficient. At 133k miles, inspect for carbon buildup, cooling or oil leaks, suspension wear, transmission shift quality and Northeast rust; demand complete maintenance and accident records.",
+      "vin": "JF1GJAA6XDG036060",
+      "url": "https://www.a-1autoct.com/2013-Subaru-Impreza-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/QKN28Bg%5dudE%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/09/29/3121_2846217_93194957_544029442026.jpg",
+      "tag": "Best current dealer lead",
+      "reliabilityLevel": "Average",
+      "reliability": "The 5-speed manual avoids high-mileage CVT exposure, but early FB20 engines can consume oil. At 116,525 miles, verify oil-use history and inspect the clutch, wheel bearings, cooling system, suspension and Northeast rust; require complete service records.",
       "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2012 Mazda3 a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint results. Stability control and curtain airbags were standard; verify warning lights and open-recall status by VIN.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/mazda/3-4-door-sedan/2012",
-      "verdict": "The best current dealer-car mix of mileage, crashworthiness and mechanical simplicity",
-      "note": "This is today’s strongest dealer lead, with a live individual page, VIN, exact photos and materially lower mileage than most sub-$5,000 alternatives. The dealer’s low online rating is a serious transparency caution, so obtain the written out-the-door price, verify the trim and history, and use an independent mechanic chosen by the family.",
-      "firstSeen": "2026-09-01",
-      "lastSeen": "2026-10-01",
-      "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "safety": "IIHS rated the 2012–13 Impreza Good in the original moderate-front, side, roof-strength and head-restraint tests. Stability control and curtain airbags were standard; this base manual does not have EyeSight, and VIN recall completion must be checked.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/impreza-4-door-sedan/2012",
+      "verdict": "The strongest current mix of low mileage, crash protection and mechanical simplicity",
+      "note": "The live individual dealer page shows $4,999, 116,525 miles, a cleanly decoded VIN and 24 exact-car photos; NHTSA's VIN decoder confirms the 5-speed manual despite a conflicting generic transmission field on the dealer template. A-1's 3.7-star Google rating warrants caution: get the written out-the-door price, title and history reports, an insurance quote, and an independent oil-consumption, clutch and rust inspection before any deposit.",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "newToday": true,
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     },
     {
       "rank": 2,
@@ -41,7 +41,7 @@
       "miles": 164960,
       "dealer": "Shelby Motor Cars",
       "town": "Springfield, MA",
-      "rating": "Google 4.2 ★ · 595 reviews",
+      "rating": "Google 4.2 ★ · 596 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/Shelby+Motor+Cars/@42.1261079,-72.534046,17z/data=!4m8!3m7!1s0x89e6e7efdfb5c8af:0xf3d4e18598e5ad7f!8m2!3d42.1261079!4d-72.534046!9m1!1b1!16s%2Fg%2F1vknqdwv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JM1BL1W66C1580130",
       "url": "https://www.shelbymotorsma.com/2012-Mazda-Mazda3-Springfield-MA-Worcester-MA-Hartford-CT-Pittsfield-MA-Hampden/used_car/MkiX2s8X5Q4%3d",
@@ -53,12 +53,41 @@
       "safety": "IIHS named the 2012 Mazda3 a Top Safety Pick with Good original front, side, roof and head-restraint results. The listing shows stability control; confirm operation and open-recall status by VIN.",
       "safetySource": "https://www.iihs.org/ratings/vehicle/mazda/3-4-door-sedan/2012",
       "verdict": "Best balance of reliability and crash protection",
-      "note": "This remains the another promising first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
+      "note": "This remains another promising first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
+    },
+    {
+      "rank": 3,
+      "year": 2011,
+      "make": "Subaru",
+      "model": "Impreza Outback Sport",
+      "trim": "wagon · 2.5L · 5-speed manual · AWD",
+      "price": 4999,
+      "miles": 134293,
+      "dealer": "A-1 Auto Sales, LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google 3.7 ★ · 296 reviews",
+      "googleReviewsUrl": "https://www.google.com/maps/place/A-1+Auto+Sale/@41.8912554,-72.6086439,17z/data=!4m8!3m7!1s0x89e6f931672393cf:0x2fbe8bedb2fc9c7c!8m2!3d41.8912554!4d-72.6086439!9m1!1b1!16s%2Fg%2F11yccjqs_?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "vin": "JF1GH6D69BG815791",
+      "url": "https://www.a-1autoct.com/2011-Subaru-Impreza-Wagon-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/OiadzThMrVM%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/09/29/3121_2850530_3824136_5504829502026.jpg",
+      "tag": "Manual-wagon value",
+      "reliabilityLevel": "Average",
+      "reliability": "The 5-speed manual is mechanically simple, but the 2.5L EJ engine needs proof of timely timing-belt service and checks for head-gasket seepage, oil leaks and overheating. At 134,293 miles, also inspect clutch wear, wheel bearings, suspension and structural rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the non-WRX 2011 Impreza a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint results. Stability control and curtain airbags were standard; confirm warning lights, tire condition and all VIN recalls before purchase.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/impreza-4-door-sedan/2011",
+      "verdict": "Good crash protection and useful AWD, with classic Subaru maintenance risks to prove away",
+      "note": "The live dealer page shows $4,999, 134,293 miles, the VIN and 19 exact-car photos; NHTSA's VIN decoder confirms the 5-speed manual. Because the dealer has a 3.7-star Google rating and the listing provides little service history, require timing-belt receipts, a clean title and history report, an insurance quote, and an independent cooling-system, clutch and rust inspection.",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "newToday": true,
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     },
     {
       "year": 2011,
@@ -83,11 +112,11 @@
       "verdict": "Good midsize crash protection at a low price, with transmission and recall checks",
       "note": "The individual dealer page shows one-owner billing, 146,265 miles, the VIN and exact photos at $3,750. The dealer’s 2.5-star Google rating adds caution: verify the written out-the-door price, title, maintenance and completed recalls, obtain a teen-driver insurance quote, and use an independent mechanic to check transmission behavior and rust before deciding.",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-10-01",
-      "rank": 3,
+      "lastSeen": "2026-10-02",
+      "rank": 4,
       "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     },
     {
       "year": 2012,
@@ -112,14 +141,14 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-01",
-      "rank": 4,
+      "lastSeen": "2026-10-02",
+      "rank": 5,
       "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "year": 2014,
       "make": "Honda",
       "model": "Civic",
@@ -142,10 +171,10 @@
       "verdict": "Excellent crash structure, but the odometer and CVT demand unusually strong records",
       "note": "The exact dealer page is live at $4,999 with the VIN, mileage and real vehicle photos. The dealer's 2.5-star Google rating and the car's 195,680 miles are serious cautions: obtain a written out-the-door price, complete history and recall reports, an insurance quote, and a long independent cold-and-warm inspection focused on the CVT and rust.",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-01",
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01",
-      "newToday": true
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02",
+      "newToday": false
     },
     {
       "year": 2016,
@@ -170,11 +199,11 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-01",
-      "rank": 6,
+      "lastSeen": "2026-10-02",
+      "rank": 7,
       "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     },
     {
       "year": 2011,
@@ -199,11 +228,11 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-10-01",
-      "rank": 7,
+      "lastSeen": "2026-10-02",
+      "rank": 8,
       "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     },
     {
       "year": 2011,
@@ -228,14 +257,14 @@
       "verdict": "Durable drivetrain with safety and accident-history questions",
       "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-01",
-      "rank": 8,
+      "lastSeen": "2026-10-02",
+      "rank": 9,
       "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "year": 2005,
       "make": "Toyota",
       "model": "Camry",
@@ -258,20 +287,20 @@
       "verdict": "Good mechanical odds, but dated side-impact protection keeps it last",
       "note": "The exact dealer page is live with VIN, price, mileage and vehicle photos, and the model has a strong durability record. It remains a fallback because safety equipment is not verified and newer entries offer substantially better crash protection; require records, a VIN recall check, insurance review and an independent rust-focused inspection.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "newToday": false,
-      "lastChecked": "2026-10-01",
-      "googleReviewsCheckedAt": "2026-10-01"
+      "lastChecked": "2026-10-02",
+      "googleReviewsCheckedAt": "2026-10-02"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active",
       "url": "https://www.shelbymotorsma.com/2012-Mazda-Mazda3-Springfield-MA-Worcester-MA-Hartford-CT-Pittsfield-MA-Hampden/used_car/MkiX2s8X5Q4%3d",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "KMHDU46DX8U545811",
@@ -382,18 +411,18 @@
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "1FAHP3FN6AW219911",
@@ -412,10 +441,10 @@
     {
       "vin": "4T1BE30K85U098820",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active",
       "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "4S4BSAFC6F3335034",
@@ -489,9 +518,9 @@
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.dealerrater.com/classifieds/2011-Subaru-Impreza-ad-JF1GE6A6XBH510839-107584/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "5NMSH73E68H174135",
@@ -644,10 +673,10 @@
     {
       "vin": "JM1BL1VG3B1409909",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active",
       "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "5NPET46CX8H346495",
@@ -710,17 +739,17 @@
       "vin": "JM1BL1W82C1657626",
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-10-01",
-      "status": "active",
+      "status": "removed; exact dealer page now reports Out of stock",
       "url": "https://www.a-1autoct.com/2012-Mazda-Mazda3-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/t0QBwcwcSdI%3D",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "3FAHP0HA2BR158554",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active",
       "url": "https://www.ctcarco.com/2011-Ford-Fusion-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/T0wUTi0xDco%3d",
-      "lastChecked": "2026-10-01"
+      "lastChecked": "2026-10-02"
     },
     {
       "vin": "1FAHP35N78W254372",
@@ -758,10 +787,50 @@
     {
       "vin": "19XFB2F57EE211682",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-01",
-      "lastChecked": "2026-10-01",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
       "status": "active",
       "url": "https://www.ctcarco.com/2014-Honda-Civic-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/wfV%5dF5RUr2E%3d"
+    },
+    {
+      "vin": "JF1GJAA6XDG036060",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "active",
+      "url": "https://www.a-1autoct.com/2013-Subaru-Impreza-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/QKN28Bg%5dudE%3d"
+    },
+    {
+      "vin": "JF1GH6D69BG815791",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "active",
+      "url": "https://www.a-1autoct.com/2011-Subaru-Impreza-Wagon-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/OiadzThMrVM%3d"
+    },
+    {
+      "vin": "JTMBD33V986058686",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "not included; 2.4L oil-consumption exposure and an older rollover/safety profile make it weaker than the verified active set",
+      "url": "https://www.a-1autoct.com/2008-Toyota-RAV4-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/yRgO7eOPK4s%3d"
+    },
+    {
+      "vin": "JHLRD78816C050642",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "not included; 180,149 miles and older side-impact and stability-control protection make it a weaker teen-driver choice",
+      "url": "https://www.autoglobellc.com/2006-Honda-CR-V-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/2sfgxFazqkU%3d"
+    },
+    {
+      "vin": "4S4BP60C997342158",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "not included; 171,106 miles plus timing-belt, head-gasket and rust exposure make it weaker than the verified active set",
+      "url": "https://www.autoglobellc.com/2009-Subaru-Outback-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/QEG08VM7bq0%3d"
     }
   ],
   "withheld": [
