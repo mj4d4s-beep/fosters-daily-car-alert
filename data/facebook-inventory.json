@@ -1,1 +1,981 @@
-m´ÎàßΩ©bu™‡∫gßµ÷≠k˜⁄qÊË¢HßΩÈÌ¢º£≤â‘±®m´ÎÄ›ÖπÓö(ß~)^¢ã≠~)^m∫ﬁjFÎy©ù y⁄.∂õ≠∫òß∂âbùÎ(~WßÇÿg∫`›uÁ(uÁ^rá^äzn∂^ñób≤ôZ ÿb≤g¨±®ä)È∫ÿß¶Î_äWùyˆÆñ◊ËÆÀ]äz(∫⁄n∂ã≠¶Î_äWùyˆÆñ◊ËÆÀ]¢Î
+{
+  "updatedAt": "2026-10-07",
+  "priceCap": 5000,
+  "active": [
+    {
+      "rank": 1,
+      "year": 2009,
+      "make": "Subaru",
+      "model": "Impreza",
+      "trim": "2.5i Premium wagon ¬∑ 5-speed manual ¬∑ AWD",
+      "price": 4000,
+      "miles": 104000,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Orange, MA",
+      "vin": null,
+      "listingId": "1705102334281429",
+      "url": "https://www.facebook.com/marketplace/item/1705102334281429/",
+      "image": "/cars/facebook/impreza-2009-oct2.jpg",
+      "tag": "Best current private-party lead",
+      "reliabilityLevel": "Average",
+      "reliability": "The 5-speed manual is simple, but the 2.5L EJ engine needs documented timing-belt service and careful checks for head-gasket seepage, oil leaks and overheating. The seller says the timing components are newer but gives no dates or receipts; also inspect the clutch, wheel bearings, suspension and Northeast rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2009 Impreza sedan and wagon a Top Safety Pick with Good original moderate-front, side and head-restraint results when equipped with electronic stability control. Confirm this exact car has functioning VDC, curtain airbags, ABS and no open recalls; its small-car size still matters for a novice driver.",
+      "safetySource": "https://www.iihs.org/ratings/top-safety-picks/2009/small-cars/all",
+      "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
+      "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-07",
+      "newToday": false,
+      "lastChecked": "2026-10-07"
+    },
+    {
+      "rank": 2,
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE Sedan 4D ¬∑ 1.8L ¬∑ automatic ¬∑ FWD",
+      "price": 4950,
+      "miles": 199500,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Westfield, MA",
+      "vin": null,
+      "listingId": "3447277958806939",
+      "url": "https://www.facebook.com/marketplace/item/3447277958806939/",
+      "image": "/cars/facebook/corolla-2013-oct6.jpg",
+      "tag": "Best current private-party Toyota",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.8L engine and conventional automatic have a strong durability record and relatively modest repair costs, but 199,500 miles leaves little room for neglected maintenance. Verify oil use, water pump, transmission shifts, suspension, brakes, tires, cooling system and Northeast rust with records and a cold-start inspection.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2013 Corolla a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint ratings. Stability control and curtain airbags were standard, but this generation predates modern crash-prevention systems; verify warning lights, tires, brakes and VIN recall completion.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2013",
+      "verdict": "A durable and well-rated sedan whose very high mileage makes records and inspection decisive",
+      "note": "The live individual listing shows $4,950, 199,500 miles, automatic transmission, a claimed clean paid-off title and eight exact-car photos; the seller describes it as a daily commuter with no issues. Confirm seller ownership, obtain the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent rust, drivetrain and suspension inspection before payment.",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "lastChecked": "2026-10-07",
+      "newToday": false
+    },
+    {
+      "rank": 3,
+      "year": 2014,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "trim": "2.0L S sedan ¬∑ automatic ¬∑ FWD",
+      "price": 4100,
+      "miles": 138000,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Greenfield, MA",
+      "vin": null,
+      "listingId": "2131416797741010",
+      "url": "https://www.facebook.com/marketplace/item/2131416797741010/",
+      "image": "/cars/facebook/jetta-2014.jpg",
+      "tag": "Best verified crash structure",
+      "reliabilityLevel": "Average",
+      "reliability": "The naturally aspirated 2.0L engine and conventional automatic are simpler than Volkswagen turbo or DSG combinations, and the seller reports four newer tires. At 138k miles, demand timing-belt and fluid-service records and inspect for oil or coolant leaks, cooling-system and electrical faults, rough shifts, suspension wear and Northeast rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS rated the 2014 Jetta Good in the original moderate-front, side, roof-strength and head-restraint tests, with a Marginal driver-side small-overlap result for cars built after October 2012. Stability control and side-curtain airbags were standard on the sedan; verify the build date, warning lights, tires, brakes and recall completion.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/volkswagen/jetta/2014",
+      "verdict": "A useful newer-sedan safety case at a fair price, provided the missing service history checks out",
+      "note": "The live individual listing shows a clean paid-off title, two owners, 138,000 miles and four newer tires, but gives little maintenance detail and does not show the VIN. Confirm seller ownership and lien status, obtain timing-belt and transmission records, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection before payment.",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-10-07",
+      "newToday": false,
+      "lastChecked": "2026-10-07"
+    },
+    {
+      "rank": 4,
+      "year": 2010,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "Trim not stated ¬∑ automatic ¬∑ FWD",
+      "price": 3999,
+      "miles": 117884,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Agawam, MA",
+      "vin": null,
+      "listingId": "903582715806635",
+      "url": "https://www.facebook.com/marketplace/item/903582715806635/",
+      "image": "/cars/facebook/elantra.jpg",
+      "tag": "Lowest-mileage Facebook option",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.0L engine and conventional automatic are generally durable and comparatively simple. At 118k miles, require timing-belt records and inspect rust, suspension, cooling-system condition and transmission shifts.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the original moderate-front and head-restraint tests Good. Side performance improved to Good only for cars built after November 2009; confirm the driver-door build date and stability-control equipment before treating this one as the stronger version.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/hyundai/elantra-4-door-sedan/2010",
+      "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
+      "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-10-07",
+      "newToday": false,
+      "lastChecked": "2026-10-07"
+    },
+    {
+      "rank": 5,
+      "year": 2007,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "LX Coupe 2D ¬∑ 1.8L ¬∑ 5-speed manual ¬∑ FWD",
+      "price": 1500,
+      "miles": 210000,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Belchertown, MA",
+      "vin": null,
+      "listingId": "1070285112543040",
+      "url": "https://www.facebook.com/marketplace/item/1070285112543040/",
+      "image": "/cars/facebook/civic-2007-sep30.jpg",
+      "tag": "Low-price manual fallback",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.8L engine and 5-speed manual are generally durable, and the seller reports a new clutch, brakes and tires. At 210k miles, confirm the repairs with receipts and inspect for engine-block coolant seepage, oil use, clutch hydraulics, wheel bearings, suspension, exhaust modifications and structural rust.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2006‚Äì11 Civic coupe Good in the original moderate-front test and Acceptable in the side test, with Good head restraints. Curtain and torso airbags were standard, but electronic stability control was not standard on this LX; verify equipment, recalls and tire quality before considering it for a teen.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-2-door-coupe/2007",
+      "verdict": "A mechanically simple bargain whose mileage, two-door layout and equipment gaps limit its rank",
+      "note": "The live listing provides four exact-car photos and first-person claims about a clean title, new clutch, brakes and tires, but no VIN or records. Confirm ownership and title, obtain receipts, run VIN history and recall checks, get an insurance quote, and require an independent compression, cooling-system and rust inspection before payment.",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-10-07",
+      "newToday": false,
+      "lastChecked": "2026-10-07"
+    }
+  ],
+  "seen": [
+    {
+      "listingId": "903582715806635",
+      "vin": null,
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-10-06",
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/903582715806635/",
+      "lastChecked": "2026-10-06"
+    },
+    {
+      "listingId": "1756411462358328",
+      "vin": null,
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-09-04",
+      "status": "unavailable; exact listing no longer available",
+      "url": "https://www.facebook.com/marketplace/item/1756411462358328/"
+    },
+    {
+      "listingId": "27747370418245348",
+      "vin": null,
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-09-06",
+      "status": "live, qualifying fallback outside top 8 after stronger new candidates",
+      "url": "https://www.facebook.com/marketplace/item/27747370418245348/"
+    },
+    {
+      "listingId": "28060718890217572",
+      "vin": null,
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-09-06",
+      "status": "live, qualifying fallback outside top 8 after stronger new candidates",
+      "url": "https://www.facebook.com/marketplace/item/28060718890217572/"
+    },
+    {
+      "listingId": "1389551239275089",
+      "vin": null,
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-09-05",
+      "status": "live, qualifying fallback outside top 8 after stronger new candidate",
+      "url": "https://www.facebook.com/marketplace/item/1389551239275089/"
+    },
+    {
+      "listingId": "1070034778702767",
+      "vin": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "excluded after evaluation; transmission details conflict",
+      "url": "https://www.facebook.com/marketplace/item/1070034778702767/"
+    },
+    {
+      "listingId": "972695369012101",
+      "vin": "JHMGE8G21AS021076",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "status": "not included; seller discloses needed front ABS sensors and an A/C compressor, leaving an unresolved safety-system defect",
+      "url": "https://www.facebook.com/marketplace/item/972695369012101/",
+      "lastChecked": "2026-10-07"
+    },
+    {
+      "listingId": "1718016752646970",
+      "vin": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "excluded after evaluation; 219k-mile hybrid with VIN and battery history unverified",
+      "url": "https://www.facebook.com/marketplace/item/1718016752646970/"
+    },
+    {
+      "listingId": "1802714157405329",
+      "vin": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "excluded after evaluation; 241,570 miles and weak seller transparency",
+      "url": "https://www.facebook.com/marketplace/item/1802714157405329/"
+    },
+    {
+      "listingId": "1708480443773758",
+      "vin": null,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-07",
+      "status": "pending; no longer available as an active choice",
+      "url": "https://www.facebook.com/marketplace/item/1708480443773758/"
+    },
+    {
+      "listingId": "1386621623605054",
+      "vin": null,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "excluded after evaluation; Fitchburg is outside the roughly 60-minute search area",
+      "url": "https://www.facebook.com/marketplace/item/1386621623605054/"
+    },
+    {
+      "listingId": "1744139123307342",
+      "vin": null,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "excluded after evaluation; outstanding loan and title-release risk",
+      "url": "https://www.facebook.com/marketplace/item/1744139123307342/"
+    },
+    {
+      "listingId": "1027203913597049",
+      "vin": null,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "excluded after evaluation; dealership listing, not private party",
+      "url": "https://www.facebook.com/marketplace/item/1027203913597049/"
+    },
+    {
+      "listingId": "1785283575993461",
+      "vin": null,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-20",
+      "status": "unavailable",
+      "url": "https://www.facebook.com/marketplace/item/1785283575993461/",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "1392248028919529",
+      "vin": null,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-08",
+      "status": "live fallback outside top 8 after a newer Honda Fit; lower mileage is offset by weaker verified crash protection and unverified side airbags or stability control",
+      "url": "https://www.facebook.com/marketplace/item/1392248028919529/"
+    },
+    {
+      "listingId": "1070492428685122",
+      "vin": null,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02",
+      "status": "excluded after evaluation; extensive body rust and rejection sticker",
+      "url": "https://www.facebook.com/marketplace/item/1070492428685122/"
+    },
+    {
+      "listingId": "1053878414205424",
+      "vin": null,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02",
+      "status": "excluded after evaluation; seller states the vehicle needs a replacement engine",
+      "url": "https://www.facebook.com/marketplace/item/1053878414205424/"
+    },
+    {
+      "listingId": "1036900832434437",
+      "vin": null,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02",
+      "status": "excluded after evaluation; 230,000 miles and weak seller transparency",
+      "url": "https://www.facebook.com/marketplace/item/1036900832434437/"
+    },
+    {
+      "listingId": "1016107687909634",
+      "vin": null,
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-25",
+      "status": "sold; exact listing marked Sold on recheck",
+      "url": "https://www.facebook.com/marketplace/item/1016107687909634/",
+      "lastChecked": "2026-09-30"
+    },
+    {
+      "listingId": "1034727686037591",
+      "vin": null,
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04",
+      "status": "excluded after evaluation; 240,000 miles and weak seller transparency",
+      "url": "https://www.facebook.com/marketplace/item/1034727686037591/"
+    },
+    {
+      "listingId": "1347641540773714",
+      "vin": null,
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04",
+      "status": "excluded after evaluation; dealership seller, not private party",
+      "url": "https://www.facebook.com/marketplace/item/1347641540773714/"
+    },
+    {
+      "listingId": "2234281964083939",
+      "vin": null,
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04",
+      "status": "excluded after evaluation; 223,000 miles and check-engine light",
+      "url": "https://www.facebook.com/marketplace/item/2234281964083939/"
+    },
+    {
+      "listingId": "2114838399133529",
+      "vin": null,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-14",
+      "status": "removed: listing marked sold",
+      "url": "https://www.facebook.com/marketplace/item/2114838399133529/"
+    },
+    {
+      "listingId": "1600234421510189",
+      "vin": null,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05",
+      "status": "excluded after evaluation; ABS warning light is an unresolved safety defect",
+      "url": "https://www.facebook.com/marketplace/item/1600234421510189/"
+    },
+    {
+      "listingId": "1356908959655033",
+      "vin": null,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05",
+      "status": "excluded after evaluation; stale listing with title, history and seller transparency unverified",
+      "url": "https://www.facebook.com/marketplace/item/1356908959655033/"
+    },
+    {
+      "listingId": "34783313557983791",
+      "vin": null,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05",
+      "status": "excluded after evaluation; 224,000 miles, 19-week-old listing and weak seller detail",
+      "url": "https://www.facebook.com/marketplace/item/34783313557983791/"
+    },
+    {
+      "listingId": "1542896163983607",
+      "vin": null,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05",
+      "status": "excluded after evaluation; visible rear-quarter rust and fresh-paint claim require more transparency",
+      "url": "https://www.facebook.com/marketplace/item/1542896163983607/"
+    },
+    {
+      "listingId": "1424403952942156",
+      "vin": null,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05",
+      "status": "excluded after evaluation; seller states it is not a private sale",
+      "url": "https://www.facebook.com/marketplace/item/1424403952942156/"
+    },
+    {
+      "listingId": "1388880043299824",
+      "vin": null,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05",
+      "status": "excluded after evaluation; duplicate-model alternative with weaker mileage and minimal disclosure",
+      "url": "https://www.facebook.com/marketplace/item/1388880043299824/"
+    },
+    {
+      "listingId": "1624316136062478",
+      "vin": "KNAFX4A67G5541332",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-20",
+      "status": "sold",
+      "url": "https://www.facebook.com/marketplace/item/1624316136062478/",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "1066607365781330",
+      "vin": "4T4BE46K19R074187",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-25",
+      "status": "sold; exact listing marked Sold on recheck",
+      "url": "https://www.facebook.com/marketplace/item/1066607365781330/",
+      "lastChecked": "2026-09-30"
+    },
+    {
+      "listingId": "2245122586322042",
+      "vin": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-10-07",
+      "status": "excluded after evaluation; seller discloses an active ABS warning light",
+      "url": "https://www.facebook.com/marketplace/item/2245122586322042/",
+      "lastChecked": "2026-10-07"
+    },
+    {
+      "listingId": "1771471994103521",
+      "vin": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "excluded after evaluation; 187,291 miles and weak maintenance transparency",
+      "url": "https://www.facebook.com/marketplace/item/1771471994103521/"
+    },
+    {
+      "listingId": "1009859162016728",
+      "vin": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "excluded after evaluation; ten-week-old listing with minimal disclosure",
+      "url": "https://www.facebook.com/marketplace/item/1009859162016728/"
+    },
+    {
+      "listingId": "1004018229325639",
+      "vin": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "excluded after evaluation; hybrid battery and CVT risk with minimal maintenance disclosure",
+      "url": "https://www.facebook.com/marketplace/item/1004018229325639/"
+    },
+    {
+      "listingId": "1567739914843300",
+      "vin": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "not included; exact individual-listing details could not be fully verified",
+      "url": "https://www.facebook.com/marketplace/item/1567739914843300/"
+    },
+    {
+      "listingId": "2131416797741010",
+      "vin": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-10-06",
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/2131416797741010/",
+      "lastChecked": "2026-10-06"
+    },
+    {
+      "listingId": "2270426680387231",
+      "vin": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "excluded after evaluation; 258,348 miles and seller discloses a needed wheel bearing",
+      "url": "https://www.facebook.com/marketplace/item/2270426680387231/"
+    },
+    {
+      "listingId": "993045936903543",
+      "vin": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "excluded after evaluation; eight-week-old listing, 175,000 miles and replacement-engine history require stronger documentation",
+      "url": "https://www.facebook.com/marketplace/item/993045936903543/"
+    },
+    {
+      "listingId": "936658529517102",
+      "vin": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "live fallback outside top 8; VIN, exceptionally low odometer history and maintenance are unverified, with a small-car safety tradeoff",
+      "url": "https://www.facebook.com/marketplace/item/936658529517102/"
+    },
+    {
+      "listingId": "1062214273341967",
+      "vin": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "live fallback outside top 8; timing-belt, head-gasket and maintenance history are not documented",
+      "url": "https://www.facebook.com/marketplace/item/1062214273341967/"
+    },
+    {
+      "listingId": "1364364082160858",
+      "vin": null,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-14",
+      "status": "removed: listing marked sold",
+      "url": "https://www.facebook.com/marketplace/item/1364364082160858/"
+    },
+    {
+      "listingId": "28346261028331514",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; seller explicitly says not a private sale",
+      "url": "https://www.facebook.com/marketplace/item/28346261028331514/"
+    },
+    {
+      "listingId": "1427284899277272",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-10-01",
+      "status": "not included; seller discloses upcoming repairs without specifying them, at 200,000 miles",
+      "url": "https://www.facebook.com/marketplace/item/1427284899277272/",
+      "lastChecked": "2026-10-01"
+    },
+    {
+      "listingId": "1837170910890836",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; thin description with no VIN, maintenance or timing-belt history verified",
+      "url": "https://www.facebook.com/marketplace/item/1837170910890836/"
+    },
+    {
+      "listingId": "1585000913360246",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "not included; seller discloses ABS fault, power-steering pump need and cracked windshield",
+      "url": "https://www.facebook.com/marketplace/item/1585000913360246/"
+    },
+    {
+      "listingId": "1852106379083985",
+      "vin": null,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-10-07",
+      "status": "not included; eight-week-old listing, 185,000 miles, TPMS sensors absent and air-conditioning issue",
+      "url": "https://www.facebook.com/marketplace/item/1852106379083985/",
+      "lastChecked": "2026-10-07"
+    },
+    {
+      "listingId": "3207353969458155",
+      "vin": null,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "status": "not included; templated marketing text with placeholders and no VIN, title or maintenance history verified",
+      "url": "https://www.facebook.com/marketplace/item/3207353969458155/"
+    },
+    {
+      "listingId": "1721293449159438",
+      "vin": null,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "status": "not included; Pittsfield is outside the roughly 60-minute search area and VIN and service history were not verified",
+      "url": "https://www.facebook.com/marketplace/item/1721293449159438/"
+    },
+    {
+      "listingId": "1142684648083645",
+      "vin": null,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "status": "not included; thin description, tires may need replacement, and no VIN, title or maintenance history verified",
+      "url": "https://www.facebook.com/marketplace/item/1142684648083645/"
+    },
+    {
+      "listingId": "2598545500572940",
+      "vin": null,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "status": "not included; 218,857 miles with weak maintenance and condition disclosure despite a stated clean title",
+      "url": "https://www.facebook.com/marketplace/item/2598545500572940/"
+    },
+    {
+      "listingId": "1560337422077134",
+      "vin": null,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "status": "not included; vague new-parts claim with no VIN, records or repair details verified",
+      "url": "https://www.facebook.com/marketplace/item/1560337422077134/"
+    },
+    {
+      "vin": "JF2SH6BC3AH775036",
+      "url": "https://www.facebook.com/marketplace/item/2064367560870276/",
+      "firstSeen": "2026-09-25",
+      "listingId": "2064367560870276",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-30",
+      "status": "unavailable; exact listing redirected to Marketplace on recheck"
+    },
+    {
+      "listingId": "1705984023828229",
+      "url": "https://www.facebook.com/marketplace/item/1705984023828229/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; rebuilt/flood history and structural rust disclosed"
+    },
+    {
+      "listingId": "2530782950665578",
+      "url": "https://www.facebook.com/marketplace/item/2530782950665578/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; weak safety and maintenance evidence for a teen driver"
+    },
+    {
+      "listingId": "1776062150367634",
+      "url": "https://www.facebook.com/marketplace/item/1776062150367634/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-10-07",
+      "lastChecked": "2026-10-07",
+      "status": "not included; limp-mode fault and rocker-panel work disclosed"
+    },
+    {
+      "listingId": "2270335053750860",
+      "url": "https://www.facebook.com/marketplace/item/2270335053750860/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; apparent reseller profile, private-party classification unverified"
+    },
+    {
+      "listingId": "1410647767936911",
+      "url": "https://www.facebook.com/marketplace/item/1410647767936911/",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "lastChecked": "2026-09-25",
+      "status": "not included; identity, title, VIN and condition evidence incomplete"
+    },
+    {
+      "listingId": "1424000566356124",
+      "vin": null,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-10-04",
+      "status": "removed; Facebook listing is marked Sold",
+      "url": "https://www.facebook.com/marketplace/item/1424000566356124/",
+      "lastChecked": "2026-10-06"
+    },
+    {
+      "listingId": "1070285112543040",
+      "vin": null,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-10-06",
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/1070285112543040/",
+      "lastChecked": "2026-10-06"
+    },
+    {
+      "listingId": "1780162439972732",
+      "vin": null,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "sold; exact listing marked Sold on recheck",
+      "url": "https://www.facebook.com/marketplace/item/1780162439972732/",
+      "lastChecked": "2026-10-01"
+    },
+    {
+      "listingId": "2526177577880491",
+      "vin": null,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-04",
+      "lastChecked": "2026-10-06",
+      "status": "removed; Facebook listing is marked Pending",
+      "url": "https://www.facebook.com/marketplace/item/2526177577880491/"
+    },
+    {
+      "listingId": "1040598519027793",
+      "vin": null,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "lastChecked": "2026-10-01",
+      "status": "not included; 237,000 miles and seller-disclosed rear-fender rust make it weaker than the verified active set",
+      "url": "https://www.facebook.com/marketplace/item/1040598519027793/"
+    },
+    {
+      "listingId": "1903135937325813",
+      "vin": null,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "lastChecked": "2026-10-01",
+      "status": "not included; thin maintenance and title evidence and older subcompact crash protection make it weaker than the verified active set",
+      "url": "https://www.facebook.com/marketplace/item/1903135937325813/"
+    },
+    {
+      "listingId": "4440512362875979",
+      "vin": null,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "lastChecked": "2026-10-01",
+      "status": "not included; individual listing could not be opened and verified",
+      "url": "https://www.facebook.com/marketplace/item/4440512362875979/"
+    },
+    {
+      "listingId": "1705102334281429",
+      "vin": null,
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
+    },
+    {
+      "listingId": "1974728233201859",
+      "vin": null,
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "not included; reconstructed title and seller-disclosed rust around the rear wheel area and passenger door sill are unacceptable risks for a teen-driver recommendation",
+      "url": "https://www.facebook.com/marketplace/item/1974728233201859/"
+    },
+    {
+      "listingId": "1719280329352509",
+      "vin": null,
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "not included; current page price conflicts with the search card and the seller discloses a needed belt and oxygen-sensor repair without structured vehicle details or a VIN",
+      "url": "https://www.facebook.com/marketplace/item/1719280329352509/"
+    },
+    {
+      "listingId": "1132899755735232",
+      "vin": null,
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "lastChecked": "2026-10-02",
+      "status": "not included; Worcester is outside the roughly 60-minute Shutesbury/Amherst search area",
+      "url": "https://www.facebook.com/marketplace/item/1132899755735232/"
+    },
+    {
+      "listingId": "2636129150172727",
+      "vin": null,
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "status": "removed; Facebook says the listing may have been sold or expired",
+      "url": "https://www.facebook.com/marketplace/item/2636129150172727/",
+      "lastChecked": "2026-10-06"
+    },
+    {
+      "listingId": "4355880114545127",
+      "status": "excluded after evaluation; disclosed fender rust and upcoming brake work weaken the safety case",
+      "url": "https://www.facebook.com/marketplace/item/4355880114545127/",
+      "vin": null,
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "lastChecked": "2026-10-04"
+    },
+    {
+      "listingId": "3858627850943672",
+      "status": "excluded after evaluation; side-airbag equipment is unverified and IIHS side/head-restraint results are weak without it",
+      "url": "https://www.facebook.com/marketplace/item/3858627850943672/",
+      "vin": null,
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "lastChecked": "2026-10-04"
+    },
+    {
+      "listingId": "2009061036468185",
+      "vin": "JHMGD38468S071147",
+      "status": "excluded after evaluation; disclosed rocker and rear-fender rust plus prior front-end damage require inspection before recommendation",
+      "url": "https://www.facebook.com/marketplace/item/2009061036468185/",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "lastChecked": "2026-10-04"
+    },
+    {
+      "listingId": "3447277958806939",
+      "vin": null,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/3447277958806939/"
+    },
+    {
+      "listingId": "1848609036310037",
+      "vin": null,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "status": "not included; seller discloses a rebuilt title, so structural repair quality cannot be verified",
+      "url": "https://www.facebook.com/marketplace/item/1848609036310037/"
+    },
+    {
+      "listingId": "582715037988192",
+      "vin": null,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "lastChecked": "2026-10-06",
+      "status": "not included; year-old listing and sparse condition evidence are too stale and weak to recommend",
+      "url": "https://www.facebook.com/marketplace/item/582715037988192/"
+    },
+    {
+      "listingId": "2084700098817167",
+      "vin": null,
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "lastChecked": "2026-10-07",
+      "status": "not included; 224,000 miles, as-is sale and limited maintenance evidence make it weaker than the verified active set",
+      "url": "https://www.facebook.com/marketplace/item/2084700098817167/"
+    },
+    {
+      "listingId": "1599363351979769",
+      "vin": null,
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "lastChecked": "2026-10-07",
+      "status": "not included; 216,000 miles, four-week-old listing and no VIN make it weaker than the verified active set",
+      "url": "https://www.facebook.com/marketplace/item/1599363351979769/"
+    },
+    {
+      "listingId": "938053602691720",
+      "vin": null,
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "lastChecked": "2026-10-07",
+      "status": "not included; seller discloses an active warning light, oil leak and rust",
+      "url": "https://www.facebook.com/marketplace/item/938053602691720/"
+    }
+  ],
+  "withheld": [
+    {
+      "listingId": "1705984023828229",
+      "model": "2007 Toyota Prius",
+      "status": "not included; rebuilt/flood history and structural rust disclosed",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "2530782950665578",
+      "model": "2001 Toyota Corolla",
+      "status": "not included; weak safety and maintenance evidence for a teen driver",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "1776062150367634",
+      "model": "2012 Honda Fit",
+      "status": "not included; limp-mode fault and rocker-panel work disclosed",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "2270335053750860",
+      "model": "2012 Honda Fit",
+      "status": "not included; apparent reseller profile, private-party classification unverified",
+      "lastChecked": "2026-09-25"
+    },
+    {
+      "listingId": "1410647767936911",
+      "model": "2013 Subaru Outback",
+      "status": "not included; identity, title, VIN and condition evidence incomplete",
+      "lastChecked": "2026-09-25"
+    }
+  ],
+  "inactive": [
+    {
+      "rank": 4,
+      "year": 2016,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "LX sedan ¬∑ 1.8L ¬∑ automatic ¬∑ FWD",
+      "price": 4500,
+      "miles": 126505,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Holden, MA",
+      "vin": "KNAFX4A67G5541332",
+      "listingId": "1624316136062478",
+      "url": "https://www.facebook.com/marketplace/item/1624316136062478/",
+      "image": "/cars/facebook/forte-2016.jpg",
+      "tag": "Useful records, engine-risk tradeoff",
+      "reliabilityLevel": "Average",
+      "reliability": "The 1.8L Nu MPI engine and conventional automatic are comparatively simple, and the seller reports regular service, 2025 brakes and rotors, recent tires and alignment, and a completed ignition recall. This engine family can develop oil consumption or bearing noise, so check oil level and service records, listen for knock from a cold start, and inspect the cooling system, mounts, transmission and Northeast rust.",
+      "safetyLevel": "Average",
+      "safety": "IIHS results applying to 2015‚Äì16 Forte sedans were Good in the original moderate-front, side, roof-strength and head-restraint tests, but Marginal in the driver-side small-overlap test. Curtain and torso airbags were standard; this car predates modern crash-prevention equipment, so verify warning lights, tires, brakes and recall completion by VIN.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/kia/forte-4-door-sedan/2015",
+      "verdict": "The clearest Facebook prospect, with useful ownership and maintenance detail but meaningful engine-risk questions",
+      "note": "The seller states two owners, ownership since 2017, a clean paid-off title, recent brakes and tires, and a completed ignition recall, while disclosing minor cosmetic damage. Verify those records and the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection with special attention to oil use, engine noise and rust before payment.",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-20",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "status": "sold"
+    },
+    {
+      "rank": 5,
+      "year": 2010,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "EX coupe ¬∑ 5-speed manual ¬∑ FWD",
+      "price": 2000,
+      "miles": 195308,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Springfield, MA",
+      "vin": null,
+      "listingId": "1785283575993461",
+      "url": "https://www.facebook.com/marketplace/item/1785283575993461/",
+      "image": "/cars/facebook/civic-2010.jpg",
+      "tag": "Strong crash shell",
+      "reliabilityLevel": "Average",
+      "reliability": "The 1.8L engine and 5-speed manual are generally durable and avoid automatic-transmission risk, but 195k miles creates broad wear exposure. The seller reports a recent slave cylinder and oil service while disclosing one accident and a small exhaust leak; inspect the clutch hydraulics, exhaust, cooling system, mounts, suspension, rust and repaired structure.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2006‚Äì11 Civic coupe Good in the original moderate-front test, Acceptable in the side test and Good for head restraints. Curtain and torso airbags were standard, but electronic stability control on this EX was not verified; the two-door body and unverified accident repair are added cautions for a new driver.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-2-door-coupe/2009",
+      "verdict": "Good basic crashworthiness at a low price, offset by mileage, accident history and repair needs",
+      "note": "The current listing shows a clean title, smooth shifting, new clutch slave cylinder, recent oil service and a disclosed small exhaust leak, plus one accident. Verify the VIN, title, repair records and stability-control equipment, get an insurance quote for a 16-year-old, and require a structural and mechanical inspection before payment.",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-20",
+      "newToday": false,
+      "lastChecked": "2026-09-25",
+      "status": "unavailable"
+    },
+    {
+      "rank": 1,
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE Sedan 4D ¬∑ 1.8L ¬∑ automatic ¬∑ FWD",
+      "price": 5000,
+      "miles": 123224,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Northampton, MA",
+      "vin": null,
+      "listingId": "2526177577880491",
+      "url": "https://www.facebook.com/marketplace/item/2526177577880491/",
+      "image": "/cars/facebook/corolla-2011-oct1.jpg",
+      "tag": "Best new private-party lead",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.8L engine and conventional automatic are generally durable and inexpensive to service, and 123,224 miles is low for this price range. The seller reports frequent oil changes; verify records and inspect the water pump, oil use, transmission shifts, suspension, brakes and Northeast rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2011 Corolla a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint ratings. Stability control and side-curtain airbags were standard, but this generation predates modern small-overlap testing; verify warning lights, tires, brakes and VIN recall completion.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2011",
+      "verdict": "Today's strongest private-party combination of mileage, durability and verified crash protection",
+      "note": "The live individual listing shows $5,000, 123,224 miles, automatic transmission and nine exact-car photos, with minor cosmetic wear disclosed. The VIN, title status and maintenance documents are not shown, so confirm seller ownership and lien status, run history and recall checks, price insurance for a 16-year-old, and require an independent rust-focused inspection before payment.",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-04",
+      "lastChecked": "2026-10-06",
+      "newToday": false,
+      "status": "removed; Facebook listing is marked Pending"
+    },
+    {
+      "rank": 2,
+      "year": 2009,
+      "make": "Toyota",
+      "model": "Matrix",
+      "trim": "L Sport Wagon 4D ¬∑ 1.8L ¬∑ automatic ¬∑ FWD",
+      "price": 3000,
+      "miles": 170000,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Southampton, MA",
+      "vin": null,
+      "listingId": "2636129150172727",
+      "url": "https://www.facebook.com/marketplace/item/2636129150172727/",
+      "image": "/cars/facebook/matrix-2009-oct4.jpg",
+      "tag": "Best new private-party lead",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.8L Toyota engine and conventional automatic are generally durable and economical to repair. At 170,000 miles, require maintenance records and inspect oil use, the water pump and cooling system, transmission shifts, wheel bearings, suspension, brakes and Northeast rust.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2009‚Äì13 Matrix Good in the original moderate-front and side tests and Acceptable for head restraints. Electronic stability control was not universal for 2009, so verify this exact car's equipment, ABS, airbags, tires and recall completion before treating it as suitable for a novice driver.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/matrix-4-door-wagon/2011",
+      "verdict": "A strong value on reliability and utility, with safety equipment and high-mileage condition still to prove",
+      "note": "The live individual listing shows $3,000, 170,000 miles, automatic transmission, two-owner billing, no claimed accidents and eight exact-car photos. The VIN, title status and service documents are not shown, so confirm seller ownership and lien status, obtain the VIN for history and recall checks, verify stability control, price insurance, and require an independent rust-focused inspection before payment.",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "lastChecked": "2026-10-06",
+      "newToday": false,
+      "status": "removed; Facebook says the listing may have been sold or expired"
+    },
+    {
+      "rank": 4,
+      "year": 2011,
+      "make": "Honda",
+      "model": "Fit",
+      "trim": "Hatchback 4D ¬∑ 1.5L ¬∑ automatic ¬∑ FWD",
+      "price": 4000,
+      "miles": 178000,
+      "source": "Facebook Marketplace ¬∑ private party",
+      "town": "Ellington, CT",
+      "vin": null,
+      "listingId": "1424000566356124",
+      "url": "https://www.facebook.com/marketplace/item/1424000566356124/",
+      "image": "/cars/facebook/fit-2011-sep30.jpg",
+      "tag": "Best new private-party lead",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.5L engine and conventional automatic are generally durable and inexpensive to service. The seller reports one-owner use, a new battery and two replacement catalytic converters; at 178k miles, verify why the converters failed and inspect oil use, ignition coils, suspension, wheel bearings, transmission shifts and Northeast rust.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2009‚Äì13 Fit Good in the original moderate-front and side tests, Acceptable for roof strength, but Poor in the later driver-side small-overlap test. Curtain and torso airbags were standard; stability control was not universal, so verify the exact equipment and complete every VIN recall, including Takata work.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/fit-4-door-wagon/2011",
+      "verdict": "The strongest current Facebook balance of reliability, practicality and disclosure",
+      "note": "The live individual listing shows 178,000 miles, automatic transmission, one-owner billing, a paid-off vehicle and a clean-title claim, plus 11 exact-car photos. Confirm the seller matches the title, obtain the VIN and maintenance and converter records, run history and recall checks, price insurance for a 16-year-old, and require an independent rust-focused inspection before payment.",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-10-04",
+      "newToday": false,
+      "lastChecked": "2026-10-06",
+      "status": "removed; Facebook listing is marked Sold"
+    }
+  ]
+}
