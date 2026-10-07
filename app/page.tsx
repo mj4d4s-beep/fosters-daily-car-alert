@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">This run rechecked every active listing and each dealer’s Google reviews. One dealer Subaru is now out of stock, one dealer Honda rose above the $5,000 cap, and three Facebook cars were removed because they are pending, sold or expired. Two new leads survived full verification: a low-mileage dealer Buick Lucerne and a private-party 2013 Toyota Corolla. A stock-photo Civic, rebuilt-title Civic, Fit with an unresolved ABS fault and weaker drivetrain-risk candidates were withheld. No stock or substitute images were used.</p>
+        <p className="coverage-note">This run rechecked all 11 dealer listings, all 5 Facebook private-party listings and every dealer’s Google reviews; every active car remains live and at or below the $5,000 cap. No new qualifying cars survived verification today. Newly surfaced dealer cars with generic stock photos and Facebook candidates with warning lights, rust, oil leaks, tow-required or as-is disclosures, very high mileage, or insufficient listing evidence were withheld. No stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
