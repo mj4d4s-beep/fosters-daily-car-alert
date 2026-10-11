@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-11",
   "priceCap": 5000,
   "active": [
     {
@@ -25,9 +25,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-11",
       "newToday": false,
-      "lastChecked": "2026-10-07"
+      "lastChecked": "2026-10-11"
     },
     {
       "rank": 2,
@@ -52,39 +52,12 @@
       "verdict": "A durable and well-rated sedan whose very high mileage makes records and inspection decisive",
       "note": "The live individual listing shows $4,950, 199,500 miles, automatic transmission, a claimed clean paid-off title and eight exact-car photos; the seller describes it as a daily commuter with no issues. Confirm seller ownership, obtain the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent rust, drivetrain and suspension inspection before payment.",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-07",
-      "lastChecked": "2026-10-07",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
       "newToday": false
     },
     {
       "rank": 3,
-      "year": 2014,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "trim": "2.0L S sedan · automatic · FWD",
-      "price": 4100,
-      "miles": 138000,
-      "source": "Facebook Marketplace · private party",
-      "town": "Greenfield, MA",
-      "vin": null,
-      "listingId": "2131416797741010",
-      "url": "https://www.facebook.com/marketplace/item/2131416797741010/",
-      "image": "/cars/facebook/jetta-2014.jpg",
-      "tag": "Best verified crash structure",
-      "reliabilityLevel": "Average",
-      "reliability": "The naturally aspirated 2.0L engine and conventional automatic are simpler than Volkswagen turbo or DSG combinations, and the seller reports four newer tires. At 138k miles, demand timing-belt and fluid-service records and inspect for oil or coolant leaks, cooling-system and electrical faults, rough shifts, suspension wear and Northeast rust.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS rated the 2014 Jetta Good in the original moderate-front, side, roof-strength and head-restraint tests, with a Marginal driver-side small-overlap result for cars built after October 2012. Stability control and side-curtain airbags were standard on the sedan; verify the build date, warning lights, tires, brakes and recall completion.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/volkswagen/jetta/2014",
-      "verdict": "A useful newer-sedan safety case at a fair price, provided the missing service history checks out",
-      "note": "The live individual listing shows a clean paid-off title, two owners, 138,000 miles and four newer tires, but gives little maintenance detail and does not show the VIN. Confirm seller ownership and lien status, obtain timing-belt and transmission records, run title and recall checks, price insurance for a 16-year-old, and require an independent inspection before payment.",
-      "firstSeen": "2026-09-07",
-      "lastSeen": "2026-10-07",
-      "newToday": false,
-      "lastChecked": "2026-10-07"
-    },
-    {
-      "rank": 4,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -106,36 +79,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-11",
       "newToday": false,
-      "lastChecked": "2026-10-07"
-    },
-    {
-      "rank": 5,
-      "year": 2007,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "LX Coupe 2D · 1.8L · 5-speed manual · FWD",
-      "price": 1500,
-      "miles": 210000,
-      "source": "Facebook Marketplace · private party",
-      "town": "Belchertown, MA",
-      "vin": null,
-      "listingId": "1070285112543040",
-      "url": "https://www.facebook.com/marketplace/item/1070285112543040/",
-      "image": "/cars/facebook/civic-2007-sep30.jpg",
-      "tag": "Low-price manual fallback",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 1.8L engine and 5-speed manual are generally durable, and the seller reports a new clutch, brakes and tires. At 210k miles, confirm the repairs with receipts and inspect for engine-block coolant seepage, oil use, clutch hydraulics, wheel bearings, suspension, exhaust modifications and structural rust.",
-      "safetyLevel": "Average",
-      "safety": "IIHS rated the 2006–11 Civic coupe Good in the original moderate-front test and Acceptable in the side test, with Good head restraints. Curtain and torso airbags were standard, but electronic stability control was not standard on this LX; verify equipment, recalls and tire quality before considering it for a teen.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-2-door-coupe/2007",
-      "verdict": "A mechanically simple bargain whose mileage, two-door layout and equipment gaps limit its rank",
-      "note": "The live listing provides four exact-car photos and first-person claims about a clean title, new clutch, brakes and tires, but no VIN or records. Confirm ownership and title, obtain receipts, run VIN history and recall checks, get an insurance quote, and require an independent compression, cooling-system and rust inspection before payment.",
-      "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-07",
-      "newToday": false,
-      "lastChecked": "2026-10-07"
+      "lastChecked": "2026-10-11"
     }
   ],
   "seen": [
@@ -438,10 +384,10 @@
       "listingId": "2131416797741010",
       "vin": null,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-10-06",
-      "status": "active",
+      "lastSeen": "2026-10-11",
+      "status": "removed from active; exact listing is pending on 2026-10-11",
       "url": "https://www.facebook.com/marketplace/item/2131416797741010/",
-      "lastChecked": "2026-10-06"
+      "lastChecked": "2026-10-11"
     },
     {
       "listingId": "2270426680387231",
@@ -627,10 +573,10 @@
       "listingId": "1070285112543040",
       "vin": null,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-06",
-      "status": "active",
+      "lastSeen": "2026-10-11",
+      "status": "removed from active; exact listing is marked sold on 2026-10-11",
       "url": "https://www.facebook.com/marketplace/item/1070285112543040/",
-      "lastChecked": "2026-10-06"
+      "lastChecked": "2026-10-11"
     },
     {
       "listingId": "1780162439972732",
@@ -802,6 +748,46 @@
       "lastChecked": "2026-10-07",
       "status": "not included; seller discloses an active warning light, oil leak and rust",
       "url": "https://www.facebook.com/marketplace/item/938053602691720/"
+    },
+    {
+      "listingId": "1109248088633137",
+      "vin": null,
+      "vehicle": "2009 Toyota Yaris",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "lastChecked": "2026-10-11",
+      "status": "unavailable on 2026-10-11; exact listing says it may have sold or expired",
+      "url": "https://www.facebook.com/marketplace/item/1109248088633137/"
+    },
+    {
+      "listingId": "1031141826448183",
+      "vin": null,
+      "vehicle": "2012 Honda Fit",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; 294,735 miles and insufficient maintenance evidence",
+      "url": "https://www.facebook.com/marketplace/item/1031141826448183/"
+    },
+    {
+      "listingId": "4437723873134526",
+      "vin": null,
+      "vehicle": "2012 Subaru Impreza hatchback",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; 217,000 miles and limited maintenance evidence",
+      "url": "https://www.facebook.com/marketplace/item/4437723873134526/"
+    },
+    {
+      "listingId": "2284233362145070",
+      "vin": null,
+      "vehicle": "2007 Honda Civic sedan",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; mileage, VIN, title status and maintenance history are not shown",
+      "url": "https://www.facebook.com/marketplace/item/2284233362145070/"
     }
   ],
   "withheld": [

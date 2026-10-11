@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-11",
   "priceCap": 5000,
   "active": [
     {
@@ -26,10 +26,10 @@
       "verdict": "The strongest current mix of low mileage, crash protection and mechanical simplicity",
       "note": "The live individual dealer page shows $4,999, 116,525 miles, a cleanly decoded VIN and 24 exact-car photos; NHTSA's VIN decoder confirms the 5-speed manual despite a conflicting generic transmission field on the dealer template. A-1's 3.7-star Google rating warrants caution: get the written out-the-door price, title and history reports, an insurance quote, and an independent oil-consumption, clutch and rust inspection before any deposit.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-11",
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     },
     {
       "rank": 2,
@@ -55,42 +55,13 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains another promising first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-11",
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     },
     {
       "rank": 3,
-      "year": 2012,
-      "make": "Honda",
-      "model": "Civic",
-      "trim": "LX sedan · 1.8L · 5-speed automatic · FWD",
-      "price": 4999,
-      "miles": 156905,
-      "dealer": "A-1 Auto Sales, LLC",
-      "town": "East Windsor, CT",
-      "rating": "Google 3.7 ★ · 296 reviews",
-      "googleReviewsUrl": "https://www.google.com/maps/place/A-1+Auto+Sale/@41.8912554,-72.6086439,17z/data=!4m8!3m7!1s0x89e6f931672393cf:0x2fbe8bedb2fc9c7c!8m2!3d41.8912554!4d-72.6086439!9m1!1b1!16s%2Fg%2F11yccjqs_?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
-      "vin": "2HGFB2F5XCH584976",
-      "url": "https://www.a-1autoct.com/2012-Honda-Civic-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/OCd%5bQAvZXNg%3d",
-      "image": "https://images.autofunds.net/InventoryImages/2026/03/21/3121_2746892_10772197_212921122026.jpg",
-      "tag": "Strong conventional-automatic choice",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 1.8L engine and conventional 5-speed automatic are generally durable and avoid a CVT. At 156,905 miles, require maintenance records and inspect transmission-fluid condition, engine mounts, cooling and A/C systems, suspension, brakes and Northeast rust.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2012 Civic a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint results. Stability control and curtain airbags were standard; this model predates the later small-overlap rating, and every VIN recall must be confirmed complete.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2012",
-      "verdict": "A durable drivetrain and strong original crash-test record, with mileage and dealer transparency to audit",
-      "note": "The live individual dealer page shows $4,999, 156,905 miles, the VIN and 20 exact-car photos; NHTSA's VIN decoder confirms the LX sedan and 5-speed automatic. It reappeared after previously being marked out of stock, so confirm current availability, the written out-the-door price, title and history reports, an insurance quote, and an independent rust-focused inspection before any deposit.",
-      "firstSeen": "2026-09-06",
-      "lastSeen": "2026-10-07",
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07",
-      "newToday": false
-    },
-    {
-      "rank": 4,
       "year": 2010,
       "make": "Subaru",
       "model": "Legacy",
@@ -113,39 +84,10 @@
       "verdict": "Excellent original crash protection, tempered by first-generation CVT and classic Subaru maintenance exposure",
       "note": "The live individual dealer page shows $4,999, 141,779 miles, the VIN and 24 exact-car photos. Because the dealer has a 3.7-star Google rating and the car's service history is not documented online, require the written out-the-door price, timing-belt and CVT records, title and history reports, an insurance quote, and an independent cooling-system, transmission and rust inspection.",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-07",
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11",
       "newToday": false
-    },
-    {
-      "year": 2011,
-      "make": "Ford",
-      "model": "Fusion",
-      "trim": "SE · 2.5L · automatic · FWD",
-      "price": 3750,
-      "miles": 146265,
-      "dealer": "CT Car Co LLC",
-      "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 267 reviews",
-      "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
-      "vin": "3FAHP0HA2BR158554",
-      "url": "https://www.ctcarco.com/2011-Ford-Fusion-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/T0wUTi0xDco%3d",
-      "image": "https://images.autofunds.net/InventoryImages/2026/08/24/4107_2833630_19578377_4395224392026.jpg",
-      "tag": "Midsize crash protection",
-      "reliabilityLevel": "Average",
-      "reliability": "The naturally aspirated four-cylinder is comparatively simple, but Ford documented harsh or flaring shifts on the 6F35 automatic in some 2011 Fusions. At 146k miles, demand transmission-service records and a cold and warm test drive; inspect steering, cooling, suspension, brakes and Northeast rust.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2011 Fusion a Top Safety Pick with Good original moderate-front, side, roof and head-restraint results. Side airbags and stability control were standard, but its age and Takata airbag and steering-recall history make VIN-specific recall completion essential before purchase.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/fusion/2011",
-      "verdict": "Good midsize crash protection at a low price, with transmission and recall checks",
-      "note": "The individual dealer page shows one-owner billing, 146,265 miles, the VIN and exact photos at $3,750. The dealer’s 2.5-star Google rating adds caution: verify the written out-the-door price, title, maintenance and completed recalls, obtain a teen-driver insurance quote, and use an independent mechanic to check transmission behavior and rust before deciding.",
-      "firstSeen": "2026-09-02",
-      "lastSeen": "2026-10-07",
-      "rank": 5,
-      "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
     },
     {
       "year": 2012,
@@ -156,7 +98,7 @@
       "miles": 160325,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 267 reviews",
+      "rating": "Google 2.5 ★ · 268 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "1FAHP3F22CL432378",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d",
@@ -170,14 +112,14 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-07",
-      "rank": 6,
+      "lastSeen": "2026-10-11",
+      "rank": 4,
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "year": 2009,
       "make": "Buick",
       "model": "Lucerne",
@@ -200,10 +142,10 @@
       "verdict": "Low miles and a sturdy full-size platform, with older crash design and feature verification to resolve",
       "note": "The live individual dealer page shows $4,950, 95,624 miles, VIN, CXL trim and multiple exact-car photos; Auto Globe’s current Google rating is 4.1 stars from 105 reviews. Before any deposit, confirm the written out-the-door price, title and history, recall status, insurance cost for a 16-year-old, and obtain an independent transmission, rust and safety-equipment inspection.",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-11",
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     },
     {
       "year": 2016,
@@ -214,7 +156,7 @@
       "miles": 176679,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 267 reviews",
+      "rating": "Google 2.5 ★ · 268 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JF1GPAP69G9219643",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d",
@@ -228,11 +170,11 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-07",
-      "rank": 8,
+      "lastSeen": "2026-10-11",
+      "rank": 6,
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     },
     {
       "year": 2011,
@@ -243,7 +185,7 @@
       "miles": 168000,
       "dealer": "The Car Place",
       "town": "Somers, CT",
-      "rating": "Google 4.1 ★ · 66 reviews",
+      "rating": "Google 4.1 ★ · 67 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/The+Car+Place/@41.9856988,-72.4893027,17z/data=!4m8!3m7!1s0x89e6efc4b09806d1:0x1c9e4ce6f5a5e06!8m2!3d41.9856988!4d-72.4893027!9m1!1b1!16s%2Fg%2F1vkxn903?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.dealerrater.com/classifieds/2011-Subaru-Impreza-ad-JF1GE6A6XBH510839-107584/",
@@ -257,11 +199,11 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-10-07",
-      "rank": 9,
+      "lastSeen": "2026-10-11",
+      "rank": 7,
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     },
     {
       "year": 2011,
@@ -286,14 +228,14 @@
       "verdict": "Durable drivetrain with safety and accident-history questions",
       "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-07",
-      "rank": 10,
+      "lastSeen": "2026-10-11",
+      "rank": 8,
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "year": 2005,
       "make": "Toyota",
       "model": "Camry",
@@ -302,7 +244,7 @@
       "miles": 154732,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 267 reviews",
+      "rating": "Google 2.5 ★ · 268 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "4T1BE30K85U098820",
       "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D",
@@ -316,10 +258,10 @@
       "verdict": "Good mechanical odds, but dated side-impact protection keeps it last",
       "note": "The exact dealer page is live with VIN, price, mileage and vehicle photos, and the model has a strong durability record. It remains a fallback because safety equipment is not verified and newer entries offer substantially better crash protection; require records, a VIN recall check, insurance review and an independent rust-focused inspection.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-11",
       "newToday": false,
-      "lastChecked": "2026-10-07",
-      "googleReviewsCheckedAt": "2026-10-07"
+      "lastChecked": "2026-10-11",
+      "googleReviewsCheckedAt": "2026-10-11"
     }
   ],
   "seen": [
@@ -775,10 +717,10 @@
     {
       "vin": "3FAHP0HA2BR158554",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-10-06",
-      "status": "active",
+      "lastSeen": "2026-10-11",
+      "status": "removed from active; individual dealer page says the vehicle is not available on 2026-10-11",
       "url": "https://www.ctcarco.com/2011-Ford-Fusion-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/T0wUTi0xDco%3d",
-      "lastChecked": "2026-10-06"
+      "lastChecked": "2026-10-11"
     },
     {
       "vin": "1FAHP35N78W254372",
@@ -789,9 +731,9 @@
     {
       "vin": "2HGFB2F5XCH584976",
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-10-06",
-      "status": "active",
-      "lastChecked": "2026-10-06",
+      "lastSeen": "2026-10-11",
+      "status": "removed from active; live dealer page increased to $5,999 on 2026-10-11",
+      "lastChecked": "2026-10-11",
       "url": "https://www.a-1autoct.com/2012-Honda-Civic-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/OCd%5bQAvZXNg%3d"
     },
     {
@@ -917,6 +859,226 @@
       "lastChecked": "2026-10-07",
       "status": "not included; dealer page uses a generic stock photo instead of exact-car photos",
       "url": "https://www.a-1autoct.com/2014-Kia-Forte-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/yMcHeC7aijI%3d"
+    },
+    {
+      "vin": "2C4RDGBG2ER187723",
+      "vehicle": "2014 Dodge Grand Caravan",
+      "price": 3999,
+      "miles": 166385,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; high mileage and model-specific drivetrain/repair exposure are weaker than the verified active set"
+    },
+    {
+      "vin": "1N4AL2AP9AN504088",
+      "vehicle": "2010 Nissan Altima",
+      "price": 3999,
+      "miles": 146408,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "JN8AS5MV2CW374214",
+      "vehicle": "2012 Nissan Rogue",
+      "price": 4499,
+      "miles": 129831,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "JN8AS5MV9DW663057",
+      "vehicle": "2013 Nissan Rogue",
+      "price": 4499,
+      "miles": 132403,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "1N4AL2AP8CC187998",
+      "vehicle": "2012 Nissan Altima",
+      "price": 4499,
+      "miles": 138353,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "JN8AS58V69W172236",
+      "vehicle": "2009 Nissan Rogue",
+      "price": 4499,
+      "miles": 130678,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "1N4AL3AP5DC164881",
+      "vehicle": "2013 Nissan Altima",
+      "price": 4999,
+      "miles": 123191,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "4S4BRBCC7C3290915",
+      "vehicle": "2012 Subaru Outback",
+      "price": 4999,
+      "miles": 144760,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; oil-consumption, CVT and high-mileage repair exposure are weaker than the verified active set"
+    },
+    {
+      "vin": "1N4AL3AP7DC914944",
+      "vehicle": "2013 Nissan Altima",
+      "price": 4999,
+      "miles": 135801,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "JN8AS5MVXCW379113",
+      "vehicle": "2012 Nissan Rogue",
+      "price": 4999,
+      "miles": 138979,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; Nissan CVT failure exposure is too high for this search"
+    },
+    {
+      "vin": "1C4NJRFB7DD263648",
+      "vehicle": "2013 Jeep Patriot",
+      "price": 4999,
+      "miles": 153330,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; CVT and high-mileage repair exposure are weaker than the verified active set"
+    },
+    {
+      "vin": "1LNHL9FT1DG604004",
+      "vehicle": "2013 Lincoln MKS",
+      "price": 4999,
+      "miles": 135469,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; complex high-mileage luxury-car repair exposure"
+    },
+    {
+      "vin": "2FMDK4JC1BBA72043",
+      "vehicle": "2011 Ford Edge",
+      "price": 4999,
+      "miles": 196054,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; very high mileage and repair exposure"
+    },
+    {
+      "vin": "3A4FY58B77T615965",
+      "vehicle": "2007 Chrysler PT Cruiser",
+      "price": 4999,
+      "miles": 115976,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; weaker crashworthiness and reliability than the verified active set"
+    },
+    {
+      "vin": "1GNDU23L46D199795",
+      "vehicle": "2006 Chevrolet Uplander",
+      "price": 4999,
+      "miles": 75093,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; older crashworthiness and model-specific reliability concerns"
+    },
+    {
+      "vin": "5N1AT2MV0FC818425",
+      "vehicle": "2015 Nissan Rogue",
+      "price": 4999,
+      "miles": 200311,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; very high mileage plus Nissan CVT failure exposure"
+    },
+    {
+      "vin": "5FPYK1F57BB006427",
+      "vehicle": "2011 Honda Ridgeline",
+      "price": 4999,
+      "miles": 229032,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; very high mileage and repair exposure"
+    },
+    {
+      "vin": "5N1AT2MVXFC867972",
+      "vehicle": "2015 Nissan Rogue",
+      "price": 4999,
+      "miles": 225805,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; very high mileage plus Nissan CVT failure exposure"
+    },
+    {
+      "vin": "5GAEV23D19J216594",
+      "vehicle": "2009 Buick Enclave",
+      "price": 3950,
+      "miles": 180277,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; very high mileage and major drivetrain repair exposure"
+    },
+    {
+      "vin": "5XXGM4A73DG196347",
+      "vehicle": "2013 Kia Optima",
+      "price": 4750,
+      "miles": 156925,
+      "source": "dealer",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "status": "not included; engine-theft, fire-recall and high-mileage reliability exposure are too high"
     }
   ],
   "withheld": [

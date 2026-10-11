@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — October 7, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — October 11, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-          <nav><span className="wordmark">FOSTER’S</span><span className="date">WEDNESDAY · OCT 7, 2026</span></nav>
+          <nav><span className="wordmark">FOSTER’S</span><span className="date">SUNDAY · OCT 11, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">This run rechecked all 11 dealer listings, all 5 Facebook private-party listings and every dealer’s Google reviews; every active car remains live and at or below the $5,000 cap. No new qualifying cars survived verification today. Newly surfaced dealer cars with generic stock photos and Facebook candidates with warning lights, rust, oil leaks, tow-required or as-is disclosures, very high mileage, or insufficient listing evidence were withheld. No stock or substitute images were used.</p>
+        <p className="coverage-note">This run rechecked all 11 previously active dealer listings, all 5 previously active Facebook private-party listings and every dealer’s Google reviews. Two dealer cars were removed because one rose to $5,999 and one became unavailable; two Facebook cars were removed because one is pending and one is sold. Newly surfaced candidates with severe transmission or repair exposure, very high mileage, a reconstructed title, rust, or insufficient listing evidence were withheld. The 9 dealer cars and 3 Facebook cars shown remain live, correctly classified and at or below the firm $5,000 cap. No new qualifying cars survived verification today, and no stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -134,7 +134,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed October 7, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed October 11, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }
