@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "priceCap": 5000,
   "active": [
     {
@@ -25,9 +25,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "newToday": false,
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "rank": 2,
@@ -52,9 +52,9 @@
       "verdict": "Strong crashworthiness and substantial recent maintenance, balanced against early CVT and oil-consumption risk",
       "note": "The live individual listing shows $3,750, 146,000 miles, automatic transmission, a paid-off vehicle, ten exact-car photos and a private seller in Sunderland. The seller claims no accident history and extensive recent work, but the VIN, title status and receipts are not shown; confirm seller ownership, clean title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent CVT, oil-consumption, cooling-system and rust inspection before payment.",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
-      "newToday": true
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "newToday": false
     },
     {
       "rank": 3,
@@ -79,8 +79,8 @@
       "verdict": "A durable and well-rated sedan whose very high mileage makes records and inspection decisive",
       "note": "The live individual listing shows $4,950, 199,500 miles, automatic transmission, a claimed clean paid-off title and eight exact-car photos; the seller describes it as a daily commuter with no issues. Confirm seller ownership, obtain the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent rust, drivetrain and suspension inspection before payment.",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "newToday": false
     },
     {
@@ -106,9 +106,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "newToday": false,
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     }
   ],
   "seen": [
@@ -116,10 +116,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "listingId": "1756411462358328",
@@ -645,17 +645,17 @@
       "listingId": "4440512362875979",
       "vin": null,
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-01",
-      "lastChecked": "2026-10-01",
-      "status": "not included; individual listing could not be opened and verified",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; 259,000 miles and a seller-disclosed wheel-bearing repair make it too weak for this teen-driver search",
       "url": "https://www.facebook.com/marketplace/item/4440512362875979/"
     },
     {
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -663,8 +663,8 @@
       "listingId": "1974728233201859",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
-      "lastChecked": "2026-10-02",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "status": "not included; reconstructed title and seller-disclosed rust around the rear wheel area and passenger door sill are unacceptable risks for a teen-driver recommendation",
       "url": "https://www.facebook.com/marketplace/item/1974728233201859/"
     },
@@ -697,12 +697,12 @@
     },
     {
       "listingId": "4355880114545127",
-      "status": "excluded after evaluation; disclosed fender rust and upcoming brake work weaken the safety case",
+      "status": "not included; visible rust, seller-disclosed squeaking brakes and missing VIN or service history leave too much condition and safety uncertainty",
       "url": "https://www.facebook.com/marketplace/item/4355880114545127/",
       "vin": null,
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-04",
-      "lastChecked": "2026-10-04"
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13"
     },
     {
       "listingId": "3858627850943672",
@@ -719,15 +719,15 @@
       "status": "excluded after evaluation; disclosed rocker and rear-fender rust plus prior front-end damage require inspection before recommendation",
       "url": "https://www.facebook.com/marketplace/item/2009061036468185/",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-04",
-      "lastChecked": "2026-10-04"
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13"
     },
     {
       "listingId": "3447277958806939",
       "vin": null,
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/3447277958806939/"
     },
@@ -821,8 +821,8 @@
       "vin": null,
       "vehicle": "2012 Subaru Impreza 2.0i Limited sedan",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1758287555273754/"
     },
@@ -885,6 +885,86 @@
       "lastChecked": "2026-10-12",
       "status": "not included; fair-condition as-is listing lacks trim, transmission, title and maintenance evidence",
       "url": "https://www.facebook.com/marketplace/item/1098589585944719/"
+    },
+    {
+      "listingId": "1084764657501829",
+      "vin": null,
+      "vehicle": "2009 Hyundai Elantra",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; seller discloses rust repairs and cosmetic needs while title and maintenance evidence are incomplete",
+      "url": "https://www.facebook.com/marketplace/item/1084764657501829/"
+    },
+    {
+      "listingId": "2019063942121768",
+      "vin": null,
+      "vehicle": "2009 Toyota Yaris",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; 190,000 miles, visible rust and the Worcester location make it weaker than the verified active set",
+      "url": "https://www.facebook.com/marketplace/item/2019063942121768/"
+    },
+    {
+      "listingId": "3118314871705795",
+      "vin": null,
+      "vehicle": "2011 Volkswagen Jetta SportWagen 2.5 SE",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; title, maintenance and condition evidence are insufficient despite the attractive mileage",
+      "url": "https://www.facebook.com/marketplace/item/3118314871705795/"
+    },
+    {
+      "listingId": "1430735019224220",
+      "vin": null,
+      "vehicle": "2019 Nissan Sentra",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; Nissan CVT failure exposure is too high for this teen-driver search",
+      "url": "https://www.facebook.com/marketplace/item/1430735019224220/"
+    },
+    {
+      "listingId": "2510917356058449",
+      "vin": null,
+      "vehicle": "2012 Toyota Prius c",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; 251,261 miles, P0A80 hybrid-battery fault, rust and prior-accident evidence create excessive repair and safety risk",
+      "url": "https://www.facebook.com/marketplace/item/2510917356058449/"
+    },
+    {
+      "listingId": "1441416021230566",
+      "vin": null,
+      "vehicle": "2010 Toyota Sienna",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; 240,000 miles and sparse condition and maintenance evidence make it unverifiable",
+      "url": "https://www.facebook.com/marketplace/item/1441416021230566/"
+    },
+    {
+      "listingId": "1011844557867138",
+      "vin": null,
+      "vehicle": "2012 Scion xD",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; the 18-week-old sales-style listing is stale and private-party classification is not credible enough to verify",
+      "url": "https://www.facebook.com/marketplace/item/1011844557867138/"
+    },
+    {
+      "listingId": "1056926467349020",
+      "vin": null,
+      "vehicle": "2011 Toyota Camry",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "not included; Worcester is outside the roughly one-hour Shutesbury and Amherst search area",
+      "url": "https://www.facebook.com/marketplace/item/1056926467349020/"
     }
   ],
   "withheld": [

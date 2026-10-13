@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "priceCap": 5000,
   "active": [
     {
@@ -12,7 +12,7 @@
       "miles": 116525,
       "dealer": "A-1 Auto Sales, LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 3.7 ★ · 296 reviews",
+      "rating": "Google 3.7 ★ · 297 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/A-1+Auto+Sale/@41.8912554,-72.6086439,17z/data=!4m8!3m7!1s0x89e6f931672393cf:0x2fbe8bedb2fc9c7c!8m2!3d41.8912554!4d-72.6086439!9m1!1b1!16s%2Fg%2F11yccjqs_?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JF1GJAA6XDG036060",
       "url": "https://www.a-1autoct.com/2013-Subaru-Impreza-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/QKN28Bg%5dudE%3d",
@@ -26,10 +26,10 @@
       "verdict": "The strongest current mix of low mileage, crash protection and mechanical simplicity",
       "note": "The live individual dealer page shows $4,999, 116,525 miles, a cleanly decoded VIN and 24 exact-car photos; NHTSA's VIN decoder confirms the 5-speed manual despite a conflicting generic transmission field on the dealer template. A-1's 3.7-star Google rating warrants caution: get the written out-the-door price, title and history reports, an insurance quote, and an independent oil-consumption, clutch and rust inspection before any deposit.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
     },
     {
       "rank": 2,
@@ -55,10 +55,10 @@
       "verdict": "Best balance of reliability and crash protection",
       "note": "This remains another promising first-car candidate in the verified group. Inspect the body and undercarriage closely and review the accident history before treating its model reputation as proof of this car’s condition.",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
     },
     {
       "rank": 3,
@@ -70,7 +70,7 @@
       "miles": 141779,
       "dealer": "A-1 Auto Sales, LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 3.7 ★ · 296 reviews",
+      "rating": "Google 3.7 ★ · 297 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/A-1+Auto+Sale/@41.8912554,-72.6086439,17z/data=!4m8!3m7!1s0x89e6f931672393cf:0x2fbe8bedb2fc9c7c!8m2!3d41.8912554!4d-72.6086439!9m1!1b1!16s%2Fg%2F11yccjqs_?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "4S3BMBG69A3241591",
       "url": "https://www.a-1autoct.com/2010-Subaru-Legacy-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/Vx%5dV2ljHqdM%3d",
@@ -84,9 +84,9 @@
       "verdict": "Excellent original crash protection, tempered by first-generation CVT and classic Subaru maintenance exposure",
       "note": "The live individual dealer page shows $4,999, 141,779 miles, the VIN and 24 exact-car photos. Because the dealer has a 3.7-star Google rating and the car's service history is not documented online, require the written out-the-door price, timing-belt and CVT records, title and history reports, an insurance quote, and an independent cooling-system, transmission and rust inspection.",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13",
       "newToday": false
     },
     {
@@ -98,7 +98,7 @@
       "miles": 160325,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 268 reviews",
+      "rating": "Google 2.5 ★ · 267 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "1FAHP3F22CL432378",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d",
@@ -112,11 +112,11 @@
       "verdict": "Strong crash protection without the infamous automatic",
       "note": "This is a sensible first-car prospect if your son can drive a manual. The listing says one owner, but only service records and an independent inspection can establish this car’s condition.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "rank": 4,
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
     },
     {
       "rank": 5,
@@ -142,10 +142,10 @@
       "verdict": "Low miles and a sturdy full-size platform, with older crash design and feature verification to resolve",
       "note": "The live individual dealer page shows $4,950, 95,624 miles, VIN, CXL trim and multiple exact-car photos; Auto Globe’s current Google rating is 4.1 stars from 105 reviews. Before any deposit, confirm the written out-the-door price, title and history, recall status, insurance cost for a 16-year-old, and obtain an independent transmission, rust and safety-equipment inspection.",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
     },
     {
       "year": 2016,
@@ -156,7 +156,7 @@
       "miles": 176679,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 268 reviews",
+      "rating": "Google 2.5 ★ · 267 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "JF1GPAP69G9219643",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d",
@@ -170,11 +170,11 @@
       "verdict": "Excellent crash shell, with high-mileage wear to audit",
       "note": "The manual gearbox and strong crashworthiness make this a compelling winter-capable first car. It ranks below the Focus because mileage and Subaru oil-consumption and wheel-bearing exposure raise repair risk.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "rank": 6,
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
     },
     {
       "year": 2011,
@@ -199,11 +199,40 @@
       "verdict": "Strong crash protection with a conventional automatic",
       "note": "This lead combines good crashworthiness with a transmission that avoids CVT exposure. It still needs timing-belt records, a cold-start inspection and a rust-focused underbody check.",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "rank": 7,
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
+    },
+    {
+      "rank": 8,
+      "year": 2014,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "LX sedan · 1.8L · CVT · FWD",
+      "price": 4999,
+      "miles": 195680,
+      "dealer": "CT Car Co LLC",
+      "town": "East Windsor, CT",
+      "rating": "Google 2.5 ★ · 267 reviews",
+      "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "vin": "19XFB2F57EE211682",
+      "url": "https://www.ctcarco.com/2014-Honda-Civic-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/wfV%5dF5RUr2E%3d",
+      "image": "https://images.autofunds.net/InventoryImages/2026/07/23/4107_2816723_18729750_12231523232026.jpg",
+      "tag": "Safety-forward high-mileage value",
+      "reliabilityLevel": "Average",
+      "reliability": "The 1.8L engine is generally durable, but this car has nearly 196,000 miles and uses a CVT. Require proof of regular transmission-fluid service and inspect for shudder, delayed engagement, oil or coolant leaks, engine-mount wear, suspension noise and Northeast rust before giving the model's reputation any weight.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS rated the 2014 Civic sedan Good in the driver-side small-overlap, original moderate-front, side, roof-strength and head-restraint tests. Stability control and curtain airbags were standard; the Top Safety Pick+ designation required optional front crash prevention, which is not assumed on this LX.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2014",
+      "verdict": "Excellent crash structure, but the odometer and CVT demand unusually strong records",
+      "note": "The exact dealer page is live again at $4,999 with the VIN, mileage and real vehicle photos. The dealer's 2.5-star Google rating and the car's 195,680 miles are serious cautions: obtain a written out-the-door price, complete history and recall reports, an insurance quote, and a long independent cold-and-warm inspection focused on the CVT and rust.",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13",
+      "newToday": false
     },
     {
       "year": 2011,
@@ -228,14 +257,14 @@
       "verdict": "Durable drivetrain with safety and accident-history questions",
       "note": "This could be a sound first car if its build date, stability control and accident repairs check out. The actual dealer photos are available, but only an independent inspection can establish whether the attractive price reflects cosmetic wear or deeper problems.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-12",
-      "rank": 8,
+      "lastSeen": "2026-10-13",
+      "rank": 9,
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "year": 2005,
       "make": "Toyota",
       "model": "Camry",
@@ -244,7 +273,7 @@
       "miles": 154732,
       "dealer": "CT Car Co LLC",
       "town": "East Windsor, CT",
-      "rating": "Google 2.5 ★ · 268 reviews",
+      "rating": "Google 2.5 ★ · 267 reviews",
       "googleReviewsUrl": "https://www.google.com/maps/place/CT+Car+Co.,LLC/@41.9155549,-72.6148208,17z/data=!4m8!3m7!1s0x89e6f955556596f3:0x83c61f82117b5e84!8m2!3d41.9155549!4d-72.6148208!9m1!1b1!16s%2Fg%2F11b75hzwnv?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
       "vin": "4T1BE30K85U098820",
       "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D",
@@ -258,20 +287,20 @@
       "verdict": "Good mechanical odds, but dated side-impact protection keeps it last",
       "note": "The exact dealer page is live with VIN, price, mileage and vehicle photos, and the model has a strong durability record. It remains a fallback because safety equipment is not verified and newer entries offer substantially better crash protection; require records, a VIN recall check, insurance review and an independent rust-focused inspection.",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "newToday": false,
-      "lastChecked": "2026-10-12",
-      "googleReviewsCheckedAt": "2026-10-12"
+      "lastChecked": "2026-10-13",
+      "googleReviewsCheckedAt": "2026-10-13"
     }
   ],
   "seen": [
     {
       "vin": "JM1BL1W66C1580130",
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
       "url": "https://www.shelbymotorsma.com/2012-Mazda-Mazda3-Springfield-MA-Worcester-MA-Hartford-CT-Pittsfield-MA-Hampden/used_car/MkiX2s8X5Q4%3d",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "vin": "KMHDU46DX8U545811",
@@ -382,18 +411,18 @@
     {
       "vin": "1FAHP3F22CL432378",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
       "url": "https://www.ctcarco.com/2012-Ford-Focus-East-Windsor-CT/used_car/dlSEIkW0k60%3d",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "vin": "JF1GPAP69G9219643",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
       "url": "https://www.ctcarco.com/2016-Subaru-Impreza-Wagon-East-Windsor-CT/used_car/jSeZ1oVPTi8%3d",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "vin": "1FAHP3FN6AW219911",
@@ -412,10 +441,10 @@
     {
       "vin": "4T1BE30K85U098820",
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
       "url": "https://www.ctcarco.com/2005-Toyota-Camry-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/RGD23NzFwl0%3D",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "vin": "4S4BSAFC6F3335034",
@@ -489,9 +518,9 @@
       "vin": "JF1GE6A6XBH510839",
       "url": "https://www.dealerrater.com/classifieds/2011-Subaru-Impreza-ad-JF1GE6A6XBH510839-107584/",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "vin": "5NMSH73E68H174135",
@@ -644,10 +673,10 @@
     {
       "vin": "JM1BL1VG3B1409909",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
       "url": "https://www.autoglobellc.com/2011-Mazda-Mazda3-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/NiVhPdnZROE%3D",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "vin": "5NPET46CX8H346495",
@@ -759,16 +788,16 @@
     {
       "vin": "19XFB2F57EE211682",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-04",
-      "lastChecked": "2026-10-06",
-      "status": "removed; current dealer price is $5,999, above the firm $5,000 ceiling",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "status": "active; dealer price returned to $4,999 on 2026-10-13",
       "url": "https://www.ctcarco.com/2014-Honda-Civic-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/wfV%5dF5RUr2E%3d"
     },
     {
       "vin": "JF1GJAA6XDG036060",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "status": "active",
       "url": "https://www.a-1autoct.com/2013-Subaru-Impreza-Sedan-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/QKN28Bg%5dudE%3d"
     },
@@ -807,16 +836,16 @@
     {
       "vin": "4S3BMBG69A3241591",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "active",
       "url": "https://www.a-1autoct.com/2010-Subaru-Legacy-East-Windsor-CT-Ellington-Windsor-Bloomfield-Hartford/used_car/Vx%5dV2ljHqdM%3d",
-      "lastChecked": "2026-10-12"
+      "lastChecked": "2026-10-13"
     },
     {
       "vin": "1G4HD57169U129364",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "status": "active",
       "url": "https://www.autoglobellc.com/2009-Buick-Lucerne-Springfield-MA-Chicopee-Ludlow-Wilbraham-Hampden/used_car/Ue2xyrs0lK0%3d"
     },
