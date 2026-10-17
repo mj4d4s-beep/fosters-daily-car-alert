@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-17",
   "priceCap": 5000,
   "active": [
     {
@@ -25,9 +25,9 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16",
-      "newToday": true
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
+      "newToday": false
     },
     {
       "rank": 2,
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-16",
+      "lastSeen": "2026-10-17",
       "newToday": false,
-      "lastChecked": "2026-10-16"
+      "lastChecked": "2026-10-17"
     },
     {
       "rank": 3,
@@ -79,66 +79,12 @@
       "verdict": "Strong crashworthiness and substantial recent maintenance, balanced against early CVT and oil-consumption risk",
       "note": "The live individual listing shows $3,750, 146,000 miles, automatic transmission, a paid-off vehicle, ten exact-car photos and a private seller in Sunderland. The seller claims no accident history and extensive recent work, but the VIN, title status and receipts are not shown; confirm seller ownership, clean title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent CVT, oil-consumption, cooling-system and rust inspection before payment.",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "newToday": false
     },
     {
       "rank": 4,
-      "year": 2014,
-      "make": "Subaru",
-      "model": "Outback",
-      "trim": "Trim not stated · automatic · AWD",
-      "price": 3800,
-      "miles": 170000,
-      "source": "Facebook Marketplace · private party",
-      "town": "Greenfield, MA",
-      "vin": null,
-      "listingId": "4765609056991949",
-      "url": "https://www.facebook.com/marketplace/item/4765609056991949/",
-      "image": "/cars/facebook/outback-2014-oct16.jpg",
-      "tag": "New safety-forward AWD value",
-      "reliabilityLevel": "Average",
-      "reliability": "The listing does not identify the trim, engine or transmission beyond “automatic,” so do not assume the exact drivetrain. At 170,000 miles, obtain the VIN and records, then inspect for oil consumption or leaks, transmission behavior, wheel bearings, cooling-system faults and structural rust; the disclosed cracked muffler also needs a repair estimate.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS rated the 2014 Outback Good in the original moderate-front, side, roof-strength and head-restraint tests and Acceptable in the driver-side small-overlap test for vehicles built after August 2012. Front crash prevention was optional and is not assumed here; confirm build date, stability control, airbags, ABS, warning lights, tires and VIN recall completion.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/outback-4-door-wagon/2014",
-      "verdict": "Excellent-era crash protection and a low price, balanced against high mileage, an unidentified drivetrain and a disclosed exhaust repair",
-      "note": "The live listing shows $3,800, 170,000 miles, automatic transmission, a claimed clean title in hand and ten exact-car photos. The seller says it passed inspection last month and recently received ball joints, a coolant pipe, tires and suspension work, while disclosing a cracked muffler; verify receipts, ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent cold-and-warm inspection before payment.",
-      "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16",
-      "newToday": true
-    },
-    {
-      "rank": 5,
-      "year": 2013,
-      "make": "Toyota",
-      "model": "Corolla",
-      "trim": "LE Sedan 4D · 1.8L · automatic · FWD",
-      "price": 4950,
-      "miles": 199500,
-      "source": "Facebook Marketplace · private party",
-      "town": "Westfield, MA",
-      "vin": null,
-      "listingId": "3447277958806939",
-      "url": "https://www.facebook.com/marketplace/item/3447277958806939/",
-      "image": "/cars/facebook/corolla-2013-oct6.jpg",
-      "tag": "High-mileage durability option",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 1.8L engine and conventional automatic have a strong durability record and relatively modest repair costs, but 199,500 miles leaves little room for neglected maintenance. Verify oil use, water pump, transmission shifts, suspension, brakes, tires, cooling system and Northeast rust with records and a cold-start inspection.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2013 Corolla a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint ratings. Stability control and curtain airbags were standard, but this generation predates modern crash-prevention systems; verify warning lights, tires, brakes and VIN recall completion.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2013",
-      "verdict": "A durable and well-rated sedan whose very high mileage makes records and inspection decisive",
-      "note": "The live individual listing shows $4,950, 199,500 miles, automatic transmission, a claimed clean paid-off title and eight exact-car photos; the seller describes it as a daily commuter with no issues. Confirm seller ownership, obtain the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent rust, drivetrain and suspension inspection before payment.",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16",
-      "newToday": false
-    },
-    {
-      "rank": 6,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -160,9 +106,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-16",
+      "lastSeen": "2026-10-17",
       "newToday": false,
-      "lastChecked": "2026-10-16"
+      "lastChecked": "2026-10-17"
     }
   ],
   "seen": [
@@ -170,10 +116,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-16",
+      "lastSeen": "2026-10-17",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-16"
+      "lastChecked": "2026-10-17"
     },
     {
       "listingId": "1756411462358328",
@@ -708,8 +654,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -717,10 +663,11 @@
       "listingId": "1974728233201859",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-13",
-      "lastChecked": "2026-10-13",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "status": "not included; reconstructed title and seller-disclosed rust around the rear wheel area and passenger door sill are unacceptable risks for a teen-driver recommendation",
-      "url": "https://www.facebook.com/marketplace/item/1974728233201859/"
+      "url": "https://www.facebook.com/marketplace/item/1974728233201859/",
+      "vehicle": "2010 Honda Fit Sport"
     },
     {
       "listingId": "1719280329352509",
@@ -755,8 +702,9 @@
       "url": "https://www.facebook.com/marketplace/item/4355880114545127/",
       "vin": null,
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-13",
-      "lastChecked": "2026-10-13"
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
+      "vehicle": "2009 Honda Fit"
     },
     {
       "listingId": "3858627850943672",
@@ -770,19 +718,20 @@
     {
       "listingId": "2009061036468185",
       "vin": "JHMGD38468S071147",
-      "status": "excluded after evaluation; disclosed rocker and rear-fender rust plus prior front-end damage require inspection before recommendation",
+      "status": "not included; disclosed rocker and rear-fender rust plus prior front-end damage require inspection before recommendation",
       "url": "https://www.facebook.com/marketplace/item/2009061036468185/",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-13",
-      "lastChecked": "2026-10-13"
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
+      "vehicle": "2008 Honda Fit"
     },
     {
       "listingId": "3447277958806939",
       "vin": null,
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16",
-      "status": "active",
+      "lastChecked": "2026-10-17",
+      "status": "listing unavailable or expired",
       "url": "https://www.facebook.com/marketplace/item/3447277958806939/"
     },
     {
@@ -875,8 +824,8 @@
       "vin": null,
       "vehicle": "2012 Subaru Impreza 2.0i Limited sedan",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1758287555273754/"
     },
@@ -1205,8 +1154,8 @@
       "vin": null,
       "vehicle": "2013 Honda Civic LX",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-15",
-      "lastChecked": "2026-10-15",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "status": "not included; the seller discloses a rebuilt title and the listing has been stale for four weeks",
       "url": "https://www.facebook.com/marketplace/item/1105650032417959/"
     },
@@ -1277,18 +1226,18 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16"
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17"
     },
     {
       "listingId": "4765609056991949",
       "vin": null,
       "vehicle": "2014 Subaru Outback",
-      "status": "active",
+      "status": "sold",
       "url": "https://www.facebook.com/marketplace/item/4765609056991949/",
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
-      "lastChecked": "2026-10-16"
+      "lastChecked": "2026-10-17"
     },
     {
       "listingId": "1741332363790123",
@@ -1379,6 +1328,36 @@
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
       "lastChecked": "2026-10-16"
+    },
+    {
+      "listingId": "1113729981369517",
+      "vin": null,
+      "vehicle": "2007 Toyota Camry LE",
+      "status": "not included; the seller explicitly says this is not a private sale, so it cannot enter the private-party ranking",
+      "url": "https://www.facebook.com/marketplace/item/1113729981369517/",
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17"
+    },
+    {
+      "listingId": "2039827006670220",
+      "vin": null,
+      "vehicle": "2010 Toyota Corolla S",
+      "status": "not included; 190,000 miles, no VIN or title evidence and only a one-line condition claim are too weak for a reliability-first recommendation",
+      "url": "https://www.facebook.com/marketplace/item/2039827006670220/",
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17"
+    },
+    {
+      "listingId": "1801242590908159",
+      "vin": null,
+      "vehicle": "2012 Subaru Outback 2.5i Premium",
+      "status": "not included; the seller explicitly says this is not a private sale, so it cannot enter the private-party ranking",
+      "url": "https://www.facebook.com/marketplace/item/1801242590908159/",
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "lastChecked": "2026-10-17"
     }
   ],
   "withheld": [
@@ -1553,6 +1532,62 @@
       "newToday": false,
       "lastChecked": "2026-10-06",
       "status": "removed; Facebook listing is marked Sold"
+    },
+    {
+      "rank": 4,
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Trim not stated · automatic · AWD",
+      "price": 3800,
+      "miles": 170000,
+      "source": "Facebook Marketplace · private party",
+      "town": "Greenfield, MA",
+      "vin": null,
+      "listingId": "4765609056991949",
+      "url": "https://www.facebook.com/marketplace/item/4765609056991949/",
+      "image": "/cars/facebook/outback-2014-oct16.jpg",
+      "tag": "New safety-forward AWD value",
+      "reliabilityLevel": "Average",
+      "reliability": "The listing does not identify the trim, engine or transmission beyond “automatic,” so do not assume the exact drivetrain. At 170,000 miles, obtain the VIN and records, then inspect for oil consumption or leaks, transmission behavior, wheel bearings, cooling-system faults and structural rust; the disclosed cracked muffler also needs a repair estimate.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS rated the 2014 Outback Good in the original moderate-front, side, roof-strength and head-restraint tests and Acceptable in the driver-side small-overlap test for vehicles built after August 2012. Front crash prevention was optional and is not assumed here; confirm build date, stability control, airbags, ABS, warning lights, tires and VIN recall completion.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/outback-4-door-wagon/2014",
+      "verdict": "Excellent-era crash protection and a low price, balanced against high mileage, an unidentified drivetrain and a disclosed exhaust repair",
+      "note": "The live listing shows $3,800, 170,000 miles, automatic transmission, a claimed clean title in hand and ten exact-car photos. The seller says it passed inspection last month and recently received ball joints, a coolant pipe, tires and suspension work, while disclosing a cracked muffler; verify receipts, ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent cold-and-warm inspection before payment.",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "lastChecked": "2026-10-17",
+      "newToday": false,
+      "status": "sold"
+    },
+    {
+      "rank": 5,
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE Sedan 4D · 1.8L · automatic · FWD",
+      "price": 4950,
+      "miles": 199500,
+      "source": "Facebook Marketplace · private party",
+      "town": "Westfield, MA",
+      "vin": null,
+      "listingId": "3447277958806939",
+      "url": "https://www.facebook.com/marketplace/item/3447277958806939/",
+      "image": "/cars/facebook/corolla-2013-oct6.jpg",
+      "tag": "High-mileage durability option",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 1.8L engine and conventional automatic have a strong durability record and relatively modest repair costs, but 199,500 miles leaves little room for neglected maintenance. Verify oil use, water pump, transmission shifts, suspension, brakes, tires, cooling system and Northeast rust with records and a cold-start inspection.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2013 Corolla a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint ratings. Stability control and curtain airbags were standard, but this generation predates modern crash-prevention systems; verify warning lights, tires, brakes and VIN recall completion.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2013",
+      "verdict": "A durable and well-rated sedan whose very high mileage makes records and inspection decisive",
+      "note": "The live individual listing shows $4,950, 199,500 miles, automatic transmission, a claimed clean paid-off title and eight exact-car photos; the seller describes it as a daily commuter with no issues. Confirm seller ownership, obtain the VIN, run title and recall checks, price insurance for a 16-year-old, and require an independent rust, drivetrain and suspension inspection before payment.",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-16",
+      "lastChecked": "2026-10-17",
+      "newToday": false,
+      "status": "listing unavailable or expired"
     }
   ]
 }
