@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17",
+  "updatedAt": "2026-10-18",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-17",
-      "lastChecked": "2026-10-17",
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-18",
       "newToday": false,
-      "lastChecked": "2026-10-17"
+      "lastChecked": "2026-10-18"
     },
     {
       "rank": 3,
@@ -79,8 +79,8 @@
       "verdict": "Strong crashworthiness and substantial recent maintenance, balanced against early CVT and oil-consumption risk",
       "note": "The live individual listing shows $3,750, 146,000 miles, automatic transmission, a paid-off vehicle, ten exact-car photos and a private seller in Sunderland. The seller claims no accident history and extensive recent work, but the VIN, title status and receipts are not shown; confirm seller ownership, clean title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent CVT, oil-consumption, cooling-system and rust inspection before payment.",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-17",
-      "lastChecked": "2026-10-17",
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18",
       "newToday": false
     },
     {
@@ -106,9 +106,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-18",
       "newToday": false,
-      "lastChecked": "2026-10-17"
+      "lastChecked": "2026-10-18"
     }
   ],
   "seen": [
@@ -116,10 +116,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-17"
+      "lastChecked": "2026-10-18"
     },
     {
       "listingId": "1756411462358328",
@@ -654,8 +654,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-17",
-      "lastChecked": "2026-10-17",
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -824,8 +824,8 @@
       "vin": null,
       "vehicle": "2012 Subaru Impreza 2.0i Limited sedan",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-17",
-      "lastChecked": "2026-10-17",
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1758287555273754/"
     },
@@ -1226,8 +1226,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-17",
-      "lastChecked": "2026-10-17"
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18"
     },
     {
       "listingId": "4765609056991949",
@@ -1358,6 +1358,36 @@
       "firstSeen": "2026-10-17",
       "lastSeen": "2026-10-17",
       "lastChecked": "2026-10-17"
+    },
+    {
+      "listingId": "3667588726749188",
+      "vin": null,
+      "vehicle": "2011 Honda Fit EX",
+      "status": "not included; 250,000 miles and a sparse as-is condition claim are too weak for a reliability-first teen-driver recommendation",
+      "url": "https://www.facebook.com/marketplace/item/3667588726749188/",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18"
+    },
+    {
+      "listingId": "1681303296948853",
+      "vin": null,
+      "vehicle": "2006 Honda Odyssey EX",
+      "status": "not included; the seller appears to be a vehicle sales business rather than a private party, and the description's mileage conflicts with Facebook vehicle information",
+      "url": "https://www.facebook.com/marketplace/item/1681303296948853/",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18"
+    },
+    {
+      "listingId": "1056060813986566",
+      "vin": null,
+      "vehicle": "2011 Subaru Outback",
+      "status": "not included; the individual listing could not be fully reopened and verified after repeated connection failures",
+      "url": "https://www.facebook.com/marketplace/item/1056060813986566/",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-18",
+      "lastChecked": "2026-10-18"
     }
   ],
   "withheld": [
