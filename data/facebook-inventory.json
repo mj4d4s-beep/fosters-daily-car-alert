@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "priceCap": 5000,
   "active": [
     {
@@ -25,12 +25,66 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-18",
-      "lastChecked": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "lastChecked": "2026-10-19",
       "newToday": false
     },
     {
       "rank": 2,
+      "year": 2010,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "SE Sedan 4D · automatic · FWD",
+      "price": 4000,
+      "miles": 87443,
+      "source": "Facebook Marketplace · private party",
+      "town": "Adams, MA",
+      "vin": null,
+      "listingId": "3621186811420352",
+      "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
+      "image": "/cars/facebook/focus-2010-oct19.jpg",
+      "tag": "New low-mileage records-backed lead",
+      "reliabilityLevel": "Stronger",
+      "reliability": "The 2.0L engine and conventional automatic are comparatively simple and generally durable, and the seller says all service records are available. The rocker panels were replaced two years ago, so an independent lift inspection must determine whether corrosion was fully and structurally repaired; also inspect transmission shifts, mounts, cooling system, suspension and brakes.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2010 Focus Good in the original moderate-front and head-restraint tests and Acceptable in the side test; side airbags were standard. Electronic stability control on this exact SE is not verified, so confirm equipment, ABS, warning lights, tires and VIN recall status before purchase.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/focus-4-door-sedan/2010",
+      "verdict": "Low mileage, one-owner history and available records are compelling, provided the rocker repair passes a structural rust inspection",
+      "note": "The live individual listing shows $4,000, 87,443 miles, automatic transmission, one owner, a clean paid-off title, no reported accidents, current registration and inspection, all service records and 16 exact-car photos. Obtain the VIN, verify title and history independently, review every record, price insurance, and require a lift inspection focused on the replaced rocker panels before payment.",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "newToday": true,
+      "lastChecked": "2026-10-19"
+    },
+    {
+      "rank": 3,
+      "year": 2011,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "2.5i Premium Wagon 4D · CVT · AWD",
+      "price": 5000,
+      "miles": 122400,
+      "source": "Facebook Marketplace · private party",
+      "town": "Chicopee, MA",
+      "vin": null,
+      "listingId": "1373528258190058",
+      "url": "https://www.facebook.com/marketplace/item/1373528258190058/",
+      "image": "/cars/facebook/outback-2011-oct19.jpg",
+      "tag": "New safety-forward AWD lead",
+      "reliabilityLevel": "Average",
+      "reliability": "The 2.5L EJ engine needs proof of timing-belt service and careful checks for head-gasket seepage, oil leaks and overheating. At 122,400 miles, the early CVT also needs fluid-history evidence and testing for shudder or delayed engagement; inspect wheel bearings, suspension and Northeast rust.",
+      "safetyLevel": "Stronger",
+      "safety": "IIHS named the 2011 Outback a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint results. Curtain and torso airbags were standard; confirm stability-control and ABS warning-light self-tests, tire condition and all VIN recall work.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/outback-4-door-wagon/2011",
+      "verdict": "Excellent original crash protection and useful mileage, tempered by timing-belt, head-gasket and early-CVT exposure",
+      "note": "The live individual listing shows $5,000, 122,400 miles, automatic transmission, one owner, a clean paid-off title, new brakes, nearly new tires and 12 exact-car photos. The VIN and service evidence are not shown, so verify ownership and title, obtain the VIN for history and recalls, demand timing-belt and CVT records, price insurance, and require an independent cooling-system, transmission and rust inspection.",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "newToday": true,
+      "lastChecked": "2026-10-19"
+    },
+    {
+      "rank": 4,
       "year": 2009,
       "make": "Subaru",
       "model": "Impreza",
@@ -52,12 +106,12 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "newToday": false,
-      "lastChecked": "2026-10-18"
+      "lastChecked": "2026-10-19"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "year": 2012,
       "make": "Subaru",
       "model": "Impreza",
@@ -79,12 +133,12 @@
       "verdict": "Strong crashworthiness and substantial recent maintenance, balanced against early CVT and oil-consumption risk",
       "note": "The live individual listing shows $3,750, 146,000 miles, automatic transmission, a paid-off vehicle, ten exact-car photos and a private seller in Sunderland. The seller claims no accident history and extensive recent work, but the VIN, title status and receipts are not shown; confirm seller ownership, clean title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent CVT, oil-consumption, cooling-system and rust inspection before payment.",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-18",
-      "lastChecked": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "lastChecked": "2026-10-19",
       "newToday": false
     },
     {
-      "rank": 4,
+      "rank": 6,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -106,9 +160,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "newToday": false,
-      "lastChecked": "2026-10-18"
+      "lastChecked": "2026-10-19"
     }
   ],
   "seen": [
@@ -116,10 +170,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-18"
+      "lastChecked": "2026-10-19"
     },
     {
       "listingId": "1756411462358328",
@@ -654,8 +708,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-18",
-      "lastChecked": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "lastChecked": "2026-10-19",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -824,8 +878,8 @@
       "vin": null,
       "vehicle": "2012 Subaru Impreza 2.0i Limited sedan",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-18",
-      "lastChecked": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "lastChecked": "2026-10-19",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1758287555273754/"
     },
@@ -1226,8 +1280,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-18",
-      "lastChecked": "2026-10-18"
+      "lastSeen": "2026-10-19",
+      "lastChecked": "2026-10-19"
     },
     {
       "listingId": "4765609056991949",
@@ -1388,6 +1442,42 @@
       "firstSeen": "2026-10-18",
       "lastSeen": "2026-10-18",
       "lastChecked": "2026-10-18"
+    },
+    {
+      "listingId": "3621186811420352",
+      "vin": null,
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
+      "lastChecked": "2026-10-19"
+    },
+    {
+      "listingId": "1373528258190058",
+      "vin": null,
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/1373528258190058/",
+      "lastChecked": "2026-10-19"
+    },
+    {
+      "listingId": "1859131015074391",
+      "vin": null,
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "status": "not included; visible corrosion at the rear wheel opening and passenger-side sill makes structural condition too uncertain",
+      "url": "https://www.facebook.com/marketplace/item/1859131015074391/",
+      "lastChecked": "2026-10-19"
+    },
+    {
+      "listingId": "1392713759516619",
+      "vin": null,
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "status": "not included; seller discloses a blown head gasket, overheating and tow-away condition",
+      "url": "https://www.facebook.com/marketplace/item/1392713759516619/",
+      "lastChecked": "2026-10-19"
     }
   ],
   "withheld": [

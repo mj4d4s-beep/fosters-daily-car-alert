@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — October 18, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — October 19, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-          <nav><span className="wordmark">FOSTER’S</span><span className="date">SUNDAY · OCT 18, 2026</span></nav>
+          <nav><span className="wordmark">FOSTER’S</span><span className="date">MONDAY · OCT 19, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">This run rechecked all 10 previously active dealer listings, all 4 active Facebook private-party listings and every dealer’s Google reviews. Nine dealer cars remain active; the 2014 Honda Civic rose to $5,999 and was removed under the firm cap. All four Facebook cars remain live and eligible. No newly seen car met the verification, reliability and safety bar. Rebuilt or reconstructed titles, misclassified dealer sales, serious rust, very high mileage, weak evidence and high-repair candidates were withheld. The 9 dealer cars and 4 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
+        <p className="coverage-note">This run rechecked all 9 previously active dealer listings, all 4 active Facebook private-party listings and every dealer’s Google reviews. All prior active cars remain live and eligible. One newly listed 77,932-mile Buick Lucerne joined the dealer ranking; an 87,443-mile Ford Focus with available records and a 122,400-mile Subaru Outback joined the Facebook private-party ranking. Rebuilt or reconstructed titles, misclassified dealer sales, serious rust, unresolved mechanical defects, very high mileage, weak evidence and high-repair candidates were withheld. The 10 dealer cars and 6 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -134,7 +134,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed October 18, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed October 19, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }
