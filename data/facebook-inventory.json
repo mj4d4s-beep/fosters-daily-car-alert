@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-21",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-19",
-      "lastChecked": "2026-10-19",
+      "lastSeen": "2026-10-21",
+      "lastChecked": "2026-10-21",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, one-owner history and available records are compelling, provided the rocker repair passes a structural rust inspection",
       "note": "The live individual listing shows $4,000, 87,443 miles, automatic transmission, one owner, a clean paid-off title, no reported accidents, current registration and inspection, all service records and 16 exact-car photos. Obtain the VIN, verify title and history independently, review every record, price insurance, and require a lift inspection focused on the replaced rocker panels before payment.",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-19",
-      "newToday": true,
-      "lastChecked": "2026-10-19"
+      "lastSeen": "2026-10-21",
+      "newToday": false,
+      "lastChecked": "2026-10-21"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Excellent original crash protection and useful mileage, tempered by timing-belt, head-gasket and early-CVT exposure",
       "note": "The live individual listing shows $5,000, 122,400 miles, automatic transmission, one owner, a clean paid-off title, new brakes, nearly new tires and 12 exact-car photos. The VIN and service evidence are not shown, so verify ownership and title, obtain the VIN for history and recalls, demand timing-belt and CVT records, price insurance, and require an independent cooling-system, transmission and rust inspection.",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-19",
-      "newToday": true,
-      "lastChecked": "2026-10-19"
+      "lastSeen": "2026-10-21",
+      "newToday": false,
+      "lastChecked": "2026-10-21"
     },
     {
       "rank": 4,
@@ -106,39 +106,12 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-21",
       "newToday": false,
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-21"
     },
     {
       "rank": 5,
-      "year": 2012,
-      "make": "Subaru",
-      "model": "Impreza",
-      "trim": "2.0i Limited Sedan 4D · CVT · AWD",
-      "price": 3750,
-      "miles": 146000,
-      "source": "Facebook Marketplace · private party",
-      "town": "Sunderland, MA",
-      "vin": null,
-      "listingId": "1758287555273754",
-      "url": "https://www.facebook.com/marketplace/item/1758287555273754/",
-      "image": "/cars/facebook/impreza-2012-oct12.jpg",
-      "tag": "Safety-forward AWD option",
-      "reliabilityLevel": "Average",
-      "reliability": "The seller reports recent brake pads and rotors, battery, radiator, four wheel bearings, A/C work and tires, but receipts are not shown. At 146,000 miles, this early FB20/CVT car still needs oil-consumption checks, CVT fluid and behavior verification, cooling-system testing and a structural-rust inspection.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the non-WRX 2012 Impreza a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint results. Front and rear curtain airbags were standard; confirm stability control, ABS, warning lights, tires and VIN recall completion before purchase.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/impreza-4-door-sedan/2012",
-      "verdict": "Strong crashworthiness and substantial recent maintenance, balanced against early CVT and oil-consumption risk",
-      "note": "The live individual listing shows $3,750, 146,000 miles, automatic transmission, a paid-off vehicle, ten exact-car photos and a private seller in Sunderland. The seller claims no accident history and extensive recent work, but the VIN, title status and receipts are not shown; confirm seller ownership, clean title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent CVT, oil-consumption, cooling-system and rust inspection before payment.",
-      "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-19",
-      "lastChecked": "2026-10-19",
-      "newToday": false
-    },
-    {
-      "rank": 6,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -160,9 +133,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-21",
       "newToday": false,
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-21"
     }
   ],
   "seen": [
@@ -170,10 +143,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-21",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-21"
     },
     {
       "listingId": "1756411462358328",
@@ -547,10 +520,10 @@
       "listingId": "1852106379083985",
       "vin": null,
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-07",
-      "status": "not included; eight-week-old listing, 185,000 miles, TPMS sensors absent and air-conditioning issue",
+      "lastSeen": "2026-10-21",
+      "status": "not included; 13-week-old listing, 185,000 miles, TPMS sensors absent and air-conditioning issue",
       "url": "https://www.facebook.com/marketplace/item/1852106379083985/",
-      "lastChecked": "2026-10-07"
+      "lastChecked": "2026-10-21"
     },
     {
       "listingId": "3207353969458155",
@@ -708,8 +681,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-19",
-      "lastChecked": "2026-10-19",
+      "lastSeen": "2026-10-21",
+      "lastChecked": "2026-10-21",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -878,9 +851,9 @@
       "vin": null,
       "vehicle": "2012 Subaru Impreza 2.0i Limited sedan",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-19",
-      "lastChecked": "2026-10-19",
-      "status": "active",
+      "lastSeen": "2026-10-21",
+      "lastChecked": "2026-10-21",
+      "status": "sold; listing is explicitly marked sold",
       "url": "https://www.facebook.com/marketplace/item/1758287555273754/"
     },
     {
@@ -998,8 +971,8 @@
       "vin": null,
       "vehicle": "2010 Toyota Sienna",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
-      "lastChecked": "2026-10-13",
+      "lastSeen": "2026-10-21",
+      "lastChecked": "2026-10-21",
       "status": "not included; 240,000 miles and sparse condition and maintenance evidence make it unverifiable",
       "url": "https://www.facebook.com/marketplace/item/1441416021230566/"
     },
@@ -1208,9 +1181,9 @@
       "vin": null,
       "vehicle": "2013 Honda Civic LX",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-17",
-      "lastChecked": "2026-10-17",
-      "status": "not included; the seller discloses a rebuilt title and the listing has been stale for four weeks",
+      "lastSeen": "2026-10-21",
+      "lastChecked": "2026-10-21",
+      "status": "not included; the seller discloses a rebuilt title and the listing remains stale",
       "url": "https://www.facebook.com/marketplace/item/1105650032417959/"
     },
     {
@@ -1280,8 +1253,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-19",
-      "lastChecked": "2026-10-19"
+      "lastSeen": "2026-10-21",
+      "lastChecked": "2026-10-21"
     },
     {
       "listingId": "4765609056991949",
@@ -1447,19 +1420,19 @@
       "listingId": "3621186811420352",
       "vin": null,
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-21",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-21"
     },
     {
       "listingId": "1373528258190058",
       "vin": null,
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-21",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1373528258190058/",
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-21"
     },
     {
       "listingId": "1859131015074391",
@@ -1478,6 +1451,18 @@
       "status": "not included; seller discloses a blown head gasket, overheating and tow-away condition",
       "url": "https://www.facebook.com/marketplace/item/1392713759516619/",
       "lastChecked": "2026-10-19"
+    },
+    {
+      "listingId": "1598334565421045",
+      "vin": null,
+      "vehicle": "2012 Suzuki SX4 hatchback",
+      "price": 1800,
+      "miles": 175684,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "lastChecked": "2026-10-21",
+      "status": "not included; seller discloses undercarriage rust, and 175,684 miles add substantial repair exposure",
+      "url": "https://www.facebook.com/marketplace/item/1598334565421045/"
     }
   ],
   "withheld": [
