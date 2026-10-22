@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-21",
-      "lastChecked": "2026-10-21",
+      "lastSeen": "2026-10-22",
+      "lastChecked": "2026-10-22",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, one-owner history and available records are compelling, provided the rocker repair passes a structural rust inspection",
       "note": "The live individual listing shows $4,000, 87,443 miles, automatic transmission, one owner, a clean paid-off title, no reported accidents, current registration and inspection, all service records and 16 exact-car photos. Obtain the VIN, verify title and history independently, review every record, price insurance, and require a lift inspection focused on the replaced rocker panels before payment.",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "newToday": false,
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-22"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Excellent original crash protection and useful mileage, tempered by timing-belt, head-gasket and early-CVT exposure",
       "note": "The live individual listing shows $5,000, 122,400 miles, automatic transmission, one owner, a clean paid-off title, new brakes, nearly new tires and 12 exact-car photos. The VIN and service evidence are not shown, so verify ownership and title, obtain the VIN for history and recalls, demand timing-belt and CVT records, price insurance, and require an independent cooling-system, transmission and rust inspection.",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "newToday": false,
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-22"
     },
     {
       "rank": 4,
@@ -106,9 +106,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "newToday": false,
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-22"
     },
     {
       "rank": 5,
@@ -133,9 +133,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "newToday": false,
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-22"
     }
   ],
   "seen": [
@@ -143,10 +143,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-22"
     },
     {
       "listingId": "1756411462358328",
@@ -681,8 +681,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-21",
-      "lastChecked": "2026-10-21",
+      "lastSeen": "2026-10-22",
+      "lastChecked": "2026-10-22",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -871,10 +871,12 @@
       "vin": null,
       "vehicle": "2011 Toyota Prius Four",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
-      "status": "not included; no title in hand, warning lights, dead battery, and needed brakes and tires",
-      "url": "https://www.facebook.com/marketplace/item/1504689211694253/"
+      "lastSeen": "2026-10-22",
+      "lastChecked": "2026-10-22",
+      "status": "not included; no title, no-start condition, warning lights, needed brakes and tires, and parts-or-repair sale",
+      "url": "https://www.facebook.com/marketplace/item/1504689211694253/",
+      "price": 1000,
+      "miles": 140250
     },
     {
       "listingId": "1866081451439806",
@@ -1253,8 +1255,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-21",
-      "lastChecked": "2026-10-21"
+      "lastSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
     },
     {
       "listingId": "4765609056991949",
@@ -1420,19 +1422,19 @@
       "listingId": "3621186811420352",
       "vin": null,
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-22"
     },
     {
       "listingId": "1373528258190058",
       "vin": null,
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1373528258190058/",
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-22"
     },
     {
       "listingId": "1859131015074391",
@@ -1463,6 +1465,42 @@
       "lastChecked": "2026-10-21",
       "status": "not included; seller discloses undercarriage rust, and 175,684 miles add substantial repair exposure",
       "url": "https://www.facebook.com/marketplace/item/1598334565421045/"
+    },
+    {
+      "listingId": "1055804247437626",
+      "vin": null,
+      "vehicle": "2009 Mazda Mazda5 Touring",
+      "price": 2500,
+      "miles": 200000,
+      "status": "not included; 200,000 miles, a six-week-old listing and sparse maintenance evidence make it too uncertain",
+      "url": "https://www.facebook.com/marketplace/item/1055804247437626/",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "listingId": "2084612032419390",
+      "vin": null,
+      "vehicle": "2011 Toyota Prius",
+      "price": 4800,
+      "miles": 216000,
+      "status": "not included; 216,000 miles and no battery, title or maintenance evidence create excessive repair risk",
+      "url": "https://www.facebook.com/marketplace/item/2084612032419390/",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "listingId": "1849211212776668",
+      "vin": null,
+      "vehicle": "2009 Subaru Forester 2.5XT Limited",
+      "price": 3200,
+      "miles": 133800,
+      "status": "not included; offered for parts or repair with bill of sale only, money still owed and only two photos",
+      "url": "https://www.facebook.com/marketplace/item/1849211212776668/",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
     }
   ],
   "withheld": [
