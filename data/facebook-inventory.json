@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-22",
-      "lastChecked": "2026-10-22",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23",
       "newToday": false
     },
     {
@@ -43,7 +43,7 @@
       "listingId": "3621186811420352",
       "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
       "image": "/cars/facebook/focus-2010-oct19.jpg",
-      "tag": "New low-mileage records-backed lead",
+      "tag": "Low-mileage records-backed lead",
       "reliabilityLevel": "Stronger",
       "reliability": "The 2.0L engine and conventional automatic are comparatively simple and generally durable, and the seller says all service records are available. The rocker panels were replaced two years ago, so an independent lift inspection must determine whether corrosion was fully and structurally repaired; also inspect transmission shifts, mounts, cooling system, suspension and brakes.",
       "safetyLevel": "Average",
@@ -52,39 +52,12 @@
       "verdict": "Low mileage, one-owner history and available records are compelling, provided the rocker repair passes a structural rust inspection",
       "note": "The live individual listing shows $4,000, 87,443 miles, automatic transmission, one owner, a clean paid-off title, no reported accidents, current registration and inspection, all service records and 16 exact-car photos. Obtain the VIN, verify title and history independently, review every record, price insurance, and require a lift inspection focused on the replaced rocker panels before payment.",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "newToday": false,
-      "lastChecked": "2026-10-22"
+      "lastChecked": "2026-10-23"
     },
     {
       "rank": 3,
-      "year": 2011,
-      "make": "Subaru",
-      "model": "Outback",
-      "trim": "2.5i Premium Wagon 4D · CVT · AWD",
-      "price": 5000,
-      "miles": 122400,
-      "source": "Facebook Marketplace · private party",
-      "town": "Chicopee, MA",
-      "vin": null,
-      "listingId": "1373528258190058",
-      "url": "https://www.facebook.com/marketplace/item/1373528258190058/",
-      "image": "/cars/facebook/outback-2011-oct19.jpg",
-      "tag": "New safety-forward AWD lead",
-      "reliabilityLevel": "Average",
-      "reliability": "The 2.5L EJ engine needs proof of timing-belt service and careful checks for head-gasket seepage, oil leaks and overheating. At 122,400 miles, the early CVT also needs fluid-history evidence and testing for shudder or delayed engagement; inspect wheel bearings, suspension and Northeast rust.",
-      "safetyLevel": "Stronger",
-      "safety": "IIHS named the 2011 Outback a Top Safety Pick with Good original moderate-front, side, roof-strength and head-restraint results. Curtain and torso airbags were standard; confirm stability-control and ABS warning-light self-tests, tire condition and all VIN recall work.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/subaru/outback-4-door-wagon/2011",
-      "verdict": "Excellent original crash protection and useful mileage, tempered by timing-belt, head-gasket and early-CVT exposure",
-      "note": "The live individual listing shows $5,000, 122,400 miles, automatic transmission, one owner, a clean paid-off title, new brakes, nearly new tires and 12 exact-car photos. The VIN and service evidence are not shown, so verify ownership and title, obtain the VIN for history and recalls, demand timing-belt and CVT records, price insurance, and require an independent cooling-system, transmission and rust inspection.",
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-22",
-      "newToday": false,
-      "lastChecked": "2026-10-22"
-    },
-    {
-      "rank": 4,
       "year": 2009,
       "make": "Subaru",
       "model": "Impreza",
@@ -106,12 +79,12 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "newToday": false,
-      "lastChecked": "2026-10-22"
+      "lastChecked": "2026-10-23"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -133,9 +106,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "newToday": false,
-      "lastChecked": "2026-10-22"
+      "lastChecked": "2026-10-23"
     }
   ],
   "seen": [
@@ -143,10 +116,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-22"
+      "lastChecked": "2026-10-23"
     },
     {
       "listingId": "1756411462358328",
@@ -681,8 +654,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-22",
-      "lastChecked": "2026-10-22",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1255,8 +1228,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-22",
-      "lastChecked": "2026-10-22"
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
     },
     {
       "listingId": "4765609056991949",
@@ -1422,19 +1395,19 @@
       "listingId": "3621186811420352",
       "vin": null,
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
-      "lastChecked": "2026-10-22"
+      "lastChecked": "2026-10-23"
     },
     {
       "listingId": "1373528258190058",
       "vin": null,
       "firstSeen": "2026-10-19",
       "lastSeen": "2026-10-22",
-      "status": "active",
+      "status": "removed; the original individual listing redirects to Facebook Marketplace with unavailable_product=1",
       "url": "https://www.facebook.com/marketplace/item/1373528258190058/",
-      "lastChecked": "2026-10-22"
+      "lastChecked": "2026-10-23"
     },
     {
       "listingId": "1859131015074391",
@@ -1501,6 +1474,90 @@
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-10-22",
       "lastChecked": "2026-10-22"
+    },
+    {
+      "listingId": "2167230844152033",
+      "vin": null,
+      "vehicle": "2012 Nissan Versa SL hatchback",
+      "price": 4000,
+      "miles": 77000,
+      "status": "not included; the CVT's known high repair exposure and a seller profile with 40 Marketplace ratings make both reliability and private-party classification too uncertain",
+      "url": "https://www.facebook.com/marketplace/item/2167230844152033/",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
+    },
+    {
+      "listingId": "2576221772895056",
+      "vin": null,
+      "vehicle": "2010 Toyota Camry SE",
+      "price": 4800,
+      "miles": 190250,
+      "status": "not included; 190,250 miles, a four-week-old listing and only a one-line condition claim provide too little evidence at this price",
+      "url": "https://www.facebook.com/marketplace/item/2576221772895056/",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
+    },
+    {
+      "listingId": "2848672525531524",
+      "vin": null,
+      "vehicle": "2011 Honda Fit Sport",
+      "price": 2500,
+      "miles": 230863,
+      "status": "not included; 230,863 miles and no seller description or maintenance evidence create excessive repair risk",
+      "url": "https://www.facebook.com/marketplace/item/2848672525531524/",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
+    },
+    {
+      "listingId": "1140131765105182",
+      "vin": null,
+      "vehicle": "2007 Toyota Camry LE",
+      "price": 1700,
+      "miles": 184000,
+      "status": "not included; the car is explicitly sold AS IS with 184,000 miles and no maintenance evidence, making condition too uncertain for a teen driver",
+      "url": "https://www.facebook.com/marketplace/item/1140131765105182/",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
+    },
+    {
+      "listingId": "1440069174733016",
+      "vin": null,
+      "vehicle": "2013 Subaru Impreza 2.0i Limited",
+      "price": 4000,
+      "miles": 108000,
+      "status": "not included; the seller discloses a salvage title, so crash repair quality and structural safety cannot be verified",
+      "url": "https://www.facebook.com/marketplace/item/1440069174733016/",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
+    },
+    {
+      "listingId": "1161496486559160",
+      "vin": null,
+      "vehicle": "2010 Hyundai Elantra",
+      "price": 3500,
+      "miles": 173000,
+      "status": "not included; 173,000 miles, multiple contact numbers in the description and sparse history make both condition and private-party classification too uncertain",
+      "url": "https://www.facebook.com/marketplace/item/1161496486559160/",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
+    },
+    {
+      "listingId": "1094384387099709",
+      "vin": null,
+      "vehicle": "2008 Toyota Yaris hatchback",
+      "price": 3000,
+      "miles": 145046,
+      "status": "not included; the listing is 19 weeks old and the high-volume seller profile makes current condition and private-party classification too uncertain",
+      "url": "https://www.facebook.com/marketplace/item/1094384387099709/",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "lastChecked": "2026-10-23"
     }
   ],
   "withheld": [
