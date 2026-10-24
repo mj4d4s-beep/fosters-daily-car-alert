@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-10-24",
   "priceCap": 5000,
   "active": [
     {
@@ -25,39 +25,12 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-23",
-      "lastChecked": "2026-10-23",
+      "lastSeen": "2026-10-24",
+      "lastChecked": "2026-10-24",
       "newToday": false
     },
     {
       "rank": 2,
-      "year": 2010,
-      "make": "Ford",
-      "model": "Focus",
-      "trim": "SE Sedan 4D · automatic · FWD",
-      "price": 4000,
-      "miles": 87443,
-      "source": "Facebook Marketplace · private party",
-      "town": "Adams, MA",
-      "vin": null,
-      "listingId": "3621186811420352",
-      "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
-      "image": "/cars/facebook/focus-2010-oct19.jpg",
-      "tag": "Low-mileage records-backed lead",
-      "reliabilityLevel": "Stronger",
-      "reliability": "The 2.0L engine and conventional automatic are comparatively simple and generally durable, and the seller says all service records are available. The rocker panels were replaced two years ago, so an independent lift inspection must determine whether corrosion was fully and structurally repaired; also inspect transmission shifts, mounts, cooling system, suspension and brakes.",
-      "safetyLevel": "Average",
-      "safety": "IIHS rated the 2010 Focus Good in the original moderate-front and head-restraint tests and Acceptable in the side test; side airbags were standard. Electronic stability control on this exact SE is not verified, so confirm equipment, ABS, warning lights, tires and VIN recall status before purchase.",
-      "safetySource": "https://www.iihs.org/ratings/vehicle/ford/focus-4-door-sedan/2010",
-      "verdict": "Low mileage, one-owner history and available records are compelling, provided the rocker repair passes a structural rust inspection",
-      "note": "The live individual listing shows $4,000, 87,443 miles, automatic transmission, one owner, a clean paid-off title, no reported accidents, current registration and inspection, all service records and 16 exact-car photos. Obtain the VIN, verify title and history independently, review every record, price insurance, and require a lift inspection focused on the replaced rocker panels before payment.",
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-23",
-      "newToday": false,
-      "lastChecked": "2026-10-23"
-    },
-    {
-      "rank": 3,
       "year": 2009,
       "make": "Subaru",
       "model": "Impreza",
@@ -79,12 +52,12 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "newToday": false,
-      "lastChecked": "2026-10-23"
+      "lastChecked": "2026-10-24"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -106,9 +79,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "newToday": false,
-      "lastChecked": "2026-10-23"
+      "lastChecked": "2026-10-24"
     }
   ],
   "seen": [
@@ -116,10 +89,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-23"
+      "lastChecked": "2026-10-24"
     },
     {
       "listingId": "1756411462358328",
@@ -654,8 +627,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-23",
-      "lastChecked": "2026-10-23",
+      "lastSeen": "2026-10-24",
+      "lastChecked": "2026-10-24",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1228,8 +1201,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-23",
-      "lastChecked": "2026-10-23"
+      "lastSeen": "2026-10-24",
+      "lastChecked": "2026-10-24"
     },
     {
       "listingId": "4765609056991949",
@@ -1396,9 +1369,9 @@
       "vin": null,
       "firstSeen": "2026-10-19",
       "lastSeen": "2026-10-23",
-      "status": "active",
+      "status": "removed; the original individual listing is marked Sold",
       "url": "https://www.facebook.com/marketplace/item/3621186811420352/",
-      "lastChecked": "2026-10-23"
+      "lastChecked": "2026-10-24"
     },
     {
       "listingId": "1373528258190058",
@@ -1558,6 +1531,42 @@
       "firstSeen": "2026-10-23",
       "lastSeen": "2026-10-23",
       "lastChecked": "2026-10-23"
+    },
+    {
+      "listingId": "1298784435370567",
+      "vin": null,
+      "vehicle": "2008 Toyota Matrix XR",
+      "price": 3500,
+      "miles": 179000,
+      "status": "not included; the 15-week-old listing has only a one-line description, 179,000 miles and a low-rated seller profile, so condition and private-party confidence are too weak",
+      "url": "https://www.facebook.com/marketplace/item/1298784435370567/",
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "lastChecked": "2026-10-24"
+    },
+    {
+      "listingId": "1111619668147785",
+      "vin": null,
+      "vehicle": "2007 Honda Civic DX",
+      "price": 1900,
+      "miles": 231000,
+      "status": "not included; 231,000 miles, mismatched wheels and no maintenance records create excessive repair and condition uncertainty for a teen driver",
+      "url": "https://www.facebook.com/marketplace/item/1111619668147785/",
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "lastChecked": "2026-10-24"
+    },
+    {
+      "listingId": "1638786094605980",
+      "vin": null,
+      "vehicle": "2010 Hyundai Tucson Limited",
+      "price": 3500,
+      "miles": 145000,
+      "status": "not included; the seller says it needs struts soon and money is still owed, adding immediate repair cost and title-lien risk",
+      "url": "https://www.facebook.com/marketplace/item/1638786094605980/",
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "lastChecked": "2026-10-24"
     }
   ],
   "withheld": [
