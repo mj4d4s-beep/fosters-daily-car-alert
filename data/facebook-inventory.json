@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "newToday": false,
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-10-27"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "newToday": false,
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-10-27"
     }
   ],
   "seen": [
@@ -89,10 +89,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-10-27"
     },
     {
       "listingId": "1756411462358328",
@@ -627,8 +627,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26",
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1201,8 +1201,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-26",
-      "lastChecked": "2026-10-26"
+      "lastSeen": "2026-10-27",
+      "lastChecked": "2026-10-27"
     },
     {
       "listingId": "4765609056991949",
@@ -1603,6 +1603,24 @@
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "lastChecked": "2026-10-25"
+    },
+    {
+      "listingId": "1063269466735716",
+      "vin": null,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "not included; 164,000 miles, listing calls the U.S.-market car an EX trim, and VIN, title and maintenance evidence are not shown",
+      "url": "https://www.facebook.com/marketplace/item/1063269466735716/",
+      "lastChecked": "2026-10-27"
+    },
+    {
+      "listingId": "1125752876668836",
+      "vin": null,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "not included; 200,000 miles with only a one-sentence condition claim and no VIN or maintenance history shown",
+      "url": "https://www.facebook.com/marketplace/item/1125752876668836/",
+      "lastChecked": "2026-10-27"
     }
   ],
   "withheld": [
