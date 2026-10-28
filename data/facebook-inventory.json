@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-28",
+      "lastChecked": "2026-10-28",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "newToday": false,
-      "lastChecked": "2026-10-27"
+      "lastChecked": "2026-10-28"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "newToday": false,
-      "lastChecked": "2026-10-27"
+      "lastChecked": "2026-10-28"
     }
   ],
   "seen": [
@@ -89,10 +89,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-27"
+      "lastChecked": "2026-10-28"
     },
     {
       "listingId": "1756411462358328",
@@ -466,10 +466,10 @@
       "listingId": "1852106379083985",
       "vin": null,
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-21",
-      "status": "not included; 13-week-old listing, 185,000 miles, TPMS sensors absent and air-conditioning issue",
+      "lastSeen": "2026-10-28",
+      "status": "not included; 14-week-old listing, 185,000 miles, TPMS sensors absent and air-conditioning issue",
       "url": "https://www.facebook.com/marketplace/item/1852106379083985/",
-      "lastChecked": "2026-10-21"
+      "lastChecked": "2026-10-28"
     },
     {
       "listingId": "3207353969458155",
@@ -627,8 +627,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27",
+      "lastSeen": "2026-10-28",
+      "lastChecked": "2026-10-28",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -919,8 +919,8 @@
       "vin": null,
       "vehicle": "2010 Toyota Sienna",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-21",
-      "lastChecked": "2026-10-21",
+      "lastSeen": "2026-10-28",
+      "lastChecked": "2026-10-28",
       "status": "not included; 240,000 miles and sparse condition and maintenance evidence make it unverifiable",
       "url": "https://www.facebook.com/marketplace/item/1441416021230566/"
     },
@@ -1201,8 +1201,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-27",
-      "lastChecked": "2026-10-27"
+      "lastSeen": "2026-10-28",
+      "lastChecked": "2026-10-28"
     },
     {
       "listingId": "4765609056991949",
@@ -1621,6 +1621,16 @@
       "status": "not included; 200,000 miles with only a one-sentence condition claim and no VIN or maintenance history shown",
       "url": "https://www.facebook.com/marketplace/item/1125752876668836/",
       "lastChecked": "2026-10-27"
+    },
+    {
+      "listingId": "1077232785288076",
+      "vin": null,
+      "vehicle": "2012 Toyota RAV4",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28",
+      "lastChecked": "2026-10-28",
+      "status": "not included; 230,000 miles, sold-as-is wording and no VIN or maintenance evidence leave too much repair and verification risk",
+      "url": "https://www.facebook.com/marketplace/item/1077232785288076/"
     }
   ],
   "withheld": [
