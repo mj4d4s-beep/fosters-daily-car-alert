@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — October 27, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — October 28, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-          <nav><span className="wordmark">FOSTER’S</span><span className="date">TUESDAY · OCT 27, 2026</span></nav>
+          <nav><span className="wordmark">FOSTER’S</span><span className="date">WEDNESDAY · OCT 28, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 3 active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. No new qualifying cars were found. New candidates with 164,000–200,000 miles, a misidentified trim, sparse condition claims, or missing VIN, title and maintenance evidence were withheld. The 10 dealer cars and 3 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
+        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 3 active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. No new qualifying cars were found. A newly listed 230,000-mile RAV4 and a 240,000-mile Sienna lacked enough VIN and maintenance evidence, while a low-mileage Ford Escape was withheld because its VIN-specific NHTSA recall check failed and completion of its fuel-pump and power-steering campaigns could not be verified. The 10 dealer cars and 3 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -134,7 +134,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed October 27, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed October 28, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }
