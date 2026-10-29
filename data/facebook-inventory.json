@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "newToday": false,
-      "lastChecked": "2026-10-28"
+      "lastChecked": "2026-10-29"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "newToday": false,
-      "lastChecked": "2026-10-28"
+      "lastChecked": "2026-10-29"
     }
   ],
   "seen": [
@@ -89,10 +89,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-28"
+      "lastChecked": "2026-10-29"
     },
     {
       "listingId": "1756411462358328",
@@ -627,8 +627,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28",
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1201,8 +1201,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-28",
-      "lastChecked": "2026-10-28"
+      "lastSeen": "2026-10-29",
+      "lastChecked": "2026-10-29"
     },
     {
       "listingId": "4765609056991949",
@@ -1631,6 +1631,105 @@
       "lastChecked": "2026-10-28",
       "status": "not included; 230,000 miles, sold-as-is wording and no VIN or maintenance evidence leave too much repair and verification risk",
       "url": "https://www.facebook.com/marketplace/item/1077232785288076/"
+    },
+    {
+      "listingId": "4178233588985291",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; 155,071 miles, a sparse one-line description, no VIN or service history, hybrid-battery exposure and a 3-star NHTSA rating provide too little reliability and safety confidence",
+      "url": "https://www.facebook.com/marketplace/item/4178233588985291/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1513915156906142",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; the listing is explicitly a dealership sale in Fitchburg, not a nearby private-party car",
+      "url": "https://www.facebook.com/marketplace/item/1513915156906142/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1853072235870586",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; 218,000 miles, lowered suspension and a disclosed brake-sensor fault create excessive repair and safety uncertainty",
+      "url": "https://www.facebook.com/marketplace/item/1853072235870586/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1708934013984221",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; 211,000 miles, no hybrid-battery history and a high-volume seller profile create excessive reliability and private-party-classification uncertainty",
+      "url": "https://www.facebook.com/marketplace/item/1708934013984221/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1312917550907017",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; the seller profile identifies SJ509SERVICES AUTO LLC and multiple vehicle listings, so this is not a private-party car",
+      "url": "https://www.facebook.com/marketplace/item/1312917550907017/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1125442743346079",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; despite claimed major engine service, the 21-year-old salt-belt car has no VIN shown to verify brake-line and Takata recall completion and lacks modern stability-control protection",
+      "url": "https://www.facebook.com/marketplace/item/1125442743346079/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1813617716313767",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; 163,954 miles plus early FB20 oil-consumption and high-mileage CVT exposure are too risky without maintenance records or a VIN",
+      "url": "https://www.facebook.com/marketplace/item/1813617716313767/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1621771739742007",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; 186,211 miles, no seller description, no VIN and no maintenance history provide too little condition evidence",
+      "url": "https://www.facebook.com/marketplace/item/1621771739742007/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1522072309729868",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; the seller explicitly says this is a dealership vehicle, not a private-party sale",
+      "url": "https://www.facebook.com/marketplace/item/1522072309729868/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1641840404117021",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; 239,000 miles and conflicting automatic-versus-manual fields create excessive repair and verification risk",
+      "url": "https://www.facebook.com/marketplace/item/1641840404117021/",
+      "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "3784538931685509",
+      "vin": null,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "not included; the seller has eight active vehicle listings, so private-party classification is too uncertain, and the VIN is not shown to verify Takata and other recall completion",
+      "url": "https://www.facebook.com/marketplace/item/3784538931685509/",
+      "lastChecked": "2026-10-29"
     }
   ],
   "withheld": [
