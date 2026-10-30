@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-29",
-      "lastChecked": "2026-10-29",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "newToday": false,
-      "lastChecked": "2026-10-29"
+      "lastChecked": "2026-10-30"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "newToday": false,
-      "lastChecked": "2026-10-29"
+      "lastChecked": "2026-10-30"
     }
   ],
   "seen": [
@@ -89,10 +89,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-29"
+      "lastChecked": "2026-10-30"
     },
     {
       "listingId": "1756411462358328",
@@ -627,8 +627,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-29",
-      "lastChecked": "2026-10-29",
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1201,8 +1201,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-29",
-      "lastChecked": "2026-10-29"
+      "lastSeen": "2026-10-30",
+      "lastChecked": "2026-10-30"
     },
     {
       "listingId": "4765609056991949",
@@ -1730,6 +1730,141 @@
       "status": "not included; the seller has eight active vehicle listings, so private-party classification is too uncertain, and the VIN is not shown to verify Takata and other recall completion",
       "url": "https://www.facebook.com/marketplace/item/3784538931685509/",
       "lastChecked": "2026-10-29"
+    },
+    {
+      "listingId": "1818588169362796",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the seller has 20-plus active listings, including auto parts, and the profile location conflicts with the listing area, while no VIN or service history is shown, so private-party classification and transparency are unresolved",
+      "url": "https://www.facebook.com/marketplace/item/1818588169362796/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1136274915514669",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the older hybrid has material high-voltage battery replacement exposure and no verified battery history was available",
+      "url": "https://www.facebook.com/marketplace/item/1136274915514669/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1665061888678827",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; 192,085 miles with no VIN or service history creates excessive condition and repair uncertainty",
+      "url": "https://www.facebook.com/marketplace/item/1665061888678827/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1103759265605860",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; 204,500 miles, no VIN or service history, and a Worcester location outside the practical search area make it too weak to recommend",
+      "url": "https://www.facebook.com/marketplace/item/1103759265605860/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "3178071912354716",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the listing is 46 weeks old and discloses a permanent check-engine light plus inoperative air conditioning",
+      "url": "https://www.facebook.com/marketplace/item/3178071912354716/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "2291944044993810",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the 1998 model lacks the crash protection and stability-control baseline appropriate for this teen-driver search",
+      "url": "https://www.facebook.com/marketplace/item/2291944044993810/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1960661571263265",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the 2002 convertible's age, repair complexity and limited modern crash protection create excessive risk for a teen driver",
+      "url": "https://www.facebook.com/marketplace/item/1960661571263265/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1115791591007126",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the individual listing page could not be opened and verified",
+      "url": "https://www.facebook.com/marketplace/item/1115791591007126/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "2013273003392338",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; 170,000 miles with no VIN or service evidence leaves major drivetrain, rust and maintenance risk unresolved",
+      "url": "https://www.facebook.com/marketplace/item/2013273003392338/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1152952601010689",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the Worcester location is outside the practical roughly-one-hour search area",
+      "url": "https://www.facebook.com/marketplace/item/1152952601010689/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1422397506088472",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; transmission details and service history could not be verified, while this model has material PowerShift transmission exposure",
+      "url": "https://www.facebook.com/marketplace/item/1422397506088472/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1087230464055971",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; 163,000 miles with no VIN or service records leaves timing, oil-consumption, head-gasket and transmission exposure unresolved",
+      "url": "https://www.facebook.com/marketplace/item/1087230464055971/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "4471598016394343",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the 2004 model's age and drivetrain and electrical complexity create excessive repair exposure",
+      "url": "https://www.facebook.com/marketplace/item/4471598016394343/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "801207648667077",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the $1,234 price reduced from $20,000 is not a verifiable purchase price, and a 1979 performance car lacks suitable teen-driver crash protection",
+      "url": "https://www.facebook.com/marketplace/item/801207648667077/",
+      "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "1033484789698446",
+      "vin": null,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "not included; the model's CVT and turbocharged drivetrain create excessive repair exposure without strong VIN and service evidence",
+      "url": "https://www.facebook.com/marketplace/item/1033484789698446/",
+      "lastChecked": "2026-10-30"
     }
   ],
   "withheld": [
