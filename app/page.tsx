@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — October 29, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — October 30, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-          <nav><span className="wordmark">FOSTER’S</span><span className="date">THURSDAY · OCT 29, 2026</span></nav>
+          <nav><span className="wordmark">FOSTER’S</span><span className="date">FRIDAY · OCT 30, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 3 active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. No new qualifying cars were found. New dealer leads—including a Forester, Grand Caravan, Cruze and Sentra—were withheld for high-mileage drivetrain and repair exposure. New Facebook leads were rejected for major mileage or safety concerns, missing VIN and maintenance evidence, or dealer-like seller profiles that failed the private-party classification. The 10 dealer cars and 3 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
+        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 3 active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. No new qualifying cars were found. A newly found dealer Accord was withheld because its individual page supplied only a generic ChromeData stock photo, so the exact car could not be verified. New Facebook leads were rejected for high mileage, mechanical warnings, missing VIN or service evidence, an unavailable page, being outside the practical search area, or seller activity that left private-party classification unresolved. The 10 dealer cars and 3 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -134,7 +134,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed October 29, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed October 30, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }
