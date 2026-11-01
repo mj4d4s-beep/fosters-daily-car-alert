@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-30",
-      "lastChecked": "2026-10-30",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "newToday": false,
-      "lastChecked": "2026-10-30"
+      "lastChecked": "2026-10-31"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "newToday": false,
-      "lastChecked": "2026-10-30"
+      "lastChecked": "2026-10-31"
     }
   ],
   "seen": [
@@ -89,10 +89,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-30"
+      "lastChecked": "2026-10-31"
     },
     {
       "listingId": "1756411462358328",
@@ -627,8 +627,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
-      "lastChecked": "2026-10-30",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1201,8 +1201,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-30",
-      "lastChecked": "2026-10-30"
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
     },
     {
       "listingId": "4765609056991949",
@@ -1418,11 +1418,11 @@
       "vehicle": "2009 Mazda Mazda5 Touring",
       "price": 2500,
       "miles": 200000,
-      "status": "not included; 200,000 miles, a six-week-old listing and sparse maintenance evidence make it too uncertain",
+      "status": "not included; 200,000 miles, a seven-week-old listing, tires that may need replacement and sparse maintenance evidence make it too uncertain",
       "url": "https://www.facebook.com/marketplace/item/1055804247437626/",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "lastChecked": "2026-10-22"
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
     },
     {
       "listingId": "2084612032419390",
@@ -1865,6 +1865,88 @@
       "status": "not included; the model's CVT and turbocharged drivetrain create excessive repair exposure without strong VIN and service evidence",
       "url": "https://www.facebook.com/marketplace/item/1033484789698446/",
       "lastChecked": "2026-10-30"
+    },
+    {
+      "listingId": "2295821394485332",
+      "vin": null,
+      "vehicle": "2010 Honda Fit Sport",
+      "price": 3000,
+      "miles": 151000,
+      "status": "not included; exact-car photos show visible corrosion and paint loss at the right-rear wheel opening and rocker area, while the sparse listing provides no VIN, title or maintenance evidence to establish that the structure is sound",
+      "url": "https://www.facebook.com/marketplace/item/2295821394485332/",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
+    },
+    {
+      "listingId": "1110464751586577",
+      "vin": null,
+      "vehicle": "2009 Honda CR-V",
+      "price": 3000,
+      "miles": 300000,
+      "status": "not included; 300,000 miles, a lowered suspension, needed alignment and front tires, and a disclosed exhaust leak create excessive safety and repair risk",
+      "url": "https://www.facebook.com/marketplace/item/1110464751586577/",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
+    },
+    {
+      "listingId": "1771254833989849",
+      "vin": null,
+      "vehicle": "2018 Subaru Legacy",
+      "price": 5000,
+      "miles": 199000,
+      "status": "not included; 199,000 miles plus a disclosed oil leak, needed rear brakes and needed coolant lines create excessive near-term repair and safety risk",
+      "url": "https://www.facebook.com/marketplace/item/1771254833989849/",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
+    },
+    {
+      "listingId": "1915274829439088",
+      "vin": null,
+      "vehicle": "2016 Subaru Forester",
+      "price": 2500,
+      "miles": 186000,
+      "status": "not included; seller discloses an oil leak, check-engine and AT-temperature warnings, transmission shudder and likely torque-converter failure",
+      "url": "https://www.facebook.com/marketplace/item/1915274829439088/",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
+    },
+    {
+      "listingId": "1387711276298930",
+      "vin": null,
+      "vehicle": "2014 Honda Accord Coupe",
+      "price": 3500,
+      "miles": 133000,
+      "status": "not included; seller describes it as a parts car only and says the salvage title was lost",
+      "url": "https://www.facebook.com/marketplace/item/1387711276298930/",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
+    },
+    {
+      "listingId": "1775639893655287",
+      "vin": null,
+      "vehicle": "2013 Mazda3 hatchback",
+      "price": 3500,
+      "miles": 200000,
+      "status": "not included; 200,000 miles, no battery and a needed alignment create excessive repair and roadworthiness uncertainty",
+      "url": "https://www.facebook.com/marketplace/item/1775639893655287/",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
+    },
+    {
+      "listingId": "1635420924845573",
+      "vin": null,
+      "vehicle": "2007 Honda Civic",
+      "status": "not included; the individual listing could not be loaded and verified after the discovery result, so availability, details and exact-car condition remain unverified",
+      "url": "https://www.facebook.com/marketplace/item/1635420924845573/",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "lastChecked": "2026-10-31"
     }
   ],
   "withheld": [
