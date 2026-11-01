@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-01",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "newToday": false
     },
     {
@@ -52,12 +52,39 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "newToday": false,
-      "lastChecked": "2026-10-31"
+      "lastChecked": "2026-11-01"
     },
     {
       "rank": 3,
+      "year": 2010,
+      "make": "Mazda",
+      "model": "Mazda5",
+      "trim": "Grand Touring · 2.3L · automatic · FWD",
+      "price": 4250,
+      "miles": 104632,
+      "source": "Facebook Marketplace · private party",
+      "town": "Vernon Rockville, CT",
+      "vin": null,
+      "listingId": "1960134438485651",
+      "url": "https://www.facebook.com/marketplace/item/1960134438485651/",
+      "image": "/cars/facebook/mazda5-2010-nov1.jpg",
+      "tag": "New low-mileage practical lead",
+      "reliabilityLevel": "Average",
+      "reliability": "The 2.3L engine and conventional 5-speed automatic are generally straightforward, but Northeast Mazda5s deserve especially careful rust checks. At 104,632 miles, inspect the transmission, engine mounts, suspension, wheel bearings, sliding doors, cooling system and underbody, and require service records rather than relying on the seller's brief condition claim.",
+      "safetyLevel": "Average with checks",
+      "safety": "Mazda's 2010 specifications show standard stability control, traction control, ABS, front side airbags and three-row curtain airbags. The listing omits the VIN, so confirm those systems self-test correctly and check the VIN for the fuel-pump connector recall; its older compact design lacks modern small-overlap and automatic-emergency-braking protection.",
+      "safetySource": "https://news.mazdausa.com/download/2010-MAZDA5-specs.pdf",
+      "verdict": "Useful mileage, standard stability control and flexible space, with rust and recall verification deciding whether it is truly sound",
+      "note": "The live individual listing shows $4,250, 104,632 miles, an automatic transmission, a current Connecticut emissions claim, ten exact-car photos and separate winter and summer tire sets. The VIN, title evidence and service history are not shown; verify ownership and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent rust, suspension, transmission and safety-system inspection before payment.",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
+      "newToday": true
+    },
+    {
+      "rank": 4,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -79,20 +106,138 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "newToday": false,
-      "lastChecked": "2026-10-31"
+      "lastChecked": "2026-11-01"
     }
   ],
   "seen": [
     {
+      "listingId": "1960134438485651",
+      "vin": null,
+      "vehicle": "2010 Mazda Mazda5 Grand Touring",
+      "price": 4250,
+      "miles": 104632,
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/1960134438485651/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "1665450418262137",
+      "vin": null,
+      "vehicle": "2009 Toyota Camry",
+      "price": 1500,
+      "miles": 166000,
+      "status": "not included; the listing is misclassified outside Facebook's vehicle template, shows only three photos and a damaged front bumper, and supplies no VIN, trim, title evidence or service history",
+      "url": "https://www.facebook.com/marketplace/item/1665450418262137/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "2432812710544878",
+      "vin": null,
+      "vehicle": "2012 Toyota Prius c One",
+      "price": 5000,
+      "miles": 167036,
+      "status": "not included; the 11-week-old listing is at the full price ceiling, discloses a nonworking air conditioner, provides no VIN or hybrid-battery history and leaves costly age-related hybrid repairs unresolved",
+      "url": "https://www.facebook.com/marketplace/item/2432812710544878/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "1771285700841995",
+      "vin": null,
+      "vehicle": "2011 Toyota Corolla CE",
+      "price": 2700,
+      "miles": 222000,
+      "status": "not included; the seller discloses an illuminated ABS warning, possible battery need and body damage at 222,000 miles, leaving a major unresolved safety defect and excessive wear risk",
+      "url": "https://www.facebook.com/marketplace/item/1771285700841995/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "1702617097876309",
+      "vin": null,
+      "vehicle": "2011 Honda Civic LX",
+      "price": 3800,
+      "miles": 19200,
+      "status": "not included; the implausibly low mileage is unsupported by a VIN, title evidence or service history, the description only says 'Like new,' and the seller profile was created in 2025, so the listing cannot be verified",
+      "url": "https://www.facebook.com/marketplace/item/1702617097876309/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "2361748567904516",
+      "vin": "JM1BK344081182435",
+      "vehicle": "2008 Mazda3",
+      "price": 2000,
+      "miles": 238000,
+      "status": "not included; 238,000 miles, disclosed rust and rattling over bumps create excessive structural, suspension and repair uncertainty for a 16-year-old",
+      "url": "https://www.facebook.com/marketplace/item/2361748567904516/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "1111781715158405",
+      "vin": null,
+      "vehicle": "2014 Subaru Impreza",
+      "price": 4500,
+      "status": "not included; Worcester is outside the roughly one-hour search area",
+      "url": "https://www.facebook.com/marketplace/item/1111781715158405/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "1349871523687477",
+      "vin": null,
+      "vehicle": "2012 Hyundai Elantra",
+      "price": 3500,
+      "status": "not included; Troy, New Hampshire is outside the roughly one-hour search area",
+      "url": "https://www.facebook.com/marketplace/item/1349871523687477/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "1566193045241224",
+      "vin": null,
+      "vehicle": "2003 Honda Accord DX",
+      "price": 3000,
+      "miles": 160000,
+      "status": "not included; the 23-year-old car has disclosed rust, an oil leak, several illuminated dash warning lights and no VIN shown, leaving unresolved safety and recall risk",
+      "url": "https://www.facebook.com/marketplace/item/1566193045241224/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
+      "listingId": "2970656216603515",
+      "vin": "5NPDH4AE2CH067383",
+      "vehicle": "2012 Hyundai Elantra GLS",
+      "price": 4200,
+      "miles": 128000,
+      "status": "not included; the seller explicitly states the title is rebuilt even though Facebook's structured field says clean title, making history and repair quality too uncertain for this teen-driver search",
+      "url": "https://www.facebook.com/marketplace/item/2970656216603515/",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
+    },
+    {
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-10-31"
+      "lastChecked": "2026-11-01"
     },
     {
       "listingId": "1756411462358328",
@@ -627,8 +772,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1201,8 +1346,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-31",
-      "lastChecked": "2026-10-31"
+      "lastSeen": "2026-11-01",
+      "lastChecked": "2026-11-01"
     },
     {
       "listingId": "4765609056991949",
