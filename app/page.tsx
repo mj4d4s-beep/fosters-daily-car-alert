@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 3 previously active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. One new Facebook private-party car—the 2010 Mazda5—passed individual-page verification and was added. Other new Facebook leads were rejected for an illuminated ABS warning, rebuilt or unverifiable title history, implausible unsupported mileage, rust, warning lights, very high mileage, disclosed repair needs or being outside the search area. No new dealer car passed the screen. The 10 dealer cars and 4 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
+        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 4 active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. No new dealer or Facebook Marketplace car passed today’s screen. Other new Facebook leads were rejected for rebuilt or salvage title history, major unresolved safety or reliability exposure, disclosed repair needs, rust, very high mileage, vague history or being outside the search area. The 10 dealer cars and 4 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
