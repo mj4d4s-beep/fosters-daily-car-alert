@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-02",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest new private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-01",
-      "lastChecked": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "newToday": false,
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-02"
     },
     {
       "rank": 3,
@@ -79,9 +79,9 @@
       "verdict": "Useful mileage, standard stability control and flexible space, with rust and recall verification deciding whether it is truly sound",
       "note": "The live individual listing shows $4,250, 104,632 miles, an automatic transmission, a current Connecticut emissions claim, ten exact-car photos and separate winter and summer tire sets. The VIN, title evidence and service history are not shown; verify ownership and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent rust, suspension, transmission and safety-system inspection before payment.",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-01",
-      "lastChecked": "2026-11-01",
-      "newToday": true
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
+      "newToday": false
     },
     {
       "rank": 4,
@@ -106,9 +106,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "newToday": false,
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-02"
     }
   ],
   "seen": [
@@ -121,8 +121,152 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1960134438485651/",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-01",
-      "lastChecked": "2026-11-01"
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "1818126982856581",
+      "vin": null,
+      "vehicle": "2011 Volkswagen Jetta SportWagen 2.5L SE",
+      "price": 3950,
+      "miles": 92000,
+      "status": "not included; the seller discloses a rebuilt title after a prior incident, leaving crash-repair quality and insurability too uncertain for a teen-driver recommendation",
+      "url": "https://www.facebook.com/marketplace/item/1818126982856581/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "2152893475623179",
+      "vin": null,
+      "vehicle": "2010 Toyota Yaris Hatchback",
+      "price": 2800,
+      "miles": 225000,
+      "status": "not included; Cheshire, Connecticut is outside the intended search area and 225,000 miles creates excessive wear and repair exposure",
+      "url": "https://www.facebook.com/marketplace/item/2152893475623179/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "2183403779090035",
+      "vin": null,
+      "vehicle": "2004 Honda Accord EX",
+      "price": 1235,
+      "miles": 150000,
+      "status": "not included; the car has an Acura 3.2L engine swap, coilovers, a full straight-pipe exhaust, a permanent check-engine light and incomplete TPMS and radio work, creating unresolved safety, emissions and insurability risks",
+      "url": "https://www.facebook.com/marketplace/item/2183403779090035/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "3482911315215069",
+      "vin": null,
+      "vehicle": "2012 Subaru Forester 2.5X Premium",
+      "price": 3950,
+      "miles": 190000,
+      "status": "not included; 190,000 miles plus this generation's oil-consumption, transmission, wheel-bearing and rust exposure are too high without a VIN or documented maintenance history",
+      "url": "https://www.facebook.com/marketplace/item/3482911315215069/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "1391919475981929",
+      "vin": null,
+      "vehicle": "2007 Toyota Corolla CE",
+      "price": 2500,
+      "miles": 160000,
+      "status": "not included; the seller says the car needs a brake line, an unresolved major safety defect that must be repaired and verified before road use",
+      "url": "https://www.facebook.com/marketplace/item/1391919475981929/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "1426464879607156",
+      "vin": null,
+      "vehicle": "2014 Kia Forte EX",
+      "price": 4300,
+      "miles": 130000,
+      "status": "not included; the EX's 2.0L GDI engine has documented engine-failure and fire recall exposure, the 2014 Forte also had a cooling-fan fire recall, no VIN is shown to verify completion, and IIHS rated its driver-side small-overlap performance Poor",
+      "url": "https://www.facebook.com/marketplace/item/1426464879607156/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "28361750256840966",
+      "vin": null,
+      "vehicle": "2008 Toyota RAV4",
+      "price": 4500,
+      "miles": 200000,
+      "status": "not included; 200,000 miles and the 2.4L engine's oil-consumption exposure create excessive drivetrain and deferred-maintenance risk despite recent parts claims",
+      "url": "https://www.facebook.com/marketplace/item/28361750256840966/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "1599138524736411",
+      "vin": null,
+      "vehicle": "2007 Toyota Camry XLE",
+      "price": 2990,
+      "miles": 179000,
+      "status": "not included; the seller discloses rear-suspension noise and the 2.4L engine has oil-consumption exposure, leaving likely repair needs unresolved at 179,000 miles",
+      "url": "https://www.facebook.com/marketplace/item/1599138524736411/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "1399175088738479",
+      "vin": null,
+      "vehicle": "2011 Volkswagen Jetta 2.5",
+      "price": 3500,
+      "miles": 93371,
+      "status": "not included; the seller discloses a salvage title and remaining passenger-door damage, leaving crash history, repair quality and insurability unresolved",
+      "url": "https://www.facebook.com/marketplace/item/1399175088738479/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "1783560266025507",
+      "vin": null,
+      "vehicle": "2016 Subaru Forester",
+      "price": 4500,
+      "miles": 175000,
+      "status": "not included; the description only says four-wheel drive, while 175,000 miles and no VIN or maintenance evidence leave oil-consumption, CVT, wheel-bearing and rust risks unverifiable",
+      "url": "https://www.facebook.com/marketplace/item/1783560266025507/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "1780642946509036",
+      "vin": null,
+      "vehicle": "2011 Toyota Camry LE",
+      "price": 3500,
+      "miles": 230000,
+      "status": "not included; 230,000 miles and almost no maintenance detail create excessive engine, transmission, suspension and deferred-maintenance exposure",
+      "url": "https://www.facebook.com/marketplace/item/1780642946509036/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
+    },
+    {
+      "listingId": "4243224802488818",
+      "vin": null,
+      "vehicle": "2010 Honda Accord",
+      "price": 3500,
+      "miles": 240157,
+      "status": "not included; 240,157 miles and seller-disclosed wheel-well and rocker-area rust create excessive mechanical and structural risk for a teen driver",
+      "url": "https://www.facebook.com/marketplace/item/4243224802488818/",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
     },
     {
       "listingId": "1665450418262137",
@@ -234,10 +378,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-02"
     },
     {
       "listingId": "1756411462358328",
@@ -772,8 +916,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-01",
-      "lastChecked": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1346,8 +1490,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-01",
-      "lastChecked": "2026-11-01"
+      "lastSeen": "2026-11-02",
+      "lastChecked": "2026-11-02"
     },
     {
       "listingId": "4765609056991949",
