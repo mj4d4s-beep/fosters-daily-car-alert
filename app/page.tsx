@@ -3,7 +3,7 @@ import dealerInventory from "../data/inventory.json";
 import facebookInventory from "../data/facebook-inventory.json";
 
 export const metadata: Metadata = {
-  title: "Dealer and Facebook Listings for Foster’s Car Search — November 2, 2026",
+  title: "Dealer and Facebook Listings for Foster’s Car Search — November 3, 2026",
   description: "Separately ranked dealer and Facebook Marketplace cars at $5,000 or less near Shutesbury and Amherst, Massachusetts.",
 };
 
@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-          <nav><span className="wordmark">FOSTER’S</span><span className="date">SUNDAY · NOV 1, 2026</span></nav>
+          <nav><span className="wordmark">FOSTER’S</span><span className="date">TUESDAY · NOV 3, 2026</span></nav>
         <div className="hero-copy">
           <p className="eyebrow">DAILY CAR ALERT · SHUTESBURY / AMHERST, MASSACHUSETTS</p>
           <h1>Dealer and Facebook Listings<br /><em>for Foster’s Car Search</em></h1>
@@ -121,7 +121,7 @@ export default function Home() {
       <section className="coverage">
         <p className="eyebrow">VERIFICATION NOTES</p>
         <h2>Fewer cars is better than false confidence.</h2>
-        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 4 active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. No new dealer or Facebook Marketplace car passed today’s screen. Other new Facebook leads were rejected for rebuilt or salvage title history, major unresolved safety or reliability exposure, disclosed repair needs, rust, very high mileage, vague history or being outside the search area. The 10 dealer cars and 4 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
+        <p className="coverage-note">Facebook Marketplace access passed before this run began. We rechecked all 10 active dealer listings, all 4 previously active Facebook private-party listings and every dealer’s Google reviews; all remain live and eligible. One new Facebook private-party car—the 2021 Mitsubishi Mirage—passed individual-page verification and was added; no new dealer car passed the screen. Other new Facebook leads were rejected for unresolved suspension or mechanical defects, very high mileage, costly drivetrain exposure, vague history or being outside the search area. The 10 dealer cars and 5 Facebook cars shown use exact-car photos; no stock or substitute images were used.</p>
       </section>
 
       <section className="checklist">
@@ -134,7 +134,7 @@ export default function Home() {
         </ol>
       </section>
 
-      <footer><p>Fresh search completed November 2, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
+      <footer><p>Fresh search completed November 3, 2026. Dealer and Facebook inventory and history are stored separately.</p><p>Availability changes quickly. Verify the listing, VIN, title and condition again before traveling.</p></footer>
     </main>
   );
 }

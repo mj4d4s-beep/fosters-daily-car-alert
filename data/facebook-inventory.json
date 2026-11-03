@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "priceCap": 5000,
   "active": [
     {
@@ -25,8 +25,8 @@
       "verdict": "The strongest current private-party balance of durability, mileage and crash protection, with equipment and title checks still essential",
       "note": "The live individual listing shows $5,000, 132,000 miles, automatic transmission, two owners, paid-off status and eight exact-car photos. The seller reports regular servicing, annual undercoating, a recent oil change and alignment, plus cosmetic dents and scratches, but the VIN and title document are not shown; confirm ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent inspection before payment.",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03",
       "newToday": false
     },
     {
@@ -52,9 +52,9 @@
       "verdict": "Low mileage, AWD and good-era crashworthiness make it promising, but records and title evidence are thin",
       "note": "The live individual listing shows $4,000, 104,000 miles, a manual transmission, six exact-car photos and a private seller in Orange. The VIN and title status are not shown and the maintenance claim is vague, so verify seller ownership, title and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent timing-belt, cooling-system, clutch and rust inspection before payment.",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "newToday": false,
-      "lastChecked": "2026-11-02"
+      "lastChecked": "2026-11-03"
     },
     {
       "rank": 3,
@@ -79,12 +79,39 @@
       "verdict": "Useful mileage, standard stability control and flexible space, with rust and recall verification deciding whether it is truly sound",
       "note": "The live individual listing shows $4,250, 104,632 miles, an automatic transmission, a current Connecticut emissions claim, ten exact-car photos and separate winter and summer tire sets. The VIN, title evidence and service history are not shown; verify ownership and lien status, obtain the VIN for history and recall checks, price insurance, and require an independent rust, suspension, transmission and safety-system inspection before payment.",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03",
       "newToday": false
     },
     {
       "rank": 4,
+      "year": 2021,
+      "make": "Mitsubishi",
+      "model": "Mirage",
+      "trim": "LE Hatchback 4D · automatic · FWD",
+      "price": 5000,
+      "miles": 92464,
+      "source": "Facebook Marketplace · private party",
+      "town": "Gardner, MA",
+      "vin": null,
+      "listingId": "1109671175039381",
+      "url": "https://www.facebook.com/marketplace/item/1109671175039381/",
+      "image": "/cars/facebook/mirage-2021-nov3.jpg",
+      "tag": "Newer low-mileage private-party lead",
+      "reliabilityLevel": "Stronger with records",
+      "reliability": "The 1.2L three-cylinder is mechanically simple and generally inexpensive to service, but the automatic uses a CVT and the listing provides no maintenance records. At 92,464 miles, verify CVT-fluid service and inspect for shudder or delayed engagement, then check the cooling system, brakes, suspension, tires and Northeast rust.",
+      "safetyLevel": "Average",
+      "safety": "IIHS rated the 2021 Mirage Good in the original moderate-front, side, roof-strength and head-restraint tests, but Marginal in the driver-side small-overlap test. Stability control and multiple airbags were standard; its very small size still raises a protection disadvantage for a novice driver, and the VIN must be checked for recalls.",
+      "safetySource": "https://www.iihs.org/ratings/vehicle/mitsubishi/mirage-4-door-hatchback/2021",
+      "verdict": "The newest and lowest-mileage current private-party lead, with tiny-car crash tradeoffs and undocumented CVT history",
+      "note": "The live individual listing shows $5,000, 92,464 miles, automatic transmission, one owner, paid-off and clean-title claims, and eight exact-car photos. The description still says $6,000 OBO despite the displayed $5,000 price, and no VIN or service records are shown; confirm the written price, ownership and lien status, obtain the VIN for history and recalls, price insurance, and require an independent CVT and structural inspection before payment.",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03",
+      "newToday": true
+    },
+    {
+      "rank": 5,
       "year": 2010,
       "make": "Hyundai",
       "model": "Elantra",
@@ -106,9 +133,9 @@
       "verdict": "Useful mileage and price, with build-date and maintenance checks still needed",
       "note": "The listing shows a clean title, 117,884 miles and no disclosed mechanical issue, but the supporting history is limited. The trim, VIN, build date and service history are not shown, so those items plus an independent inspection are mandatory before purchase.",
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "newToday": false,
-      "lastChecked": "2026-11-02"
+      "lastChecked": "2026-11-03"
     }
   ],
   "seen": [
@@ -121,8 +148,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1960134438485651/",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02"
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
     },
     {
       "listingId": "1818126982856581",
@@ -378,10 +405,10 @@
       "listingId": "903582715806635",
       "vin": null,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/903582715806635/",
-      "lastChecked": "2026-11-02"
+      "lastChecked": "2026-11-03"
     },
     {
       "listingId": "1756411462358328",
@@ -916,8 +943,8 @@
       "listingId": "1705102334281429",
       "vin": null,
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03",
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1705102334281429/"
     },
@@ -1490,8 +1517,8 @@
       "status": "active",
       "url": "https://www.facebook.com/marketplace/item/1564911175633581/",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-02",
-      "lastChecked": "2026-11-02"
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
     },
     {
       "listingId": "4765609056991949",
@@ -2236,6 +2263,126 @@
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-10-31",
       "lastChecked": "2026-10-31"
+    },
+    {
+      "listingId": "1109671175039381",
+      "vin": null,
+      "vehicle": "2021 Mitsubishi Mirage LE Hatchback 4D",
+      "price": 5000,
+      "miles": 92464,
+      "status": "active",
+      "url": "https://www.facebook.com/marketplace/item/1109671175039381/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "4511133425802256",
+      "vin": null,
+      "vehicle": "2013 Volvo C30 T5 Hatchback 2D",
+      "price": 4500,
+      "miles": 162000,
+      "status": "not included; 162,000 miles, a vague maintenance claim, no VIN or service records and turbocharged premium-model repair costs make it weaker than the verified active private-party set",
+      "url": "https://www.facebook.com/marketplace/item/4511133425802256/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "3268434086679442",
+      "vin": null,
+      "vehicle": "2011 Mazda Mazda2 Sport Hatchback 4D",
+      "price": 3200,
+      "miles": 190000,
+      "status": "not included; 190,000 miles and no VIN or service records leave too much drivetrain, suspension and crash-condition uncertainty despite the seller's perfect-condition claim",
+      "url": "https://www.facebook.com/marketplace/item/3268434086679442/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "1510574467644402",
+      "vin": null,
+      "vehicle": "2009 Honda Fit Sport Hatchback 4D",
+      "price": 4200,
+      "miles": 192214,
+      "status": "not included; 192,214 miles, intermittent air conditioning and no VIN or service history make it a weaker and higher-repair-risk choice than the active private-party cars",
+      "url": "https://www.facebook.com/marketplace/item/1510574467644402/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "1742152860207630",
+      "vin": null,
+      "vehicle": "2009 Toyota Corolla LE Sedan 4D",
+      "price": 4900,
+      "miles": 136000,
+      "status": "not included; the seller discloses that the front suspension needs attention, leaving an unresolved steering and roadworthiness issue at nearly the full price ceiling",
+      "url": "https://www.facebook.com/marketplace/item/1742152860207630/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "1629874702107437",
+      "vin": null,
+      "vehicle": "2006 Honda Accord EX Sedan 4D",
+      "price": 4000,
+      "miles": 254000,
+      "status": "not included; 254,000 miles and disclosed body rust create excessive wear, structural and repair uncertainty for a 16-year-old driver",
+      "url": "https://www.facebook.com/marketplace/item/1629874702107437/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "1970591293806046",
+      "vin": null,
+      "vehicle": "2011 Kia Soul + Wagon 4D",
+      "price": 3699,
+      "miles": 91800,
+      "status": "not included; the 10-week-old Worcester listing is outside the practical roughly-one-hour search area and provides no VIN for theft-insurance and recall checks",
+      "url": "https://www.facebook.com/marketplace/item/1970591293806046/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "3085695184934547",
+      "vin": null,
+      "vehicle": "2012 Subaru Forester 2.5X Limited",
+      "price": 4449,
+      "miles": 180235,
+      "status": "not included; 180,235 miles, known oil-consumption exposure for this engine generation, a vague tune-up claim and no VIN or records create excessive mechanical risk",
+      "url": "https://www.facebook.com/marketplace/item/3085695184934547/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "2018350255514833",
+      "vin": null,
+      "vehicle": "2009 Honda Civic EX Sedan 4D",
+      "price": 1500,
+      "miles": 209000,
+      "status": "not included; the seller says it needs work and has developed an unresolved noise, so the exact car has a major unverified mechanical defect",
+      "url": "https://www.facebook.com/marketplace/item/2018350255514833/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "listingId": "1640634551112465",
+      "vin": "4T1BB46K39U093147",
+      "vehicle": "2009 Toyota Camry Hybrid Sedan 4D",
+      "price": 4500,
+      "miles": 186000,
+      "status": "not included; 186,000 miles and no hybrid-battery, brake-actuator or service history leave substantial high-cost repair exposure",
+      "url": "https://www.facebook.com/marketplace/item/1640634551112465/",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
     }
   ],
   "withheld": [

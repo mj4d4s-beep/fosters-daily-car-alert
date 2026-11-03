@@ -19,7 +19,7 @@ test("server-renders the complete daily alert", async () => {
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
-  assert.match(html, /Dealer and Facebook Listings for Foster’s Car Search — November 2, 2026/);
+  assert.match(html, /Dealer and Facebook Listings for Foster’s Car Search — November 3, 2026/);
   assert.match(html, /Dealer and Facebook Listings/);
   assert.match(html, /SHUTESBURY \/ AMHERST, MASSACHUSETTS/);
   assert.doesNotMatch(html, /Leverett/i);
@@ -47,7 +47,9 @@ test("server-renders the complete daily alert", async () => {
   assert.doesNotMatch(html, /3447277958806939/);
   assert.match(html, /2010.*Mazda.*Mazda5/s);
   assert.match(html, /1960134438485651/);
-  assert.equal((html.match(/<article/g) ?? []).length, 14);
+  assert.match(html, /2021.*Mitsubishi.*Mirage/s);
+  assert.match(html, /1109671175039381/);
+  assert.equal((html.match(/<article/g) ?? []).length, 15);
   assert.doesNotMatch(html, /1758287555273754/);
   assert.equal((html.match(/class="car-card[^"]* winner"/g) ?? []).length, 2);
 });
